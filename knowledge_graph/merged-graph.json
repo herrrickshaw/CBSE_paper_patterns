@@ -1,0 +1,3977 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "hyperedges": [
+      {
+        "id": "political_science_core_topics",
+        "label": "Political Science Core Topics",
+        "nodes": [
+          "topics_political_science_its_economy",
+          "topics_political_science_steps_taken",
+          "topics_political_science_united_nations"
+        ],
+        "relation": "participate_in",
+        "confidence": "EXTRACTED",
+        "confidence_score": 0.9,
+        "source_file": "subjects/political_science.md"
+      },
+      {
+        "id": "cbse_question_formats",
+        "label": "CBSE Class 12 Question Formats",
+        "nodes": [
+          "question_types_assertion_reason",
+          "question_types_figure_only",
+          "question_types_map",
+          "question_types_matching",
+          "question_types_mcq",
+          "question_types_ordering",
+          "question_types_source_based",
+          "question_types_subjective",
+          "question_types_two_statement"
+        ],
+        "relation": "form",
+        "confidence": "INFERRED",
+        "confidence_score": 0.8,
+        "source_file": "question_types/assertion_reason.md"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "label": "Assertion-Reason",
+      "file_type": "concept",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 1,
+      "norm_label": "assertion-reason",
+      "repo": "accountancy",
+      "local_id": "question_types_assertion_reason",
+      "id": "accountancy::question_types_assertion_reason"
+    },
+    {
+      "label": "Figure-Only",
+      "file_type": "concept",
+      "source_file": "question_types/figure_only.md",
+      "community": 6,
+      "norm_label": "figure-only",
+      "repo": "accountancy",
+      "local_id": "question_types_figure_only",
+      "id": "accountancy::question_types_figure_only"
+    },
+    {
+      "label": "Map",
+      "file_type": "concept",
+      "source_file": "question_types/map.md",
+      "community": 7,
+      "norm_label": "map",
+      "repo": "accountancy",
+      "local_id": "question_types_map",
+      "id": "accountancy::question_types_map"
+    },
+    {
+      "label": "Matching",
+      "file_type": "concept",
+      "source_file": "question_types/matching.md",
+      "community": 8,
+      "norm_label": "matching",
+      "repo": "accountancy",
+      "local_id": "question_types_matching",
+      "id": "accountancy::question_types_matching"
+    },
+    {
+      "label": "MCQ",
+      "file_type": "concept",
+      "source_file": "question_types/mcq.md",
+      "community": 1,
+      "norm_label": "mcq",
+      "repo": "accountancy",
+      "local_id": "question_types_mcq",
+      "id": "accountancy::question_types_mcq"
+    },
+    {
+      "label": "Ordering",
+      "file_type": "concept",
+      "source_file": "question_types/ordering.md",
+      "community": 9,
+      "norm_label": "ordering",
+      "repo": "accountancy",
+      "local_id": "question_types_ordering",
+      "id": "accountancy::question_types_ordering"
+    },
+    {
+      "label": "Source-Based",
+      "file_type": "concept",
+      "source_file": "question_types/source_based.md",
+      "community": 10,
+      "norm_label": "source-based",
+      "repo": "accountancy",
+      "local_id": "question_types_source_based",
+      "id": "accountancy::question_types_source_based"
+    },
+    {
+      "label": "Subjective",
+      "file_type": "concept",
+      "source_file": "question_types/subjective.md",
+      "community": 1,
+      "norm_label": "subjective",
+      "repo": "accountancy",
+      "local_id": "question_types_subjective",
+      "id": "accountancy::question_types_subjective"
+    },
+    {
+      "label": "Two-Statement",
+      "file_type": "concept",
+      "source_file": "question_types/two_statement.md",
+      "community": 11,
+      "norm_label": "two-statement",
+      "repo": "accountancy",
+      "local_id": "question_types_two_statement",
+      "id": "accountancy::question_types_two_statement"
+    },
+    {
+      "label": "Accountancy",
+      "file_type": "concept",
+      "source_file": "subjects/accountancy.md",
+      "community": 1,
+      "norm_label": "accountancy",
+      "repo": "accountancy",
+      "local_id": "subjects_accountancy",
+      "id": "accountancy::subjects_accountancy"
+    },
+    {
+      "label": "Balance Sheet",
+      "file_type": "concept",
+      "source_file": "topics/accountancy__balance_sheet.md",
+      "community": 1,
+      "norm_label": "balance sheet",
+      "repo": "accountancy",
+      "local_id": "topics_accountancy_balance_sheet",
+      "id": "accountancy::topics_accountancy_balance_sheet"
+    },
+    {
+      "label": "Calculate Cash",
+      "file_type": "concept",
+      "source_file": "topics/accountancy__calculate_cash.md",
+      "community": 1,
+      "norm_label": "calculate cash",
+      "repo": "accountancy",
+      "local_id": "topics_accountancy_calculate_cash",
+      "id": "accountancy::topics_accountancy_calculate_cash"
+    },
+    {
+      "label": "Firm Sharing Profits",
+      "file_type": "concept",
+      "source_file": "topics/accountancy__firm_sharing_profits.md",
+      "community": 12,
+      "norm_label": "firm sharing profits",
+      "repo": "accountancy",
+      "local_id": "topics_accountancy_firm_sharing_profits",
+      "id": "accountancy::topics_accountancy_firm_sharing_profits"
+    },
+    {
+      "label": "Firm Was Dissolved",
+      "file_type": "concept",
+      "source_file": "topics/accountancy__firm_was_dissolved.md",
+      "community": 2,
+      "norm_label": "firm was dissolved",
+      "repo": "accountancy",
+      "local_id": "topics_accountancy_firm_was_dissolved",
+      "id": "accountancy::topics_accountancy_firm_was_dissolved"
+    },
+    {
+      "label": "His Share",
+      "file_type": "concept",
+      "source_file": "topics/accountancy__his_share.md",
+      "community": 13,
+      "norm_label": "his share",
+      "repo": "accountancy",
+      "local_id": "topics_accountancy_his_share",
+      "id": "accountancy::topics_accountancy_his_share"
+    },
+    {
+      "label": "Investing Activities",
+      "file_type": "concept",
+      "source_file": "topics/accountancy__investing_activities.md",
+      "community": 3,
+      "norm_label": "investing activities",
+      "repo": "accountancy",
+      "local_id": "topics_accountancy_investing_activities",
+      "id": "accountancy::topics_accountancy_investing_activities"
+    },
+    {
+      "label": "New Profit",
+      "file_type": "concept",
+      "source_file": "topics/accountancy__new_profit.md",
+      "community": 4,
+      "norm_label": "new profit",
+      "repo": "accountancy",
+      "local_id": "topics_accountancy_new_profit",
+      "id": "accountancy::topics_accountancy_new_profit"
+    },
+    {
+      "label": "Partners Firm",
+      "file_type": "concept",
+      "source_file": "topics/accountancy__partners_firm.md",
+      "community": 5,
+      "norm_label": "partners firm",
+      "repo": "accountancy",
+      "local_id": "topics_accountancy_partners_firm",
+      "id": "accountancy::topics_accountancy_partners_firm"
+    },
+    {
+      "label": "Profit Sharing Ratio",
+      "file_type": "concept",
+      "source_file": "topics/accountancy__profit_sharing_ratio.md",
+      "community": 14,
+      "norm_label": "profit sharing ratio",
+      "repo": "accountancy",
+      "local_id": "topics_accountancy_profit_sharing_ratio",
+      "id": "accountancy::topics_accountancy_profit_sharing_ratio"
+    },
+    {
+      "label": "Unit 4. Cash Flow Statement",
+      "file_type": "concept",
+      "source_file": "units/accountancy__unit_4_cash_flow_statement.md",
+      "community": 1,
+      "norm_label": "unit 4. cash flow statement",
+      "repo": "accountancy",
+      "local_id": "units_accountancy_unit_4_cash_flow_statement",
+      "id": "accountancy::units_accountancy_unit_4_cash_flow_statement"
+    },
+    {
+      "label": "Exam Year 2022",
+      "file_type": "document",
+      "source_file": "years/2022.md",
+      "community": 2,
+      "norm_label": "exam year 2022",
+      "repo": "accountancy",
+      "local_id": "years_2022",
+      "id": "accountancy::years_2022"
+    },
+    {
+      "label": "Exam Year 2023",
+      "file_type": "document",
+      "source_file": "years/2023.md",
+      "community": 5,
+      "norm_label": "exam year 2023",
+      "repo": "accountancy",
+      "local_id": "years_2023",
+      "id": "accountancy::years_2023"
+    },
+    {
+      "label": "Exam Year 2024",
+      "file_type": "document",
+      "source_file": "years/2024.md",
+      "community": 1,
+      "norm_label": "exam year 2024",
+      "repo": "accountancy",
+      "local_id": "years_2024",
+      "id": "accountancy::years_2024"
+    },
+    {
+      "label": "Exam Year 2025",
+      "file_type": "document",
+      "source_file": "years/2025.md",
+      "community": 3,
+      "norm_label": "exam year 2025",
+      "repo": "accountancy",
+      "local_id": "years_2025",
+      "id": "accountancy::years_2025"
+    },
+    {
+      "label": "Exam Year 2026",
+      "file_type": "document",
+      "source_file": "years/2026.md",
+      "community": 4,
+      "norm_label": "exam year 2026",
+      "repo": "accountancy",
+      "local_id": "years_2026",
+      "id": "accountancy::years_2026"
+    },
+    {
+      "label": "Accountancy CBSE Class 12",
+      "file_type": "concept",
+      "source_file": "units/accountancy__unit_1_accounting_for_partnership_firms.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 0,
+      "norm_label": "accountancy cbse class 12",
+      "repo": "accountancy",
+      "local_id": "accountancy_cbse_class_12",
+      "id": "accountancy::accountancy_cbse_class_12"
+    },
+    {
+      "label": "Unit 1. Accounting for Partnership Firms",
+      "file_type": "document",
+      "source_file": "units/accountancy__unit_1_accounting_for_partnership_firms.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 0,
+      "norm_label": "unit 1. accounting for partnership firms",
+      "repo": "accountancy",
+      "local_id": "units_accountancy_unit_1_accounting_for_partnership_firms_unit_1_accounting_for_partnership_firms",
+      "id": "accountancy::units_accountancy_unit_1_accounting_for_partnership_firms_unit_1_accounting_for_partnership_firms"
+    },
+    {
+      "label": "Unit-1: Theoretical Framework",
+      "file_type": "document",
+      "source_file": "units/accountancy__unit_1_theoretical_framework.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 0,
+      "norm_label": "unit-1: theoretical framework",
+      "repo": "accountancy",
+      "local_id": "units_accountancy_unit_1_theoretical_framework_unit_1_theoretical_framework",
+      "id": "accountancy::units_accountancy_unit_1_theoretical_framework_unit_1_theoretical_framework"
+    },
+    {
+      "label": "Unit 2. Accounting for Companies",
+      "file_type": "document",
+      "source_file": "units/accountancy__unit_2_accounting_for_companies.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 0,
+      "norm_label": "unit 2. accounting for companies",
+      "repo": "accountancy",
+      "local_id": "units_accountancy_unit_2_accounting_for_companies_unit_2_accounting_for_companies",
+      "id": "accountancy::units_accountancy_unit_2_accounting_for_companies_unit_2_accounting_for_companies"
+    },
+    {
+      "label": "Unit-2: Accounting Process",
+      "file_type": "document",
+      "source_file": "units/accountancy__unit_2_accounting_process.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 0,
+      "norm_label": "unit-2: accounting process",
+      "repo": "accountancy",
+      "local_id": "units_accountancy_unit_2_accounting_process_unit_2_accounting_process",
+      "id": "accountancy::units_accountancy_unit_2_accounting_process_unit_2_accounting_process"
+    },
+    {
+      "label": "Unit 3. Analysis of Financial Statements",
+      "file_type": "document",
+      "source_file": "units/accountancy__unit_3_analysis_of_financial_statements.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 0,
+      "norm_label": "unit 3. analysis of financial statements",
+      "repo": "accountancy",
+      "local_id": "units_accountancy_unit_3_analysis_of_financial_statements_unit_3_analysis_of_financial_statements",
+      "id": "accountancy::units_accountancy_unit_3_analysis_of_financial_statements_unit_3_analysis_of_financial_statements"
+    },
+    {
+      "label": "Unit-3: Financial Statements of Sole Proprietorship",
+      "file_type": "document",
+      "source_file": "units/accountancy__unit_3_financial_statements_of_sole_proprietorship.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 0,
+      "norm_label": "unit-3: financial statements of sole proprietorship",
+      "repo": "accountancy",
+      "local_id": "units_accountancy_unit_3_financial_statements_of_sole_proprietorship_unit_3_financial_statements_of_sole_proprietorship",
+      "id": "accountancy::units_accountancy_unit_3_financial_statements_of_sole_proprietorship_unit_3_financial_statements_of_sole_proprietorship"
+    },
+    {
+      "label": "Unit 4. Computerized Accounting",
+      "file_type": "document",
+      "source_file": "units/accountancy__unit_4_computerized_accounting.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 0,
+      "norm_label": "unit 4. computerized accounting",
+      "repo": "accountancy",
+      "local_id": "units_accountancy_unit_4_computerized_accounting_unit_4_computerized_accounting",
+      "id": "accountancy::units_accountancy_unit_4_computerized_accounting_unit_4_computerized_accounting"
+    },
+    {
+      "label": "Assertion-Reason",
+      "file_type": "concept",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 0,
+      "norm_label": "assertion-reason",
+      "repo": "biology",
+      "local_id": "question_types_assertion_reason",
+      "id": "biology::question_types_assertion_reason"
+    },
+    {
+      "label": "Figure-Only",
+      "file_type": "concept",
+      "source_file": "question_types/figure_only.md",
+      "community": 2,
+      "norm_label": "figure-only",
+      "repo": "biology",
+      "local_id": "question_types_figure_only",
+      "id": "biology::question_types_figure_only"
+    },
+    {
+      "label": "Map",
+      "file_type": "concept",
+      "source_file": "question_types/map.md",
+      "community": 3,
+      "norm_label": "map",
+      "repo": "biology",
+      "local_id": "question_types_map",
+      "id": "biology::question_types_map"
+    },
+    {
+      "label": "Matching",
+      "file_type": "concept",
+      "source_file": "question_types/matching.md",
+      "community": 4,
+      "norm_label": "matching",
+      "repo": "biology",
+      "local_id": "question_types_matching",
+      "id": "biology::question_types_matching"
+    },
+    {
+      "label": "MCQ",
+      "file_type": "concept",
+      "source_file": "question_types/mcq.md",
+      "community": 5,
+      "norm_label": "mcq",
+      "repo": "biology",
+      "local_id": "question_types_mcq",
+      "id": "biology::question_types_mcq"
+    },
+    {
+      "label": "Ordering",
+      "file_type": "concept",
+      "source_file": "question_types/ordering.md",
+      "community": 6,
+      "norm_label": "ordering",
+      "repo": "biology",
+      "local_id": "question_types_ordering",
+      "id": "biology::question_types_ordering"
+    },
+    {
+      "label": "Source-Based",
+      "file_type": "concept",
+      "source_file": "question_types/source_based.md",
+      "community": 7,
+      "norm_label": "source-based",
+      "repo": "biology",
+      "local_id": "question_types_source_based",
+      "id": "biology::question_types_source_based"
+    },
+    {
+      "label": "Subjective",
+      "file_type": "concept",
+      "source_file": "question_types/subjective.md",
+      "community": 8,
+      "norm_label": "subjective",
+      "repo": "biology",
+      "local_id": "question_types_subjective",
+      "id": "biology::question_types_subjective"
+    },
+    {
+      "label": "Two-Statement",
+      "file_type": "concept",
+      "source_file": "question_types/two_statement.md",
+      "community": 9,
+      "norm_label": "two-statement",
+      "repo": "biology",
+      "local_id": "question_types_two_statement",
+      "id": "biology::question_types_two_statement"
+    },
+    {
+      "label": "Biology",
+      "file_type": "concept",
+      "source_file": "subjects/biology.md",
+      "community": 0,
+      "norm_label": "biology",
+      "repo": "biology",
+      "local_id": "subjects_biology",
+      "id": "biology::subjects_biology"
+    },
+    {
+      "label": "Embryo Sac",
+      "file_type": "concept",
+      "source_file": "topics/biology__embryo_sac.md",
+      "community": 1,
+      "norm_label": "embryo sac",
+      "repo": "biology",
+      "local_id": "topics_biology_embryo_sac",
+      "id": "biology::topics_biology_embryo_sac"
+    },
+    {
+      "label": "Exam Year 2022",
+      "file_type": "concept",
+      "source_file": "years/2022.md",
+      "community": 10,
+      "norm_label": "exam year 2022",
+      "repo": "biology",
+      "local_id": "years_2022",
+      "id": "biology::years_2022"
+    },
+    {
+      "label": "Exam Year 2023",
+      "file_type": "concept",
+      "source_file": "years/2023.md",
+      "community": 1,
+      "norm_label": "exam year 2023",
+      "repo": "biology",
+      "local_id": "years_2023",
+      "id": "biology::years_2023"
+    },
+    {
+      "label": "Exam Year 2024",
+      "file_type": "concept",
+      "source_file": "years/2024.md",
+      "community": 0,
+      "norm_label": "exam year 2024",
+      "repo": "biology",
+      "local_id": "years_2024",
+      "id": "biology::years_2024"
+    },
+    {
+      "label": "Exam Year 2025",
+      "file_type": "concept",
+      "source_file": "years/2025.md",
+      "community": 1,
+      "norm_label": "exam year 2025",
+      "repo": "biology",
+      "local_id": "years_2025",
+      "id": "biology::years_2025"
+    },
+    {
+      "label": "Exam Year 2026",
+      "file_type": "concept",
+      "source_file": "years/2026.md",
+      "community": 11,
+      "norm_label": "exam year 2026",
+      "repo": "biology",
+      "local_id": "years_2026",
+      "id": "biology::years_2026"
+    },
+    {
+      "label": "Assertion-Reason Question Type",
+      "file_type": "document",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 3,
+      "norm_label": "assertion-reason question type",
+      "repo": "business_studies",
+      "local_id": "question_types_assertion_reason",
+      "id": "business_studies::question_types_assertion_reason"
+    },
+    {
+      "label": "Figure-Only Question Type",
+      "file_type": "document",
+      "source_file": "question_types/figure_only.md",
+      "community": 4,
+      "norm_label": "figure-only question type",
+      "repo": "business_studies",
+      "local_id": "question_types_figure_only",
+      "id": "business_studies::question_types_figure_only"
+    },
+    {
+      "label": "Map Question Type",
+      "file_type": "document",
+      "source_file": "question_types/map.md",
+      "community": 5,
+      "norm_label": "map question type",
+      "repo": "business_studies",
+      "local_id": "question_types_map",
+      "id": "business_studies::question_types_map"
+    },
+    {
+      "label": "Matching Question Type",
+      "file_type": "document",
+      "source_file": "question_types/matching.md",
+      "community": 6,
+      "norm_label": "matching question type",
+      "repo": "business_studies",
+      "local_id": "question_types_matching",
+      "id": "business_studies::question_types_matching"
+    },
+    {
+      "label": "MCQ Question Type",
+      "file_type": "document",
+      "source_file": "question_types/mcq.md",
+      "community": 7,
+      "norm_label": "mcq question type",
+      "repo": "business_studies",
+      "local_id": "question_types_mcq",
+      "id": "business_studies::question_types_mcq"
+    },
+    {
+      "label": "Ordering Question Type",
+      "file_type": "document",
+      "source_file": "question_types/ordering.md",
+      "community": 8,
+      "norm_label": "ordering question type",
+      "repo": "business_studies",
+      "local_id": "question_types_ordering",
+      "id": "business_studies::question_types_ordering"
+    },
+    {
+      "label": "Source-Based Question Type",
+      "file_type": "document",
+      "source_file": "question_types/source_based.md",
+      "community": 9,
+      "norm_label": "source-based question type",
+      "repo": "business_studies",
+      "local_id": "question_types_source_based",
+      "id": "business_studies::question_types_source_based"
+    },
+    {
+      "label": "Subjective Question Type",
+      "file_type": "document",
+      "source_file": "question_types/subjective.md",
+      "community": 10,
+      "norm_label": "subjective question type",
+      "repo": "business_studies",
+      "local_id": "question_types_subjective",
+      "id": "business_studies::question_types_subjective"
+    },
+    {
+      "label": "Two-Statement Question Type",
+      "file_type": "document",
+      "source_file": "question_types/two_statement.md",
+      "community": 11,
+      "norm_label": "two-statement question type",
+      "repo": "business_studies",
+      "local_id": "question_types_two_statement",
+      "id": "business_studies::question_types_two_statement"
+    },
+    {
+      "label": "Business Studies",
+      "file_type": "document",
+      "source_file": "subjects/business_studies.md",
+      "community": 0,
+      "norm_label": "business studies",
+      "repo": "business_studies",
+      "local_id": "subjects_business_studies",
+      "id": "business_studies::subjects_business_studies"
+    },
+    {
+      "label": "Factors Affecting",
+      "file_type": "concept",
+      "source_file": "topics/business_studies__factors_affecting.md",
+      "community": 1,
+      "norm_label": "factors affecting",
+      "repo": "business_studies",
+      "local_id": "topics_business_studies_factors_affecting",
+      "id": "business_studies::topics_business_studies_factors_affecting"
+    },
+    {
+      "label": "Function Management",
+      "file_type": "concept",
+      "source_file": "topics/business_studies__function_management.md",
+      "community": 2,
+      "norm_label": "function management",
+      "repo": "business_studies",
+      "local_id": "topics_business_studies_function_management",
+      "id": "business_studies::topics_business_studies_function_management"
+    },
+    {
+      "label": "Importance Planning",
+      "file_type": "concept",
+      "source_file": "topics/business_studies__importance_planning.md",
+      "community": 0,
+      "norm_label": "importance planning",
+      "repo": "business_studies",
+      "local_id": "topics_business_studies_importance_planning",
+      "id": "business_studies::topics_business_studies_importance_planning"
+    },
+    {
+      "label": "Planning Function",
+      "file_type": "concept",
+      "source_file": "topics/business_studies__planning_function.md",
+      "community": 0,
+      "norm_label": "planning function",
+      "repo": "business_studies",
+      "local_id": "topics_business_studies_planning_function",
+      "id": "business_studies::topics_business_studies_planning_function"
+    },
+    {
+      "label": "Exam Year 2022",
+      "file_type": "document",
+      "source_file": "years/2022.md",
+      "community": 12,
+      "norm_label": "exam year 2022",
+      "repo": "business_studies",
+      "local_id": "years_2022",
+      "id": "business_studies::years_2022"
+    },
+    {
+      "label": "Exam Year 2023",
+      "file_type": "document",
+      "source_file": "years/2023.md",
+      "community": 1,
+      "norm_label": "exam year 2023",
+      "repo": "business_studies",
+      "local_id": "years_2023",
+      "id": "business_studies::years_2023"
+    },
+    {
+      "label": "Exam Year 2024",
+      "file_type": "document",
+      "source_file": "years/2024.md",
+      "community": 1,
+      "norm_label": "exam year 2024",
+      "repo": "business_studies",
+      "local_id": "years_2024",
+      "id": "business_studies::years_2024"
+    },
+    {
+      "label": "Exam Year 2025",
+      "file_type": "document",
+      "source_file": "years/2025.md",
+      "community": 2,
+      "norm_label": "exam year 2025",
+      "repo": "business_studies",
+      "local_id": "years_2025",
+      "id": "business_studies::years_2025"
+    },
+    {
+      "label": "Exam Year 2026",
+      "file_type": "document",
+      "source_file": "years/2026.md",
+      "community": 2,
+      "norm_label": "exam year 2026",
+      "repo": "business_studies",
+      "local_id": "years_2026",
+      "id": "business_studies::years_2026"
+    },
+    {
+      "label": "Assertion-Reason Question Type",
+      "file_type": "concept",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 0,
+      "norm_label": "assertion-reason question type",
+      "repo": "chemistry",
+      "local_id": "question_types_assertion_reason",
+      "id": "chemistry::question_types_assertion_reason"
+    },
+    {
+      "label": "Figure-Only Question Type",
+      "file_type": "concept",
+      "source_file": "question_types/figure_only.md",
+      "community": 3,
+      "norm_label": "figure-only question type",
+      "repo": "chemistry",
+      "local_id": "question_types_figure_only",
+      "id": "chemistry::question_types_figure_only"
+    },
+    {
+      "label": "Map Question Type",
+      "file_type": "concept",
+      "source_file": "question_types/map.md",
+      "community": 4,
+      "norm_label": "map question type",
+      "repo": "chemistry",
+      "local_id": "question_types_map",
+      "id": "chemistry::question_types_map"
+    },
+    {
+      "label": "Matching Question Type",
+      "file_type": "concept",
+      "source_file": "question_types/matching.md",
+      "community": 5,
+      "norm_label": "matching question type",
+      "repo": "chemistry",
+      "local_id": "question_types_matching",
+      "id": "chemistry::question_types_matching"
+    },
+    {
+      "label": "MCQ Question Type",
+      "file_type": "concept",
+      "source_file": "question_types/mcq.md",
+      "community": 6,
+      "norm_label": "mcq question type",
+      "repo": "chemistry",
+      "local_id": "question_types_mcq",
+      "id": "chemistry::question_types_mcq"
+    },
+    {
+      "label": "Ordering Question Type",
+      "file_type": "concept",
+      "source_file": "question_types/ordering.md",
+      "community": 7,
+      "norm_label": "ordering question type",
+      "repo": "chemistry",
+      "local_id": "question_types_ordering",
+      "id": "chemistry::question_types_ordering"
+    },
+    {
+      "label": "Source-Based Question Type",
+      "file_type": "concept",
+      "source_file": "question_types/source_based.md",
+      "community": 8,
+      "norm_label": "source-based question type",
+      "repo": "chemistry",
+      "local_id": "question_types_source_based",
+      "id": "chemistry::question_types_source_based"
+    },
+    {
+      "label": "Subjective Question Type",
+      "file_type": "concept",
+      "source_file": "question_types/subjective.md",
+      "community": 0,
+      "norm_label": "subjective question type",
+      "repo": "chemistry",
+      "local_id": "question_types_subjective",
+      "id": "chemistry::question_types_subjective"
+    },
+    {
+      "label": "Two-Statement Question Type",
+      "file_type": "concept",
+      "source_file": "question_types/two_statement.md",
+      "community": 9,
+      "norm_label": "two-statement question type",
+      "repo": "chemistry",
+      "local_id": "question_types_two_statement",
+      "id": "chemistry::question_types_two_statement"
+    },
+    {
+      "label": "Chemistry",
+      "file_type": "concept",
+      "source_file": "subjects/chemistry.md",
+      "community": 0,
+      "norm_label": "chemistry",
+      "repo": "chemistry",
+      "local_id": "subjects_chemistry",
+      "id": "chemistry::subjects_chemistry"
+    },
+    {
+      "label": "Electrode Potential",
+      "file_type": "concept",
+      "source_file": "topics/chemistry__electrode_potential.md",
+      "community": 1,
+      "norm_label": "electrode potential",
+      "repo": "chemistry",
+      "local_id": "topics_chemistry_electrode_potential",
+      "id": "chemistry::topics_chemistry_electrode_potential"
+    },
+    {
+      "label": "EMF of the Following Cell",
+      "file_type": "concept",
+      "source_file": "topics/chemistry__emf_the_following_cell.md",
+      "community": 2,
+      "norm_label": "emf of the following cell",
+      "repo": "chemistry",
+      "local_id": "topics_chemistry_emf_the_following_cell",
+      "id": "chemistry::topics_chemistry_emf_the_following_cell"
+    },
+    {
+      "label": "Exam Year 2022",
+      "file_type": "concept",
+      "source_file": "years/2022.md",
+      "community": 10,
+      "norm_label": "exam year 2022",
+      "repo": "chemistry",
+      "local_id": "years_2022",
+      "id": "chemistry::years_2022"
+    },
+    {
+      "label": "Exam Year 2023",
+      "file_type": "concept",
+      "source_file": "years/2023.md",
+      "community": 1,
+      "norm_label": "exam year 2023",
+      "repo": "chemistry",
+      "local_id": "years_2023",
+      "id": "chemistry::years_2023"
+    },
+    {
+      "label": "Exam Year 2024",
+      "file_type": "concept",
+      "source_file": "years/2024.md",
+      "community": 2,
+      "norm_label": "exam year 2024",
+      "repo": "chemistry",
+      "local_id": "years_2024",
+      "id": "chemistry::years_2024"
+    },
+    {
+      "label": "Exam Year 2025",
+      "file_type": "concept",
+      "source_file": "years/2025.md",
+      "community": 2,
+      "norm_label": "exam year 2025",
+      "repo": "chemistry",
+      "local_id": "years_2025",
+      "id": "chemistry::years_2025"
+    },
+    {
+      "label": "Exam Year 2026",
+      "file_type": "concept",
+      "source_file": "years/2026.md",
+      "community": 1,
+      "norm_label": "exam year 2026",
+      "repo": "chemistry",
+      "local_id": "years_2026",
+      "id": "chemistry::years_2026"
+    },
+    {
+      "label": "Assertion-Reason",
+      "file_type": "concept",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 0,
+      "norm_label": "assertion-reason",
+      "repo": "economics",
+      "local_id": "question_types_assertion_reason",
+      "id": "economics::question_types_assertion_reason"
+    },
+    {
+      "label": "Figure-Only",
+      "file_type": "concept",
+      "source_file": "question_types/figure_only.md",
+      "community": 0,
+      "norm_label": "figure-only",
+      "repo": "economics",
+      "local_id": "question_types_figure_only",
+      "id": "economics::question_types_figure_only"
+    },
+    {
+      "label": "Map",
+      "file_type": "concept",
+      "source_file": "question_types/map.md",
+      "community": 5,
+      "norm_label": "map",
+      "repo": "economics",
+      "local_id": "question_types_map",
+      "id": "economics::question_types_map"
+    },
+    {
+      "label": "Matching",
+      "file_type": "concept",
+      "source_file": "question_types/matching.md",
+      "community": 6,
+      "norm_label": "matching",
+      "repo": "economics",
+      "local_id": "question_types_matching",
+      "id": "economics::question_types_matching"
+    },
+    {
+      "label": "MCQ",
+      "file_type": "concept",
+      "source_file": "question_types/mcq.md",
+      "community": 0,
+      "norm_label": "mcq",
+      "repo": "economics",
+      "local_id": "question_types_mcq",
+      "id": "economics::question_types_mcq"
+    },
+    {
+      "label": "Ordering",
+      "file_type": "concept",
+      "source_file": "question_types/ordering.md",
+      "community": 0,
+      "norm_label": "ordering",
+      "repo": "economics",
+      "local_id": "question_types_ordering",
+      "id": "economics::question_types_ordering"
+    },
+    {
+      "label": "Source-Based",
+      "file_type": "concept",
+      "source_file": "question_types/source_based.md",
+      "community": 0,
+      "norm_label": "source-based",
+      "repo": "economics",
+      "local_id": "question_types_source_based",
+      "id": "economics::question_types_source_based"
+    },
+    {
+      "label": "Subjective",
+      "file_type": "concept",
+      "source_file": "question_types/subjective.md",
+      "community": 0,
+      "norm_label": "subjective",
+      "repo": "economics",
+      "local_id": "question_types_subjective",
+      "id": "economics::question_types_subjective"
+    },
+    {
+      "label": "Two-Statement",
+      "file_type": "concept",
+      "source_file": "question_types/two_statement.md",
+      "community": 0,
+      "norm_label": "two-statement",
+      "repo": "economics",
+      "local_id": "question_types_two_statement",
+      "id": "economics::question_types_two_statement"
+    },
+    {
+      "label": "Economics",
+      "file_type": "concept",
+      "source_file": "subjects/economics.md",
+      "community": 0,
+      "norm_label": "economics",
+      "repo": "economics",
+      "local_id": "subjects_economics",
+      "id": "economics::subjects_economics"
+    },
+    {
+      "label": "Aggregate Demand",
+      "file_type": "concept",
+      "source_file": "topics/economics__aggregate_demand.md",
+      "community": 4,
+      "norm_label": "aggregate demand",
+      "repo": "economics",
+      "local_id": "topics_economics_aggregate_demand",
+      "id": "economics::topics_economics_aggregate_demand"
+    },
+    {
+      "label": "Central Bank",
+      "file_type": "concept",
+      "source_file": "topics/economics__central_bank.md",
+      "community": 3,
+      "norm_label": "central bank",
+      "repo": "economics",
+      "local_id": "topics_economics_central_bank",
+      "id": "economics::topics_economics_central_bank"
+    },
+    {
+      "label": "Commercial Banks",
+      "file_type": "concept",
+      "source_file": "topics/economics__commercial_banks.md",
+      "community": 1,
+      "norm_label": "commercial banks",
+      "repo": "economics",
+      "local_id": "topics_economics_commercial_banks",
+      "id": "economics::topics_economics_commercial_banks"
+    },
+    {
+      "label": "Fill the Blank",
+      "file_type": "concept",
+      "source_file": "topics/economics__fill_the_blank.md",
+      "community": 1,
+      "norm_label": "fill the blank",
+      "repo": "economics",
+      "local_id": "topics_economics_fill_the_blank",
+      "id": "economics::topics_economics_fill_the_blank"
+    },
+    {
+      "label": "Government India",
+      "file_type": "concept",
+      "source_file": "topics/economics__government_india.md",
+      "community": 1,
+      "norm_label": "government india",
+      "repo": "economics",
+      "local_id": "topics_economics_government_india",
+      "id": "economics::topics_economics_government_india"
+    },
+    {
+      "label": "Hypothetical Economy",
+      "file_type": "concept",
+      "source_file": "topics/economics__hypothetical_economy.md",
+      "community": 1,
+      "norm_label": "hypothetical economy",
+      "repo": "economics",
+      "local_id": "topics_economics_hypothetical_economy",
+      "id": "economics::topics_economics_hypothetical_economy"
+    },
+    {
+      "label": "Reserve Bank India",
+      "file_type": "concept",
+      "source_file": "topics/economics__reserve_bank_india.md",
+      "community": 3,
+      "norm_label": "reserve bank india",
+      "repo": "economics",
+      "local_id": "topics_economics_reserve_bank_india",
+      "id": "economics::topics_economics_reserve_bank_india"
+    },
+    {
+      "label": "Valid Arguments",
+      "file_type": "concept",
+      "source_file": "topics/economics__valid_arguments.md",
+      "community": 1,
+      "norm_label": "valid arguments",
+      "repo": "economics",
+      "local_id": "topics_economics_valid_arguments",
+      "id": "economics::topics_economics_valid_arguments"
+    },
+    {
+      "label": "Exam Year 2022",
+      "file_type": "concept",
+      "source_file": "years/2022.md",
+      "community": 4,
+      "norm_label": "exam year 2022",
+      "repo": "economics",
+      "local_id": "years_2022",
+      "id": "economics::years_2022"
+    },
+    {
+      "label": "Exam Year 2023",
+      "file_type": "concept",
+      "source_file": "years/2023.md",
+      "community": 3,
+      "norm_label": "exam year 2023",
+      "repo": "economics",
+      "local_id": "years_2023",
+      "id": "economics::years_2023"
+    },
+    {
+      "label": "Exam Year 2024",
+      "file_type": "concept",
+      "source_file": "years/2024.md",
+      "community": 3,
+      "norm_label": "exam year 2024",
+      "repo": "economics",
+      "local_id": "years_2024",
+      "id": "economics::years_2024"
+    },
+    {
+      "label": "Exam Year 2025",
+      "file_type": "concept",
+      "source_file": "years/2025.md",
+      "community": 1,
+      "norm_label": "exam year 2025",
+      "repo": "economics",
+      "local_id": "years_2025",
+      "id": "economics::years_2025"
+    },
+    {
+      "label": "Exam Year 2026",
+      "file_type": "concept",
+      "source_file": "years/2026.md",
+      "community": 1,
+      "norm_label": "exam year 2026",
+      "repo": "economics",
+      "local_id": "years_2026",
+      "id": "economics::years_2026"
+    },
+    {
+      "label": "basis the following data",
+      "file_type": "concept",
+      "source_file": "topics/economics__basis_the_following_data.md",
+      "community": 2,
+      "norm_label": "basis the following data",
+      "repo": "economics",
+      "local_id": "topics_economics__basis_the_following_data_basis_the_following_data",
+      "id": "economics::topics_economics__basis_the_following_data_basis_the_following_data"
+    },
+    {
+      "label": "gross value added",
+      "file_type": "concept",
+      "source_file": "topics/economics__gross_value_added.md",
+      "community": 2,
+      "norm_label": "gross value added",
+      "repo": "economics",
+      "local_id": "topics_economics__gross_value_added_gross_value_added",
+      "id": "economics::topics_economics__gross_value_added_gross_value_added"
+    },
+    {
+      "label": "likely impact",
+      "file_type": "concept",
+      "source_file": "topics/economics__likely_impact.md",
+      "community": 2,
+      "norm_label": "likely impact",
+      "repo": "economics",
+      "local_id": "topics_economics__likely_impact_likely_impact",
+      "id": "economics::topics_economics__likely_impact_likely_impact"
+    },
+    {
+      "label": "market price",
+      "file_type": "concept",
+      "source_file": "topics/economics__market_price.md",
+      "community": 2,
+      "norm_label": "market price",
+      "repo": "economics",
+      "local_id": "topics_economics__market_price_market_price",
+      "id": "economics::topics_economics__market_price_market_price"
+    },
+    {
+      "label": "national income",
+      "file_type": "concept",
+      "source_file": "topics/economics__national_income.md",
+      "community": 2,
+      "norm_label": "national income",
+      "repo": "economics",
+      "local_id": "topics_economics__national_income_national_income",
+      "id": "economics::topics_economics__national_income_national_income"
+    },
+    {
+      "label": "CBSE Class 12 Economics",
+      "file_type": "concept",
+      "source_file": "topics/economics__basis_the_following_data.md",
+      "community": 2,
+      "norm_label": "cbse class 12 economics",
+      "repo": "economics",
+      "local_id": "cbse_class_12_economics",
+      "id": "economics::cbse_class_12_economics"
+    },
+    {
+      "label": "Assertion-Reason",
+      "file_type": "concept",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 1,
+      "norm_label": "assertion-reason",
+      "repo": "english_core",
+      "local_id": "question_types_assertion_reason",
+      "id": "english_core::question_types_assertion_reason"
+    },
+    {
+      "label": "Figure-Only",
+      "file_type": "concept",
+      "source_file": "question_types/figure_only.md",
+      "community": 2,
+      "norm_label": "figure-only",
+      "repo": "english_core",
+      "local_id": "question_types_figure_only",
+      "id": "english_core::question_types_figure_only"
+    },
+    {
+      "label": "Map",
+      "file_type": "concept",
+      "source_file": "question_types/map.md",
+      "community": 3,
+      "norm_label": "map",
+      "repo": "english_core",
+      "local_id": "question_types_map",
+      "id": "english_core::question_types_map"
+    },
+    {
+      "label": "Matching",
+      "file_type": "concept",
+      "source_file": "question_types/matching.md",
+      "community": 4,
+      "norm_label": "matching",
+      "repo": "english_core",
+      "local_id": "question_types_matching",
+      "id": "english_core::question_types_matching"
+    },
+    {
+      "label": "MCQ",
+      "file_type": "concept",
+      "source_file": "question_types/mcq.md",
+      "community": 0,
+      "norm_label": "mcq",
+      "repo": "english_core",
+      "local_id": "question_types_mcq",
+      "id": "english_core::question_types_mcq"
+    },
+    {
+      "label": "Ordering",
+      "file_type": "concept",
+      "source_file": "question_types/ordering.md",
+      "community": 5,
+      "norm_label": "ordering",
+      "repo": "english_core",
+      "local_id": "question_types_ordering",
+      "id": "english_core::question_types_ordering"
+    },
+    {
+      "label": "Source-Based",
+      "file_type": "concept",
+      "source_file": "question_types/source_based.md",
+      "community": 0,
+      "norm_label": "source-based",
+      "repo": "english_core",
+      "local_id": "question_types_source_based",
+      "id": "english_core::question_types_source_based"
+    },
+    {
+      "label": "Subjective",
+      "file_type": "concept",
+      "source_file": "question_types/subjective.md",
+      "community": 1,
+      "norm_label": "subjective",
+      "repo": "english_core",
+      "local_id": "question_types_subjective",
+      "id": "english_core::question_types_subjective"
+    },
+    {
+      "label": "Two-Statement",
+      "file_type": "concept",
+      "source_file": "question_types/two_statement.md",
+      "community": 6,
+      "norm_label": "two-statement",
+      "repo": "english_core",
+      "local_id": "question_types_two_statement",
+      "id": "english_core::question_types_two_statement"
+    },
+    {
+      "label": "Chemistry",
+      "file_type": "concept",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 1,
+      "norm_label": "chemistry",
+      "repo": "english_core",
+      "local_id": "subjects_chemistry",
+      "id": "english_core::subjects_chemistry"
+    },
+    {
+      "label": "Biology",
+      "file_type": "concept",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 1,
+      "norm_label": "biology",
+      "repo": "english_core",
+      "local_id": "subjects_biology",
+      "id": "english_core::subjects_biology"
+    },
+    {
+      "label": "Physics",
+      "file_type": "concept",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 2,
+      "norm_label": "physics",
+      "repo": "english_core",
+      "local_id": "subjects_physics",
+      "id": "english_core::subjects_physics"
+    },
+    {
+      "label": "Mathematics",
+      "file_type": "concept",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 2,
+      "norm_label": "mathematics",
+      "repo": "english_core",
+      "local_id": "subjects_mathematics",
+      "id": "english_core::subjects_mathematics"
+    },
+    {
+      "label": "Economics",
+      "file_type": "concept",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 0,
+      "norm_label": "economics",
+      "repo": "english_core",
+      "local_id": "subjects_economics",
+      "id": "english_core::subjects_economics"
+    },
+    {
+      "label": "History",
+      "file_type": "concept",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 4,
+      "norm_label": "history",
+      "repo": "english_core",
+      "local_id": "subjects_history",
+      "id": "english_core::subjects_history"
+    },
+    {
+      "label": "Political Science",
+      "file_type": "concept",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 0,
+      "norm_label": "political science",
+      "repo": "english_core",
+      "local_id": "subjects_political_science",
+      "id": "english_core::subjects_political_science"
+    },
+    {
+      "label": "Geography",
+      "file_type": "concept",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 3,
+      "norm_label": "geography",
+      "repo": "english_core",
+      "local_id": "subjects_geography",
+      "id": "english_core::subjects_geography"
+    },
+    {
+      "label": "Business Studies",
+      "file_type": "concept",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 1,
+      "norm_label": "business studies",
+      "repo": "english_core",
+      "local_id": "subjects_business_studies",
+      "id": "english_core::subjects_business_studies"
+    },
+    {
+      "label": "Accountancy",
+      "file_type": "concept",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 0,
+      "norm_label": "accountancy",
+      "repo": "english_core",
+      "local_id": "subjects_accountancy",
+      "id": "english_core::subjects_accountancy"
+    },
+    {
+      "label": "English Core",
+      "file_type": "concept",
+      "source_file": "subjects/english_core.md",
+      "community": 0,
+      "norm_label": "english core",
+      "repo": "english_core",
+      "local_id": "subjects_english_core",
+      "id": "english_core::subjects_english_core"
+    },
+    {
+      "label": "Exam Year 2022",
+      "file_type": "concept",
+      "source_file": "years/2022.md",
+      "community": 0,
+      "norm_label": "exam year 2022",
+      "repo": "english_core",
+      "local_id": "years_2022",
+      "id": "english_core::years_2022"
+    },
+    {
+      "label": "Exam Year 2023",
+      "file_type": "concept",
+      "source_file": "years/2023.md",
+      "community": 2,
+      "norm_label": "exam year 2023",
+      "repo": "english_core",
+      "local_id": "years_2023",
+      "id": "english_core::years_2023"
+    },
+    {
+      "label": "Exam Year 2024",
+      "file_type": "concept",
+      "source_file": "years/2024.md",
+      "community": 1,
+      "norm_label": "exam year 2024",
+      "repo": "english_core",
+      "local_id": "years_2024",
+      "id": "english_core::years_2024"
+    },
+    {
+      "label": "Exam Year 2025",
+      "file_type": "concept",
+      "source_file": "years/2025.md",
+      "community": 7,
+      "norm_label": "exam year 2025",
+      "repo": "english_core",
+      "local_id": "years_2025",
+      "id": "english_core::years_2025"
+    },
+    {
+      "label": "Exam Year 2026",
+      "file_type": "concept",
+      "source_file": "years/2026.md",
+      "community": 8,
+      "norm_label": "exam year 2026",
+      "repo": "english_core",
+      "local_id": "years_2026",
+      "id": "english_core::years_2026"
+    },
+    {
+      "label": "Assertion-Reason",
+      "file_type": "concept",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 0,
+      "norm_label": "assertion-reason",
+      "repo": "geography",
+      "local_id": "question_types_assertion_reason",
+      "id": "geography::question_types_assertion_reason"
+    },
+    {
+      "label": "Figure-Only",
+      "file_type": "concept",
+      "source_file": "question_types/figure_only.md",
+      "community": 0,
+      "norm_label": "figure-only",
+      "repo": "geography",
+      "local_id": "question_types_figure_only",
+      "id": "geography::question_types_figure_only"
+    },
+    {
+      "label": "Map",
+      "file_type": "concept",
+      "source_file": "question_types/map.md",
+      "community": 0,
+      "norm_label": "map",
+      "repo": "geography",
+      "local_id": "question_types_map",
+      "id": "geography::question_types_map"
+    },
+    {
+      "label": "Matching",
+      "file_type": "concept",
+      "source_file": "question_types/matching.md",
+      "community": 0,
+      "norm_label": "matching",
+      "repo": "geography",
+      "local_id": "question_types_matching",
+      "id": "geography::question_types_matching"
+    },
+    {
+      "label": "MCQ",
+      "file_type": "concept",
+      "source_file": "question_types/mcq.md",
+      "community": 0,
+      "norm_label": "mcq",
+      "repo": "geography",
+      "local_id": "question_types_mcq",
+      "id": "geography::question_types_mcq"
+    },
+    {
+      "label": "Ordering",
+      "file_type": "concept",
+      "source_file": "question_types/ordering.md",
+      "community": 0,
+      "norm_label": "ordering",
+      "repo": "geography",
+      "local_id": "question_types_ordering",
+      "id": "geography::question_types_ordering"
+    },
+    {
+      "label": "Source-Based",
+      "file_type": "concept",
+      "source_file": "question_types/source_based.md",
+      "community": 0,
+      "norm_label": "source-based",
+      "repo": "geography",
+      "local_id": "question_types_source_based",
+      "id": "geography::question_types_source_based"
+    },
+    {
+      "label": "Subjective",
+      "file_type": "concept",
+      "source_file": "question_types/subjective.md",
+      "community": 0,
+      "norm_label": "subjective",
+      "repo": "geography",
+      "local_id": "question_types_subjective",
+      "id": "geography::question_types_subjective"
+    },
+    {
+      "label": "Two-Statement",
+      "file_type": "concept",
+      "source_file": "question_types/two_statement.md",
+      "community": 3,
+      "norm_label": "two-statement",
+      "repo": "geography",
+      "local_id": "question_types_two_statement",
+      "id": "geography::question_types_two_statement"
+    },
+    {
+      "label": "Geography",
+      "file_type": "concept",
+      "source_file": "subjects/geography.md",
+      "community": 0,
+      "norm_label": "geography",
+      "repo": "geography",
+      "local_id": "subjects_geography",
+      "id": "geography::subjects_geography"
+    },
+    {
+      "label": "Demographic Transition",
+      "file_type": "concept",
+      "source_file": "topics/geography__demographic_transition.md",
+      "community": 1,
+      "norm_label": "demographic transition",
+      "repo": "geography",
+      "local_id": "topics_geography_demographic_transition",
+      "id": "geography::topics_geography_demographic_transition"
+    },
+    {
+      "label": "Factors Affecting",
+      "file_type": "concept",
+      "source_file": "topics/geography__factors_affecting.md",
+      "community": 1,
+      "norm_label": "factors affecting",
+      "repo": "geography",
+      "local_id": "topics_geography_factors_affecting",
+      "id": "geography::topics_geography_factors_affecting"
+    },
+    {
+      "label": "Factors Influencing",
+      "file_type": "concept",
+      "source_file": "topics/geography__factors_influencing.md",
+      "community": 4,
+      "norm_label": "factors influencing",
+      "repo": "geography",
+      "local_id": "topics_geography_factors_influencing",
+      "id": "geography::topics_geography_factors_influencing"
+    },
+    {
+      "label": "Highly Uneven",
+      "file_type": "concept",
+      "source_file": "topics/geography__highly_uneven.md",
+      "community": 0,
+      "norm_label": "highly uneven",
+      "repo": "geography",
+      "local_id": "topics_geography_highly_uneven",
+      "id": "geography::topics_geography_highly_uneven"
+    },
+    {
+      "label": "International Trade",
+      "file_type": "concept",
+      "source_file": "topics/geography__international_trade.md",
+      "community": 0,
+      "norm_label": "international trade",
+      "repo": "geography",
+      "local_id": "topics_geography_international_trade",
+      "id": "geography::topics_geography_international_trade"
+    },
+    {
+      "label": "Main Characteristics",
+      "file_type": "concept",
+      "source_file": "topics/geography__main_characteristics.md",
+      "community": 2,
+      "norm_label": "main characteristics",
+      "repo": "geography",
+      "local_id": "topics_geography_main_characteristics",
+      "id": "geography::topics_geography_main_characteristics"
+    },
+    {
+      "label": "Main Features",
+      "file_type": "concept",
+      "source_file": "topics/geography__main_features.md",
+      "community": 5,
+      "norm_label": "main features",
+      "repo": "geography",
+      "local_id": "topics_geography_main_features",
+      "id": "geography::topics_geography_main_features"
+    },
+    {
+      "label": "Exam Year 2022",
+      "file_type": "concept",
+      "source_file": "years/2022.md",
+      "community": 0,
+      "norm_label": "exam year 2022",
+      "repo": "geography",
+      "local_id": "years_2022",
+      "id": "geography::years_2022"
+    },
+    {
+      "label": "Exam Year 2023",
+      "file_type": "concept",
+      "source_file": "years/2023.md",
+      "community": 2,
+      "norm_label": "exam year 2023",
+      "repo": "geography",
+      "local_id": "years_2023",
+      "id": "geography::years_2023"
+    },
+    {
+      "label": "Exam Year 2024",
+      "file_type": "concept",
+      "source_file": "years/2024.md",
+      "community": 1,
+      "norm_label": "exam year 2024",
+      "repo": "geography",
+      "local_id": "years_2024",
+      "id": "geography::years_2024"
+    },
+    {
+      "label": "Exam Year 2025",
+      "file_type": "concept",
+      "source_file": "years/2025.md",
+      "community": 1,
+      "norm_label": "exam year 2025",
+      "repo": "geography",
+      "local_id": "years_2025",
+      "id": "geography::years_2025"
+    },
+    {
+      "label": "Exam Year 2026",
+      "file_type": "concept",
+      "source_file": "years/2026.md",
+      "community": 1,
+      "norm_label": "exam year 2026",
+      "repo": "geography",
+      "local_id": "years_2026",
+      "id": "geography::years_2026"
+    },
+    {
+      "label": "Assertion-Reason Question Type",
+      "file_type": "document",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 0,
+      "norm_label": "assertion-reason question type",
+      "repo": "history",
+      "local_id": "question_types_assertion_reason",
+      "id": "history::question_types_assertion_reason"
+    },
+    {
+      "label": "Figure-Only Question Type",
+      "file_type": "document",
+      "source_file": "question_types/figure_only.md",
+      "community": 2,
+      "norm_label": "figure-only question type",
+      "repo": "history",
+      "local_id": "question_types_figure_only",
+      "id": "history::question_types_figure_only"
+    },
+    {
+      "label": "Map Question Type",
+      "file_type": "document",
+      "source_file": "question_types/map.md",
+      "community": 0,
+      "norm_label": "map question type",
+      "repo": "history",
+      "local_id": "question_types_map",
+      "id": "history::question_types_map"
+    },
+    {
+      "label": "Matching Question Type",
+      "file_type": "document",
+      "source_file": "question_types/matching.md",
+      "community": 0,
+      "norm_label": "matching question type",
+      "repo": "history",
+      "local_id": "question_types_matching",
+      "id": "history::question_types_matching"
+    },
+    {
+      "label": "MCQ Question Type",
+      "file_type": "document",
+      "source_file": "question_types/mcq.md",
+      "community": 0,
+      "norm_label": "mcq question type",
+      "repo": "history",
+      "local_id": "question_types_mcq",
+      "id": "history::question_types_mcq"
+    },
+    {
+      "label": "Ordering Question Type",
+      "file_type": "document",
+      "source_file": "question_types/ordering.md",
+      "community": 0,
+      "norm_label": "ordering question type",
+      "repo": "history",
+      "local_id": "question_types_ordering",
+      "id": "history::question_types_ordering"
+    },
+    {
+      "label": "Source-Based Question Type",
+      "file_type": "document",
+      "source_file": "question_types/source_based.md",
+      "community": 0,
+      "norm_label": "source-based question type",
+      "repo": "history",
+      "local_id": "question_types_source_based",
+      "id": "history::question_types_source_based"
+    },
+    {
+      "label": "Subjective Question Type",
+      "file_type": "document",
+      "source_file": "question_types/subjective.md",
+      "community": 0,
+      "norm_label": "subjective question type",
+      "repo": "history",
+      "local_id": "question_types_subjective",
+      "id": "history::question_types_subjective"
+    },
+    {
+      "label": "Two-Statement Question Type",
+      "file_type": "document",
+      "source_file": "question_types/two_statement.md",
+      "community": 3,
+      "norm_label": "two-statement question type",
+      "repo": "history",
+      "local_id": "question_types_two_statement",
+      "id": "history::question_types_two_statement"
+    },
+    {
+      "label": "History",
+      "file_type": "concept",
+      "source_file": "subjects/history.md",
+      "community": 0,
+      "norm_label": "history",
+      "repo": "history",
+      "local_id": "subjects_history",
+      "id": "history::subjects_history"
+    },
+    {
+      "label": "Bombay Deccan",
+      "file_type": "concept",
+      "source_file": "topics/history__bombay_deccan.md",
+      "community": 1,
+      "norm_label": "bombay deccan",
+      "repo": "history",
+      "local_id": "topics_history_bombay_deccan",
+      "id": "history::topics_history_bombay_deccan"
+    },
+    {
+      "label": "Quit India Movement",
+      "file_type": "concept",
+      "source_file": "topics/history__quit_india_movement.md",
+      "community": 0,
+      "norm_label": "quit india movement",
+      "repo": "history",
+      "local_id": "topics_history_quit_india_movement",
+      "id": "history::topics_history_quit_india_movement"
+    },
+    {
+      "label": "Salt Satyagraha",
+      "file_type": "concept",
+      "source_file": "topics/history__salt_satyagraha.md",
+      "community": 0,
+      "norm_label": "salt satyagraha",
+      "repo": "history",
+      "local_id": "topics_history_salt_satyagraha",
+      "id": "history::topics_history_salt_satyagraha"
+    },
+    {
+      "label": "Vijayanagara Empire",
+      "file_type": "concept",
+      "source_file": "topics/history__vijayanagara_empire.md",
+      "community": 0,
+      "norm_label": "vijayanagara empire",
+      "repo": "history",
+      "local_id": "topics_history_vijayanagara_empire",
+      "id": "history::topics_history_vijayanagara_empire"
+    },
+    {
+      "label": "Exam Year 2022",
+      "file_type": "document",
+      "source_file": "years/2022.md",
+      "community": 4,
+      "norm_label": "exam year 2022",
+      "repo": "history",
+      "local_id": "years_2022",
+      "id": "history::years_2022"
+    },
+    {
+      "label": "Exam Year 2023",
+      "file_type": "document",
+      "source_file": "years/2023.md",
+      "community": 1,
+      "norm_label": "exam year 2023",
+      "repo": "history",
+      "local_id": "years_2023",
+      "id": "history::years_2023"
+    },
+    {
+      "label": "Exam Year 2024",
+      "file_type": "document",
+      "source_file": "years/2024.md",
+      "community": 1,
+      "norm_label": "exam year 2024",
+      "repo": "history",
+      "local_id": "years_2024",
+      "id": "history::years_2024"
+    },
+    {
+      "label": "Exam Year 2025",
+      "file_type": "document",
+      "source_file": "years/2025.md",
+      "community": 1,
+      "norm_label": "exam year 2025",
+      "repo": "history",
+      "local_id": "years_2025",
+      "id": "history::years_2025"
+    },
+    {
+      "label": "Exam Year 2026",
+      "file_type": "document",
+      "source_file": "years/2026.md",
+      "community": 5,
+      "norm_label": "exam year 2026",
+      "repo": "history",
+      "local_id": "years_2026",
+      "id": "history::years_2026"
+    },
+    {
+      "label": "Assertion-Reason Question Type",
+      "file_type": "document",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 0,
+      "norm_label": "assertion-reason question type",
+      "repo": "mathematics",
+      "local_id": "question_types_assertion_reason",
+      "id": "mathematics::question_types_assertion_reason"
+    },
+    {
+      "label": "Figure-Only Question Type",
+      "file_type": "document",
+      "source_file": "question_types/figure_only.md",
+      "community": 0,
+      "norm_label": "figure-only question type",
+      "repo": "mathematics",
+      "local_id": "question_types_figure_only",
+      "id": "mathematics::question_types_figure_only"
+    },
+    {
+      "label": "Map Question Type",
+      "file_type": "document",
+      "source_file": "question_types/map.md",
+      "community": 2,
+      "norm_label": "map question type",
+      "repo": "mathematics",
+      "local_id": "question_types_map",
+      "id": "mathematics::question_types_map"
+    },
+    {
+      "label": "Matching Question Type",
+      "file_type": "document",
+      "source_file": "question_types/matching.md",
+      "community": 3,
+      "norm_label": "matching question type",
+      "repo": "mathematics",
+      "local_id": "question_types_matching",
+      "id": "mathematics::question_types_matching"
+    },
+    {
+      "label": "MCQ Question Type",
+      "file_type": "document",
+      "source_file": "question_types/mcq.md",
+      "community": 0,
+      "norm_label": "mcq question type",
+      "repo": "mathematics",
+      "local_id": "question_types_mcq",
+      "id": "mathematics::question_types_mcq"
+    },
+    {
+      "label": "Ordering Question Type",
+      "file_type": "document",
+      "source_file": "question_types/ordering.md",
+      "community": 4,
+      "norm_label": "ordering question type",
+      "repo": "mathematics",
+      "local_id": "question_types_ordering",
+      "id": "mathematics::question_types_ordering"
+    },
+    {
+      "label": "Source-Based Question Type",
+      "file_type": "document",
+      "source_file": "question_types/source_based.md",
+      "community": 5,
+      "norm_label": "source-based question type",
+      "repo": "mathematics",
+      "local_id": "question_types_source_based",
+      "id": "mathematics::question_types_source_based"
+    },
+    {
+      "label": "Subjective Question Type",
+      "file_type": "document",
+      "source_file": "question_types/subjective.md",
+      "community": 0,
+      "norm_label": "subjective question type",
+      "repo": "mathematics",
+      "local_id": "question_types_subjective",
+      "id": "mathematics::question_types_subjective"
+    },
+    {
+      "label": "Two-Statement Question Type",
+      "file_type": "document",
+      "source_file": "question_types/two_statement.md",
+      "community": 6,
+      "norm_label": "two-statement question type",
+      "repo": "mathematics",
+      "local_id": "question_types_two_statement",
+      "id": "mathematics::question_types_two_statement"
+    },
+    {
+      "label": "Mathematics",
+      "file_type": "document",
+      "source_file": "subjects/mathematics.md",
+      "community": 0,
+      "norm_label": "mathematics",
+      "repo": "mathematics",
+      "local_id": "subjects_mathematics",
+      "id": "mathematics::subjects_mathematics"
+    },
+    {
+      "label": "Differential Equation",
+      "file_type": "concept",
+      "source_file": "topics/mathematics__differential_equation.md",
+      "community": 1,
+      "norm_label": "differential equation",
+      "repo": "mathematics",
+      "local_id": "topics_mathematics_differential_equation",
+      "id": "mathematics::topics_mathematics_differential_equation"
+    },
+    {
+      "label": "Find the Probability",
+      "file_type": "concept",
+      "source_file": "topics/mathematics__find_the_probability.md",
+      "community": 0,
+      "norm_label": "find the probability",
+      "repo": "mathematics",
+      "local_id": "topics_mathematics_find_the_probability",
+      "id": "mathematics::topics_mathematics_find_the_probability"
+    },
+    {
+      "label": "General Solution",
+      "file_type": "concept",
+      "source_file": "topics/mathematics__general_solution.md",
+      "community": 7,
+      "norm_label": "general solution",
+      "repo": "mathematics",
+      "local_id": "topics_mathematics_general_solution",
+      "id": "mathematics::topics_mathematics_general_solution"
+    },
+    {
+      "label": "Solution the Differential",
+      "file_type": "concept",
+      "source_file": "topics/mathematics__solution_the_differential.md",
+      "community": 0,
+      "norm_label": "solution the differential",
+      "repo": "mathematics",
+      "local_id": "topics_mathematics_solution_the_differential",
+      "id": "mathematics::topics_mathematics_solution_the_differential"
+    },
+    {
+      "label": "Exam Year 2022",
+      "file_type": "document",
+      "source_file": "years/2022.md",
+      "community": 8,
+      "norm_label": "exam year 2022",
+      "repo": "mathematics",
+      "local_id": "years_2022",
+      "id": "mathematics::years_2022"
+    },
+    {
+      "label": "Exam Year 2023",
+      "file_type": "document",
+      "source_file": "years/2023.md",
+      "community": 1,
+      "norm_label": "exam year 2023",
+      "repo": "mathematics",
+      "local_id": "years_2023",
+      "id": "mathematics::years_2023"
+    },
+    {
+      "label": "Exam Year 2024",
+      "file_type": "document",
+      "source_file": "years/2024.md",
+      "community": 9,
+      "norm_label": "exam year 2024",
+      "repo": "mathematics",
+      "local_id": "years_2024",
+      "id": "mathematics::years_2024"
+    },
+    {
+      "label": "Exam Year 2025",
+      "file_type": "document",
+      "source_file": "years/2025.md",
+      "community": 1,
+      "norm_label": "exam year 2025",
+      "repo": "mathematics",
+      "local_id": "years_2025",
+      "id": "mathematics::years_2025"
+    },
+    {
+      "label": "Exam Year 2026",
+      "file_type": "document",
+      "source_file": "years/2026.md",
+      "community": 1,
+      "norm_label": "exam year 2026",
+      "repo": "mathematics",
+      "local_id": "years_2026",
+      "id": "mathematics::years_2026"
+    },
+    {
+      "label": "Assertion-Reason",
+      "file_type": "document",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 0,
+      "norm_label": "assertion-reason",
+      "repo": "physics",
+      "local_id": "question_types_assertion_reason",
+      "id": "physics::question_types_assertion_reason"
+    },
+    {
+      "label": "Figure-Only",
+      "file_type": "document",
+      "source_file": "question_types/figure_only.md",
+      "community": 0,
+      "norm_label": "figure-only",
+      "repo": "physics",
+      "local_id": "question_types_figure_only",
+      "id": "physics::question_types_figure_only"
+    },
+    {
+      "label": "Map",
+      "file_type": "document",
+      "source_file": "question_types/map.md",
+      "community": 2,
+      "norm_label": "map",
+      "repo": "physics",
+      "local_id": "question_types_map",
+      "id": "physics::question_types_map"
+    },
+    {
+      "label": "Matching",
+      "file_type": "document",
+      "source_file": "question_types/matching.md",
+      "community": 3,
+      "norm_label": "matching",
+      "repo": "physics",
+      "local_id": "question_types_matching",
+      "id": "physics::question_types_matching"
+    },
+    {
+      "label": "MCQ",
+      "file_type": "document",
+      "source_file": "question_types/mcq.md",
+      "community": 0,
+      "norm_label": "mcq",
+      "repo": "physics",
+      "local_id": "question_types_mcq",
+      "id": "physics::question_types_mcq"
+    },
+    {
+      "label": "Ordering",
+      "file_type": "document",
+      "source_file": "question_types/ordering.md",
+      "community": 4,
+      "norm_label": "ordering",
+      "repo": "physics",
+      "local_id": "question_types_ordering",
+      "id": "physics::question_types_ordering"
+    },
+    {
+      "label": "Source-Based",
+      "file_type": "document",
+      "source_file": "question_types/source_based.md",
+      "community": 5,
+      "norm_label": "source-based",
+      "repo": "physics",
+      "local_id": "question_types_source_based",
+      "id": "physics::question_types_source_based"
+    },
+    {
+      "label": "Subjective",
+      "file_type": "document",
+      "source_file": "question_types/subjective.md",
+      "community": 0,
+      "norm_label": "subjective",
+      "repo": "physics",
+      "local_id": "question_types_subjective",
+      "id": "physics::question_types_subjective"
+    },
+    {
+      "label": "Two-Statement",
+      "file_type": "document",
+      "source_file": "question_types/two_statement.md",
+      "community": 6,
+      "norm_label": "two-statement",
+      "repo": "physics",
+      "local_id": "question_types_two_statement",
+      "id": "physics::question_types_two_statement"
+    },
+    {
+      "label": "Physics",
+      "file_type": "document",
+      "source_file": "subjects/physics.md",
+      "community": 0,
+      "norm_label": "physics",
+      "repo": "physics",
+      "local_id": "subjects_physics",
+      "id": "physics::subjects_physics"
+    },
+    {
+      "label": "Derive Expression",
+      "file_type": "concept",
+      "source_file": "topics/physics__derive_expression.md",
+      "community": 1,
+      "norm_label": "derive expression",
+      "repo": "physics",
+      "local_id": "topics_physics__derive_expression",
+      "id": "physics::topics_physics__derive_expression"
+    },
+    {
+      "label": "Electric Field",
+      "file_type": "concept",
+      "source_file": "topics/physics__electric_field.md",
+      "community": 1,
+      "norm_label": "electric field",
+      "repo": "physics",
+      "local_id": "topics_physics__electric_field",
+      "id": "physics::topics_physics__electric_field"
+    },
+    {
+      "label": "Field Due",
+      "file_type": "concept",
+      "source_file": "topics/physics__field_due.md",
+      "community": 7,
+      "norm_label": "field due",
+      "repo": "physics",
+      "local_id": "topics_physics__field_due",
+      "id": "physics::topics_physics__field_due"
+    },
+    {
+      "label": "Formed Infinity",
+      "file_type": "concept",
+      "source_file": "topics/physics__formed_infinity.md",
+      "community": 8,
+      "norm_label": "formed infinity",
+      "repo": "physics",
+      "local_id": "topics_physics__formed_infinity",
+      "id": "physics::topics_physics__formed_infinity"
+    },
+    {
+      "label": "Magnetic Field",
+      "file_type": "concept",
+      "source_file": "topics/physics__magnetic_field.md",
+      "community": 0,
+      "norm_label": "magnetic field",
+      "repo": "physics",
+      "local_id": "topics_physics__magnetic_field",
+      "id": "physics::topics_physics__magnetic_field"
+    },
+    {
+      "label": "Obtain Expression",
+      "file_type": "concept",
+      "source_file": "topics/physics__obtain_expression.md",
+      "community": 9,
+      "norm_label": "obtain expression",
+      "repo": "physics",
+      "local_id": "topics_physics__obtain_expression",
+      "id": "physics::topics_physics__obtain_expression"
+    },
+    {
+      "label": "Parallel Plate Capacitor",
+      "file_type": "concept",
+      "source_file": "topics/physics__parallel_plate_capacitor.md",
+      "community": 10,
+      "norm_label": "parallel plate capacitor",
+      "repo": "physics",
+      "local_id": "topics_physics__parallel_plate_capacitor",
+      "id": "physics::topics_physics__parallel_plate_capacitor"
+    },
+    {
+      "label": "Refractive Index",
+      "file_type": "concept",
+      "source_file": "topics/physics__refractive_index.md",
+      "community": 11,
+      "norm_label": "refractive index",
+      "repo": "physics",
+      "local_id": "topics_physics__refractive_index",
+      "id": "physics::topics_physics__refractive_index"
+    },
+    {
+      "label": "Uniform Magnetic",
+      "file_type": "concept",
+      "source_file": "topics/physics__uniform_magnetic.md",
+      "community": 12,
+      "norm_label": "uniform magnetic",
+      "repo": "physics",
+      "local_id": "topics_physics__uniform_magnetic",
+      "id": "physics::topics_physics__uniform_magnetic"
+    },
+    {
+      "label": "Exam Year 2022",
+      "file_type": "document",
+      "source_file": "years/2022.md",
+      "community": 13,
+      "norm_label": "exam year 2022",
+      "repo": "physics",
+      "local_id": "years_2022",
+      "id": "physics::years_2022"
+    },
+    {
+      "label": "Exam Year 2023",
+      "file_type": "document",
+      "source_file": "years/2023.md",
+      "community": 1,
+      "norm_label": "exam year 2023",
+      "repo": "physics",
+      "local_id": "years_2023",
+      "id": "physics::years_2023"
+    },
+    {
+      "label": "Exam Year 2024",
+      "file_type": "document",
+      "source_file": "years/2024.md",
+      "community": 1,
+      "norm_label": "exam year 2024",
+      "repo": "physics",
+      "local_id": "years_2024",
+      "id": "physics::years_2024"
+    },
+    {
+      "label": "Exam Year 2025",
+      "file_type": "document",
+      "source_file": "years/2025.md",
+      "community": 1,
+      "norm_label": "exam year 2025",
+      "repo": "physics",
+      "local_id": "years_2025",
+      "id": "physics::years_2025"
+    },
+    {
+      "label": "Exam Year 2026",
+      "file_type": "document",
+      "source_file": "years/2026.md",
+      "community": 1,
+      "norm_label": "exam year 2026",
+      "repo": "physics",
+      "local_id": "years_2026",
+      "id": "physics::years_2026"
+    },
+    {
+      "label": "Assertion-Reason Question Type",
+      "file_type": "document",
+      "source_file": "question_types/assertion_reason.md",
+      "community": 0,
+      "norm_label": "assertion-reason question type",
+      "repo": "political_science",
+      "local_id": "question_types_assertion_reason",
+      "id": "political_science::question_types_assertion_reason"
+    },
+    {
+      "label": "Figure-Only Question Type",
+      "file_type": "document",
+      "source_file": "question_types/figure_only.md",
+      "community": 1,
+      "norm_label": "figure-only question type",
+      "repo": "political_science",
+      "local_id": "question_types_figure_only",
+      "id": "political_science::question_types_figure_only"
+    },
+    {
+      "label": "Map Question Type",
+      "file_type": "document",
+      "source_file": "question_types/map.md",
+      "community": 0,
+      "norm_label": "map question type",
+      "repo": "political_science",
+      "local_id": "question_types_map",
+      "id": "political_science::question_types_map"
+    },
+    {
+      "label": "Matching Question Type",
+      "file_type": "document",
+      "source_file": "question_types/matching.md",
+      "community": 2,
+      "norm_label": "matching question type",
+      "repo": "political_science",
+      "local_id": "question_types_matching",
+      "id": "political_science::question_types_matching"
+    },
+    {
+      "label": "MCQ Question Type",
+      "file_type": "document",
+      "source_file": "question_types/mcq.md",
+      "community": 3,
+      "norm_label": "mcq question type",
+      "repo": "political_science",
+      "local_id": "question_types_mcq",
+      "id": "political_science::question_types_mcq"
+    },
+    {
+      "label": "Ordering Question Type",
+      "file_type": "document",
+      "source_file": "question_types/ordering.md",
+      "community": 4,
+      "norm_label": "ordering question type",
+      "repo": "political_science",
+      "local_id": "question_types_ordering",
+      "id": "political_science::question_types_ordering"
+    },
+    {
+      "label": "Source-Based Question Type",
+      "file_type": "document",
+      "source_file": "question_types/source_based.md",
+      "community": 0,
+      "norm_label": "source-based question type",
+      "repo": "political_science",
+      "local_id": "question_types_source_based",
+      "id": "political_science::question_types_source_based"
+    },
+    {
+      "label": "Subjective Question Type",
+      "file_type": "document",
+      "source_file": "question_types/subjective.md",
+      "community": 0,
+      "norm_label": "subjective question type",
+      "repo": "political_science",
+      "local_id": "question_types_subjective",
+      "id": "political_science::question_types_subjective"
+    },
+    {
+      "label": "Two-Statement Question Type",
+      "file_type": "document",
+      "source_file": "question_types/two_statement.md",
+      "community": 5,
+      "norm_label": "two-statement question type",
+      "repo": "political_science",
+      "local_id": "question_types_two_statement",
+      "id": "political_science::question_types_two_statement"
+    },
+    {
+      "label": "Political Science",
+      "file_type": "document",
+      "source_file": "subjects/political_science.md",
+      "community": 0,
+      "norm_label": "political science",
+      "repo": "political_science",
+      "local_id": "subjects_political_science",
+      "id": "political_science::subjects_political_science"
+    },
+    {
+      "label": "Topic: its economy",
+      "file_type": "concept",
+      "source_file": "topics/political_science__its_economy.md",
+      "community": 0,
+      "norm_label": "topic: its economy",
+      "repo": "political_science",
+      "local_id": "topics_political_science_its_economy",
+      "id": "political_science::topics_political_science_its_economy"
+    },
+    {
+      "label": "Topic: steps taken",
+      "file_type": "concept",
+      "source_file": "topics/political_science__steps_taken.md",
+      "community": 0,
+      "norm_label": "topic: steps taken",
+      "repo": "political_science",
+      "local_id": "topics_political_science_steps_taken",
+      "id": "political_science::topics_political_science_steps_taken"
+    },
+    {
+      "label": "Topic: united nations",
+      "file_type": "concept",
+      "source_file": "topics/political_science__united_nations.md",
+      "community": 0,
+      "norm_label": "topic: united nations",
+      "repo": "political_science",
+      "local_id": "topics_political_science_united_nations",
+      "id": "political_science::topics_political_science_united_nations"
+    },
+    {
+      "label": "Exam Year 2022",
+      "file_type": "document",
+      "source_file": "years/2022.md",
+      "community": 0,
+      "norm_label": "exam year 2022",
+      "repo": "political_science",
+      "local_id": "years_2022",
+      "id": "political_science::years_2022"
+    },
+    {
+      "label": "Exam Year 2023",
+      "file_type": "document",
+      "source_file": "years/2023.md",
+      "community": 6,
+      "norm_label": "exam year 2023",
+      "repo": "political_science",
+      "local_id": "years_2023",
+      "id": "political_science::years_2023"
+    },
+    {
+      "label": "Exam Year 2024",
+      "file_type": "document",
+      "source_file": "years/2024.md",
+      "community": 0,
+      "norm_label": "exam year 2024",
+      "repo": "political_science",
+      "local_id": "years_2024",
+      "id": "political_science::years_2024"
+    },
+    {
+      "label": "Exam Year 2025",
+      "file_type": "document",
+      "source_file": "years/2025.md",
+      "community": 0,
+      "norm_label": "exam year 2025",
+      "repo": "political_science",
+      "local_id": "years_2025",
+      "id": "political_science::years_2025"
+    },
+    {
+      "label": "Exam Year 2026",
+      "file_type": "document",
+      "source_file": "years/2026.md",
+      "community": 0,
+      "norm_label": "exam year 2026",
+      "repo": "political_science",
+      "local_id": "years_2026",
+      "id": "political_science::years_2026"
+    }
+  ],
+  "links": [
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/assertion_reason.md",
+      "source": "accountancy::question_types_assertion_reason",
+      "target": "accountancy::subjects_accountancy"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/mcq.md",
+      "source": "accountancy::question_types_mcq",
+      "target": "accountancy::subjects_accountancy"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/subjective.md",
+      "source": "accountancy::question_types_subjective",
+      "target": "accountancy::subjects_accountancy"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/accountancy.md",
+      "source": "accountancy::subjects_accountancy",
+      "target": "accountancy::topics_accountancy_balance_sheet"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/accountancy.md",
+      "source": "accountancy::subjects_accountancy",
+      "target": "accountancy::topics_accountancy_calculate_cash"
+    },
+    {
+      "source_location": "Accountancy tested balance sheet",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2024.md",
+      "source": "accountancy::topics_accountancy_balance_sheet",
+      "target": "accountancy::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/accountancy__calculate_cash.md",
+      "source": "accountancy::topics_accountancy_calculate_cash",
+      "target": "accountancy::units_accountancy_unit_4_cash_flow_statement"
+    },
+    {
+      "source_location": "Accountancy tested firm was dissolved",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2022.md",
+      "source": "accountancy::topics_accountancy_firm_was_dissolved",
+      "target": "accountancy::years_2022"
+    },
+    {
+      "source_location": "Accountancy tested investing activities",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2025.md",
+      "source": "accountancy::topics_accountancy_investing_activities",
+      "target": "accountancy::years_2025"
+    },
+    {
+      "source_location": "Accountancy tested new profit",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2026.md",
+      "source": "accountancy::topics_accountancy_new_profit",
+      "target": "accountancy::years_2026"
+    },
+    {
+      "source_location": "Accountancy tested partners firm",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2023.md",
+      "source": "accountancy::topics_accountancy_partners_firm",
+      "target": "accountancy::years_2023"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "units/accountancy__unit_1_accounting_for_partnership_firms.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "accountancy::accountancy_cbse_class_12",
+      "target": "accountancy::units_accountancy_unit_1_accounting_for_partnership_firms_unit_1_accounting_for_partnership_firms"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "units/accountancy__unit_1_theoretical_framework.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "accountancy::accountancy_cbse_class_12",
+      "target": "accountancy::units_accountancy_unit_1_theoretical_framework_unit_1_theoretical_framework"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "units/accountancy__unit_2_accounting_for_companies.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "accountancy::accountancy_cbse_class_12",
+      "target": "accountancy::units_accountancy_unit_2_accounting_for_companies_unit_2_accounting_for_companies"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "units/accountancy__unit_2_accounting_process.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "accountancy::accountancy_cbse_class_12",
+      "target": "accountancy::units_accountancy_unit_2_accounting_process_unit_2_accounting_process"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "units/accountancy__unit_3_analysis_of_financial_statements.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "accountancy::accountancy_cbse_class_12",
+      "target": "accountancy::units_accountancy_unit_3_analysis_of_financial_statements_unit_3_analysis_of_financial_statements"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "units/accountancy__unit_3_financial_statements_of_sole_proprietorship.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "accountancy::accountancy_cbse_class_12",
+      "target": "accountancy::units_accountancy_unit_3_financial_statements_of_sole_proprietorship_unit_3_financial_statements_of_sole_proprietorship"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "units/accountancy__unit_4_computerized_accounting.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "accountancy::accountancy_cbse_class_12",
+      "target": "accountancy::units_accountancy_unit_4_computerized_accounting_unit_4_computerized_accounting"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/assertion_reason.md",
+      "source": "biology::question_types_assertion_reason",
+      "target": "biology::subjects_biology"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/biology.md",
+      "source": "biology::subjects_biology",
+      "target": "biology::topics_biology_embryo_sac"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2023.md",
+      "source": "biology::subjects_biology",
+      "target": "biology::years_2023"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2024.md",
+      "source": "biology::subjects_biology",
+      "target": "biology::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2025.md",
+      "source": "biology::subjects_biology",
+      "target": "biology::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/biology__embryo_sac.md",
+      "source": "biology::topics_biology_embryo_sac",
+      "target": "biology::years_2023"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/biology__embryo_sac.md",
+      "source": "biology::topics_biology_embryo_sac",
+      "target": "biology::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/biology__embryo_sac.md",
+      "source": "biology::topics_biology_embryo_sac",
+      "target": "biology::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/business_studies.md",
+      "source": "business_studies::subjects_business_studies",
+      "target": "business_studies::topics_business_studies_function_management"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/business_studies.md",
+      "source": "business_studies::subjects_business_studies",
+      "target": "business_studies::topics_business_studies_importance_planning"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/business_studies.md",
+      "source": "business_studies::subjects_business_studies",
+      "target": "business_studies::topics_business_studies_planning_function"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/business_studies__factors_affecting.md",
+      "source": "business_studies::subjects_business_studies",
+      "target": "business_studies::topics_business_studies_factors_affecting"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2024.md",
+      "source": "business_studies::subjects_business_studies",
+      "target": "business_studies::years_2024"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/business_studies__factors_affecting.md",
+      "source": "business_studies::topics_business_studies_factors_affecting",
+      "target": "business_studies::years_2023"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2024.md",
+      "source": "business_studies::topics_business_studies_factors_affecting",
+      "target": "business_studies::years_2024"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/business_studies__factors_affecting.md",
+      "source": "business_studies::topics_business_studies_factors_affecting",
+      "target": "business_studies::years_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2024.md",
+      "source": "business_studies::topics_business_studies_function_management",
+      "target": "business_studies::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2025.md",
+      "source": "business_studies::topics_business_studies_function_management",
+      "target": "business_studies::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2026.md",
+      "source": "business_studies::topics_business_studies_function_management",
+      "target": "business_studies::years_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/assertion_reason.md",
+      "source": "chemistry::question_types_assertion_reason",
+      "target": "chemistry::subjects_chemistry"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/subjective.md",
+      "source": "chemistry::question_types_subjective",
+      "target": "chemistry::subjects_chemistry"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/chemistry.md",
+      "source": "chemistry::subjects_chemistry",
+      "target": "chemistry::topics_chemistry_electrode_potential"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/chemistry.md",
+      "source": "chemistry::subjects_chemistry",
+      "target": "chemistry::topics_chemistry_emf_the_following_cell"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2023.md",
+      "source": "chemistry::subjects_chemistry",
+      "target": "chemistry::years_2023"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2024.md",
+      "source": "chemistry::subjects_chemistry",
+      "target": "chemistry::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2025.md",
+      "source": "chemistry::subjects_chemistry",
+      "target": "chemistry::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2026.md",
+      "source": "chemistry::subjects_chemistry",
+      "target": "chemistry::years_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/chemistry__electrode_potential.md",
+      "source": "chemistry::topics_chemistry_electrode_potential",
+      "target": "chemistry::years_2023"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/chemistry__electrode_potential.md",
+      "source": "chemistry::topics_chemistry_electrode_potential",
+      "target": "chemistry::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/chemistry__electrode_potential.md",
+      "source": "chemistry::topics_chemistry_electrode_potential",
+      "target": "chemistry::years_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/chemistry__emf_the_following_cell.md",
+      "source": "chemistry::topics_chemistry_emf_the_following_cell",
+      "target": "chemistry::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/chemistry__emf_the_following_cell.md",
+      "source": "chemistry::topics_chemistry_emf_the_following_cell",
+      "target": "chemistry::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/chemistry__emf_the_following_cell.md",
+      "source": "chemistry::topics_chemistry_emf_the_following_cell",
+      "target": "chemistry::years_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/assertion_reason.md",
+      "source": "economics::question_types_assertion_reason",
+      "target": "economics::subjects_economics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/figure_only.md",
+      "source": "economics::question_types_figure_only",
+      "target": "economics::subjects_economics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/mcq.md",
+      "source": "economics::question_types_mcq",
+      "target": "economics::subjects_economics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/ordering.md",
+      "source": "economics::question_types_ordering",
+      "target": "economics::subjects_economics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/source_based.md",
+      "source": "economics::question_types_source_based",
+      "target": "economics::subjects_economics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/subjective.md",
+      "source": "economics::question_types_subjective",
+      "target": "economics::subjects_economics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/two_statement.md",
+      "source": "economics::question_types_two_statement",
+      "target": "economics::subjects_economics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/economics.md",
+      "source": "economics::subjects_economics",
+      "target": "economics::topics_economics_aggregate_demand"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__aggregate_demand.md",
+      "source": "economics::topics_economics_aggregate_demand",
+      "target": "economics::years_2022"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__aggregate_demand.md",
+      "source": "economics::topics_economics_aggregate_demand",
+      "target": "economics::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__aggregate_demand.md",
+      "source": "economics::topics_economics_aggregate_demand",
+      "target": "economics::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__aggregate_demand.md",
+      "source": "economics::topics_economics_aggregate_demand",
+      "target": "economics::years_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__central_bank.md",
+      "source": "economics::topics_economics_central_bank",
+      "target": "economics::years_2023"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__central_bank.md",
+      "source": "economics::topics_economics_central_bank",
+      "target": "economics::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__central_bank.md",
+      "source": "economics::topics_economics_central_bank",
+      "target": "economics::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__commercial_banks.md",
+      "source": "economics::topics_economics_commercial_banks",
+      "target": "economics::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__commercial_banks.md",
+      "source": "economics::topics_economics_commercial_banks",
+      "target": "economics::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__commercial_banks.md",
+      "source": "economics::topics_economics_commercial_banks",
+      "target": "economics::years_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__fill_the_blank.md",
+      "source": "economics::topics_economics_fill_the_blank",
+      "target": "economics::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__fill_the_blank.md",
+      "source": "economics::topics_economics_fill_the_blank",
+      "target": "economics::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__fill_the_blank.md",
+      "source": "economics::topics_economics_fill_the_blank",
+      "target": "economics::years_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__government_india.md",
+      "source": "economics::topics_economics_government_india",
+      "target": "economics::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__government_india.md",
+      "source": "economics::topics_economics_government_india",
+      "target": "economics::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__government_india.md",
+      "source": "economics::topics_economics_government_india",
+      "target": "economics::years_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__hypothetical_economy.md",
+      "source": "economics::topics_economics_hypothetical_economy",
+      "target": "economics::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__hypothetical_economy.md",
+      "source": "economics::topics_economics_hypothetical_economy",
+      "target": "economics::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__hypothetical_economy.md",
+      "source": "economics::topics_economics_hypothetical_economy",
+      "target": "economics::years_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__reserve_bank_india.md",
+      "source": "economics::topics_economics_reserve_bank_india",
+      "target": "economics::years_2023"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__reserve_bank_india.md",
+      "source": "economics::topics_economics_reserve_bank_india",
+      "target": "economics::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__reserve_bank_india.md",
+      "source": "economics::topics_economics_reserve_bank_india",
+      "target": "economics::years_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__valid_arguments.md",
+      "source": "economics::topics_economics_valid_arguments",
+      "target": "economics::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__valid_arguments.md",
+      "source": "economics::topics_economics_valid_arguments",
+      "target": "economics::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__valid_arguments.md",
+      "source": "economics::topics_economics_valid_arguments",
+      "target": "economics::years_2026"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__basis_the_following_data.md",
+      "source": "economics::topics_economics__basis_the_following_data_basis_the_following_data",
+      "target": "economics::cbse_class_12_economics"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "topics/economics__basis_the_following_data.md",
+      "source": "economics::topics_economics__basis_the_following_data_basis_the_following_data",
+      "target": "economics::topics_economics__gross_value_added_gross_value_added"
+    },
+    {
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "topics/economics__basis_the_following_data.md",
+      "source": "economics::topics_economics__basis_the_following_data_basis_the_following_data",
+      "target": "economics::topics_economics__market_price_market_price"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__gross_value_added.md",
+      "source": "economics::topics_economics__gross_value_added_gross_value_added",
+      "target": "economics::cbse_class_12_economics"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__likely_impact.md",
+      "source": "economics::topics_economics__likely_impact_likely_impact",
+      "target": "economics::cbse_class_12_economics"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__market_price.md",
+      "source": "economics::topics_economics__market_price_market_price",
+      "target": "economics::cbse_class_12_economics"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/economics__national_income.md",
+      "source": "economics::topics_economics__national_income_national_income",
+      "target": "economics::cbse_class_12_economics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/assertion_reason.md",
+      "source": "english_core::question_types_assertion_reason",
+      "target": "english_core::subjects_biology"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/assertion_reason.md",
+      "source": "english_core::question_types_assertion_reason",
+      "target": "english_core::subjects_chemistry"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/assertion_reason.md",
+      "source": "english_core::question_types_assertion_reason",
+      "target": "english_core::subjects_physics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/figure_only.md",
+      "source": "english_core::question_types_figure_only",
+      "target": "english_core::subjects_mathematics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/map.md",
+      "source": "english_core::question_types_map",
+      "target": "english_core::subjects_geography"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/matching.md",
+      "source": "english_core::question_types_matching",
+      "target": "english_core::subjects_history"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/mcq.md",
+      "source": "english_core::question_types_mcq",
+      "target": "english_core::subjects_accountancy"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/source_based.md",
+      "source": "english_core::question_types_source_based",
+      "target": "english_core::subjects_english_core"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/subjective.md",
+      "source": "english_core::question_types_subjective",
+      "target": "english_core::subjects_chemistry"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2024.md",
+      "source": "english_core::subjects_biology",
+      "target": "english_core::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2023.md",
+      "source": "english_core::subjects_physics",
+      "target": "english_core::years_2023"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2023.md",
+      "source": "english_core::subjects_mathematics",
+      "target": "english_core::years_2023"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2022.md",
+      "source": "english_core::subjects_economics",
+      "target": "english_core::years_2022"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2022.md",
+      "source": "english_core::subjects_political_science",
+      "target": "english_core::years_2022"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2024.md",
+      "source": "english_core::subjects_business_studies",
+      "target": "english_core::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2022.md",
+      "source": "english_core::subjects_accountancy",
+      "target": "english_core::years_2022"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/english_core.md",
+      "source": "english_core::subjects_english_core",
+      "target": "english_core::years_2022"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/assertion_reason.md",
+      "source": "geography::question_types_assertion_reason",
+      "target": "geography::subjects_geography"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/figure_only.md",
+      "source": "geography::question_types_figure_only",
+      "target": "geography::subjects_geography"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/map.md",
+      "source": "geography::question_types_map",
+      "target": "geography::subjects_geography"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/matching.md",
+      "source": "geography::question_types_matching",
+      "target": "geography::subjects_geography"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/mcq.md",
+      "source": "geography::question_types_mcq",
+      "target": "geography::subjects_geography"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/ordering.md",
+      "source": "geography::question_types_ordering",
+      "target": "geography::subjects_geography"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/source_based.md",
+      "source": "geography::question_types_source_based",
+      "target": "geography::subjects_geography"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/subjective.md",
+      "source": "geography::question_types_subjective",
+      "target": "geography::subjects_geography"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/geography.md",
+      "source": "geography::subjects_geography",
+      "target": "geography::topics_geography_demographic_transition"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/geography.md",
+      "source": "geography::subjects_geography",
+      "target": "geography::topics_geography_highly_uneven"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/geography.md",
+      "source": "geography::subjects_geography",
+      "target": "geography::topics_geography_international_trade"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/geography__factors_affecting.md",
+      "source": "geography::subjects_geography",
+      "target": "geography::topics_geography_factors_affecting"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "subjects/geography.md",
+      "source": "geography::subjects_geography",
+      "target": "geography::years_2022"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/geography__demographic_transition.md",
+      "source": "geography::topics_geography_demographic_transition",
+      "target": "geography::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/geography__demographic_transition.md",
+      "source": "geography::topics_geography_demographic_transition",
+      "target": "geography::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/geography__demographic_transition.md",
+      "source": "geography::topics_geography_demographic_transition",
+      "target": "geography::years_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/geography__factors_affecting.md",
+      "source": "geography::topics_geography_factors_affecting",
+      "target": "geography::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/geography__factors_affecting.md",
+      "source": "geography::topics_geography_factors_affecting",
+      "target": "geography::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/geography__factors_affecting.md",
+      "source": "geography::topics_geography_factors_affecting",
+      "target": "geography::years_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/geography__main_characteristics.md",
+      "source": "geography::topics_geography_main_characteristics",
+      "target": "geography::years_2023"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/assertion_reason.md",
+      "source": "history::question_types_assertion_reason",
+      "target": "history::subjects_history"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/map.md",
+      "source": "history::question_types_map",
+      "target": "history::subjects_history"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/matching.md",
+      "source": "history::question_types_matching",
+      "target": "history::subjects_history"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/mcq.md",
+      "source": "history::question_types_mcq",
+      "target": "history::subjects_history"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/ordering.md",
+      "source": "history::question_types_ordering",
+      "target": "history::subjects_history"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/source_based.md",
+      "source": "history::question_types_source_based",
+      "target": "history::subjects_history"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/subjective.md",
+      "source": "history::question_types_subjective",
+      "target": "history::subjects_history"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/history.md",
+      "source": "history::subjects_history",
+      "target": "history::topics_history_bombay_deccan"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/history.md",
+      "source": "history::subjects_history",
+      "target": "history::topics_history_quit_india_movement"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/history.md",
+      "source": "history::subjects_history",
+      "target": "history::topics_history_salt_satyagraha"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/history.md",
+      "source": "history::subjects_history",
+      "target": "history::topics_history_vijayanagara_empire"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/history__bombay_deccan.md",
+      "source": "history::topics_history_bombay_deccan",
+      "target": "history::years_2023"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/history__bombay_deccan.md",
+      "source": "history::topics_history_bombay_deccan",
+      "target": "history::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/history__bombay_deccan.md",
+      "source": "history::topics_history_bombay_deccan",
+      "target": "history::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/assertion_reason.md",
+      "source": "mathematics::question_types_assertion_reason",
+      "target": "mathematics::subjects_mathematics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/figure_only.md",
+      "source": "mathematics::question_types_figure_only",
+      "target": "mathematics::subjects_mathematics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/mcq.md",
+      "source": "mathematics::question_types_mcq",
+      "target": "mathematics::subjects_mathematics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/subjective.md",
+      "source": "mathematics::question_types_subjective",
+      "target": "mathematics::subjects_mathematics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/mathematics.md",
+      "source": "mathematics::subjects_mathematics",
+      "target": "mathematics::topics_mathematics_differential_equation"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/mathematics.md",
+      "source": "mathematics::subjects_mathematics",
+      "target": "mathematics::topics_mathematics_find_the_probability"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/mathematics.md",
+      "source": "mathematics::subjects_mathematics",
+      "target": "mathematics::topics_mathematics_solution_the_differential"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2023.md",
+      "source": "mathematics::subjects_mathematics",
+      "target": "mathematics::years_2023"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2025.md",
+      "source": "mathematics::subjects_mathematics",
+      "target": "mathematics::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2026.md",
+      "source": "mathematics::subjects_mathematics",
+      "target": "mathematics::years_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/mathematics__differential_equation.md",
+      "source": "mathematics::topics_mathematics_differential_equation",
+      "target": "mathematics::years_2023"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/mathematics__differential_equation.md",
+      "source": "mathematics::topics_mathematics_differential_equation",
+      "target": "mathematics::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/mathematics__differential_equation.md",
+      "source": "mathematics::topics_mathematics_differential_equation",
+      "target": "mathematics::years_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/assertion_reason.md",
+      "source": "physics::question_types_assertion_reason",
+      "target": "physics::subjects_physics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/figure_only.md",
+      "source": "physics::question_types_figure_only",
+      "target": "physics::subjects_physics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/mcq.md",
+      "source": "physics::question_types_mcq",
+      "target": "physics::subjects_physics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/subjective.md",
+      "source": "physics::question_types_subjective",
+      "target": "physics::subjects_physics"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/physics.md",
+      "source": "physics::subjects_physics",
+      "target": "physics::topics_physics__electric_field"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "subjects/physics.md",
+      "source": "physics::subjects_physics",
+      "target": "physics::topics_physics__magnetic_field"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2023.md",
+      "source": "physics::subjects_physics",
+      "target": "physics::years_2023"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2024.md",
+      "source": "physics::subjects_physics",
+      "target": "physics::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2025.md",
+      "source": "physics::subjects_physics",
+      "target": "physics::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2026.md",
+      "source": "physics::subjects_physics",
+      "target": "physics::years_2026"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/physics__derive_expression.md",
+      "source": "physics::topics_physics__derive_expression",
+      "target": "physics::years_2024"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/physics__derive_expression.md",
+      "source": "physics::topics_physics__derive_expression",
+      "target": "physics::years_2025"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/physics__derive_expression.md",
+      "source": "physics::topics_physics__derive_expression",
+      "target": "physics::years_2026"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/physics__electric_field.md",
+      "source": "physics::topics_physics__electric_field",
+      "target": "physics::years_2023"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/physics__electric_field.md",
+      "source": "physics::topics_physics__electric_field",
+      "target": "physics::years_2024"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/physics__electric_field.md",
+      "source": "physics::topics_physics__electric_field",
+      "target": "physics::years_2025"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/physics__electric_field.md",
+      "source": "physics::topics_physics__electric_field",
+      "target": "physics::years_2026"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/assertion_reason.md",
+      "source": "political_science::question_types_assertion_reason",
+      "target": "political_science::subjects_political_science"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/map.md",
+      "source": "political_science::question_types_map",
+      "target": "political_science::subjects_political_science"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/source_based.md",
+      "source": "political_science::question_types_source_based",
+      "target": "political_science::subjects_political_science"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "question_types/subjective.md",
+      "source": "political_science::question_types_subjective",
+      "target": "political_science::subjects_political_science"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/political_science__its_economy.md",
+      "source": "political_science::subjects_political_science",
+      "target": "political_science::topics_political_science_its_economy"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/political_science__united_nations.md",
+      "source": "political_science::subjects_political_science",
+      "target": "political_science::topics_political_science_united_nations"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "topics/political_science__steps_taken.md",
+      "source": "political_science::subjects_political_science",
+      "target": "political_science::topics_political_science_steps_taken"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2022.md",
+      "source": "political_science::subjects_political_science",
+      "target": "political_science::years_2022"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2024.md",
+      "source": "political_science::subjects_political_science",
+      "target": "political_science::years_2024"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2025.md",
+      "source": "political_science::subjects_political_science",
+      "target": "political_science::years_2025"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "years/2026.md",
+      "source": "political_science::subjects_political_science",
+      "target": "political_science::years_2026"
+    }
+  ]
+}
