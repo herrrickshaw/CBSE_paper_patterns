@@ -64,8 +64,9 @@ Employability Skills block worth 10 of 50–60 marks in *every* skill paper:
 
 ## Reproducing it
 
-The question papers are © CBSE and are **not** redistributed here. They are free to
-download from CBSE, and `sources/` has every URL:
+The question papers are © CBSE. They are published free by the board; this repository
+carries the extracted text under `corpus/` for research use, and `sources/` has every
+original URL so anything here can be verified against the source:
 
 ```bash
 # 1. fetch the corpus (~6 GB; needs a browser UA — cbse.gov.in 403s otherwise)
@@ -91,7 +92,22 @@ swiftc -O scripts/ocr.swift -o ocrpdf && python3 scripts/run_ocr.py
 
 ## Data published here
 
-Derived aggregates only — no question text:
+**The full corpus is included** — `corpus/markdown/` holds every paper as Markdown
+(2,270 files, ~69 MB) with SHA-256 provenance front-matter, plus the parsed question
+tables. The PDFs themselves are not mirrored; each `.md` records the hash and source
+URL of the PDF it came from.
+
+- `corpus/markdown/past_papers/<year>/<Subject>/*.md` — 1,955 board papers, 2022–2026, main + compartment
+- `corpus/markdown/sqp_ms/`, `corpus/markdown/skill_sqp_ms/` — 2025-26 sample papers and marking schemes
+- `corpus/markdown/question_banks/` — the 12 official CBSE Question Banks
+- `corpus/past_paper_questions.csv` — 30,734 parsed questions with `is_english`, marks, type
+- `corpus/questions.csv` — the 960 questions from the 32 hand-verified papers
+- `corpus/OCR_MANIFEST.json` — 572 scanned papers recovered by OCR (5.34M characters)
+
+573 of the papers were image-only scans; macOS Vision OCR recovered 523 of them to
+usable text. 49 remain thin — they are Hindi-medium, and Vision has no Devanagari model.
+
+Derived aggregates:
 
 - `data/subject_repetition.csv` — the index table above
 - `data/recurring_topics.csv` — mined topic phrases and stem formulas, with year lists and marks
@@ -113,5 +129,7 @@ Derived aggregates only — no question text:
 
 ## Licence
 
-Code: MIT. Analysis text: CC BY 4.0. The underlying question papers remain the
-intellectual property of the Central Board of Secondary Education.
+Code: MIT. Analysis text: CC BY 4.0. The question papers under `corpus/` remain the
+intellectual property of the Central Board of Secondary Education and are reproduced
+here for research and educational use; CBSE publishes them free of charge at the URLs
+in `sources/`. If CBSE objects, the corpus directory will be removed.

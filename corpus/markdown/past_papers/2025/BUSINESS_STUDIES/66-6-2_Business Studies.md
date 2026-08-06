@@ -1,0 +1,1220 @@
+---
+title: "66-6-2 Business Studies"
+source_pdf: "66-6-2_Business Studies.pdf"
+source_url: ""
+pages: 31
+pdf_bytes: 6975333
+pdf_sha256: "fa960a57f19852b888495ce9a0f9bbf6e74465ecd294c3901305fc370765fae7"
+text_chars: 26303
+low_text_pages: 1
+converter: "macOS Vision OCR (accurate, en-US) @200dpi via ocr.swift"
+ocr: true
+ocr_note: "Devanagari NOT recognised - Vision has no Hindi model; the Hindi column of bilingual papers is noise"
+---
+
+# 66-6-2 Business Studies
+
+
+---
+
+## page 1
+
+```
+Series: W6ZYX
+SET~2
+66/6/2
+Q.P. Code
+Roll No.
+Candidates must write the Q.P. Code
+on the title page of the answer-book.
+NOTE
+(I)
+:(I)
+Please check that this question paper
+31$|
+contains 31 printed pages.
+(II)
+: (II)
+Q.P. Code given on the right hand
+side of the question paper should be
+written on the title page of the
+answer-book by the candidate.
+|(III) Please check that this question paper
+contains 34 questions.
+|(IV) Please write down the Serial
+Number of the question in the
+answer-book at the given place
+before attempting it.
+(V)
+15 minute time has been allotted to
+read this question paper.
+The
+question paper will be distributed
+at 10.15 a.m. From 10.15 a.m. to
+10.30
+a.m., the candidates
+will
+read the question paper only and
+#
+will not write any answer on the
+answer-book during this period.
+BUSINESS STUDIES
+ЗН : 80
+Time allowed: 3 hours
+Maximum Marks: 80
+*66/6/2*
+1
+[ P.T.O.]
+```
+
+---
+
+## page 2
+
+```
+(i)
+(ii)
+(iti)
+(iv)
+(V)
+(vi)
+(vii)
+20×1=20
+(i)
+(ii)
+(iii)
+(iv)
+(A)
+(iii), (i), (iv), (ii)
+(B)
+(i), (ii), (iii), (iv)
+(C)
+(iv), (ii), (iii), (i)
+(D)
+(iii), (iv), (i), (ii)
+*66/6/2*
+#
+```
+
+---
+
+## page 3
+
+```
+General Instructions:
+Read the following instructions very carefully and strictly follow them:
+(i)
+This question paper contains 34 questions. All questions are compulsory.
+(ii)
+Marks are indicated against each question.
+(iii) Answers should be brief and to the point.
+(iv)
+Answers to questions carrying 3 marks may be from 50 to 75 words.
+(u)
+Answers to questions carrying 4 marks may be in about 150 words.
+(vi) Answers to questions carrying 6 marks may be in about 200 words.
+(vii) Attempt all parts of a question together.
+Questions no. I to 20 are Multiple Choice Questions (MCQs), carrying 1 mark
+each.
+20×1=20
+1. If an investor wishes to buy or sell any security, he/she has to first
+approach a registered broker or sub-broker and enter into an agreement
+with him. An investor has to sign a broker-client agreement and a
+client registration form before placing an order to buy or sell securities.
+Thereafter, the investor has to open a 'Demat' account or 'Beneficial
+owner' account with a depository participant for holding and transferring
+securities in the demat form and a bank account for cash transactions in
+the securities market. The first two steps of "Trading and Settlement
+procedure' in stock market have been discussed in the above lines.
+Place the next four steps in the correct order:
+(i)
+The broker will then go online and connect to the main stock
+exchange and match the share and best price available.
+(ii)
+After the trade has been executed, within 24 hours the broker
+issues a contract note.
+(iii)
+The investor then places an order with the broker to buy or sell
+shares. Clear instructions have to be given about the number of
+shares and the price at which the shares should be bought or sold.
+(iv)
+When the shares can be bought or sold at the price mentioned, it
+will be communicated to the broker's terminal and the order will
+be executed electronically.
+Choose the correct option from the following :
+(A) (ili), (i), (iv), (ii)
+(В) (i), (ii), (iii), (iv)
+(C)
+(iv), (ii), (iii), (i)
+(D) (iii), (iv), (i), (ii)
+*66/6/2*
+3
+#
+[ P.T.O.]
+```
+
+---
+
+## page 4
+
+```
+2.
+(A)
+(B)
+(C)
+(D)
+(A)
+(B)
+(C)
+(D)
+3.
+(A)
+(B)
+(C)
+(D)
+*66/6/2*
+#
+```
+
+---
+
+## page 5
+
+```
+2.
+Identify the financial incentive shown in the picture given below :
+Employer
+Employee
+EPF
+(A)
+Stock option
+(B)
+Perquisites
+(C)
+Productivity-linked wage incentive
+(D) |
+Retirement benefits
+Note: The following question is for the Visually Impaired Candidates only
+in lieu of Q. No. 2.
+An incentive offered over and above the wages/salary to the employees is
+known as :
+(A)
+Productivity-linked wage incentive
+(B)
+Bonus
+(C)
+Profit sharing
+(D)
+Stock option
+Seeing the increasing demand for automobiles in Buleti, Veso Cars', a
+global car manufacturing company planned to expand its operations and
+sell its cars there. However, the government of Buleti imposed high
+import duties on foreign made cars to protect local manufacturers from
+foreign competition. This attitude of the Buleti government towards
+foreign car manufacturers increased the cost of importing cars, making it
+less affordable for Veso Cars' to sell its cars at competitive prices in
+Buleti.
+The component of business environment highlighted above is :
+(A) Political environment
+(B)
+Social environment
+(C)
+Legal environment
+(D)
+Economic environment
+*66/6/2*
+5
+#
+[ P.T.O.]
+```
+
+---
+
+## page 6
+
+```
+b÷ gz
+HAN B PHEN PÊ NHI qò
+tecE bupnh bra nge Hieenjyo bangsna dEdE роддну
+(V)
+(2)
+(0)
+(a)
+не НАЕ
+(V)
+(2)
+(D)
+(a)
+19-1115
+*7/9/99*
+#
+```
+
+---
+
+## page 7
+
+```
+4.
+Raghu, on waking up early in the morning, often complained about back
+pain. When his pain persisted, he consulted a doctor who advised him to
+purchase a good quality orthopedic mattress. That would ensure correct
+spinal alignment and reduce the back pain.
+Raghu surveyed the market and purchased a good quality orthopedic
+mattress. As the price of the mattress was very high, he wanted to avoid
+paying GST. The shopkeeper suggested that he can do so if he does not
+take a receipt for the purchase of the mattress. Raghu readily agreed for
+the same.
+After few months of using the mattress, his back pain recurred. He
+realised that the mattress had caved in from the centre. He approached
+the shopkeeper who refused to entertain Raghu.
+Raghu wanted to approach the court for redressal of his grievance.
+However, one of his friends told him that he would not be able to do so as
+he had not fulfilled one of his responsibilities.
+From the following, identify the responsibility which Raghu failed to
+fulfill:
+(A) Respect the environment. Aovid waste, littering and contributing
+to pollution.
+(B)
+Ask for a Cash Memo on purchase of goods and services.
+(C)
+Assert yourself to ensure that you get a fair deal.
+(D)
+Learn about the risks associated with products and services, follow
+manufacturers instructions and use the product safely.
+5.
+"To identify the needs of the customers and to take various decisions
+related to successful marketing of the products and
+services, it is
+important to make an analysis of the available opportunities and threats,
+as well as strengths and weaknesses of the organisation and decide what
+opportunities can be best pursued by it', highlights one of the functions of
+marketing, that is :
+(A)
+gathering and analysing market information
+(B)
+marketing planning
+(C)
+product designing and development
+(D)
+branding
+*66/6/2*
+#
+[ P.T.O.]
+```
+
+---
+
+## page 8
+
+```
+6.
+ARU (R):
+(A)
+(B)
+(C)
+(D)
+đồề:
+(A)
+(B)
+(C)
+*66/6/2*
+#
+```
+
+---
+
+## page 9
+
+```
+6.
+Read the following statements : Assertion (A) and Reason (R).
+Assertion (A): The principles of management are guidelines to action,
+but do not provide readymade, straitjacket solutions to
+all managerial problems.
+Reason (R) :
+Real business situations are neither complex, nor
+dynamic and are not the result of many factors.
+Choose the correct alternative from the options given below :
+(A)
+Both Assertion (A) and Reason (R) are true and Reason (R) is the
+correct explanation of Assertion (A).
+(B)
+Both Assertion (A) and Reason (R) are true, but Reason (R) is not
+the correct explanation of Assertion (A).
+(C)
+Assertion (A) is true, but Reason (R) is false.
+(D)
+Assertion (A) is false, but Reason (R) is true.
+7.
+After moving to Dama from his home town in Rasha, Ramu and his
+family were staying in a rented accomodation for the last 5 years. Ramu
+and one of his office colleagues decided to buy a flat each in close
+proximity to their office. After a lot of research, they settled for a housing
+project which would cost them £ 1•25 crore each for a three bedroom flat.
+The housing project developers promised to deliver their flats within
+36 months. An amount off 20 lakh each was paid to the developers of the
+housing project at the time of booking the flat. Since the payment
+schedule was time bound, they paid additional & 80 lakh each over a
+period of 2 years. The balance of * 25 lakh was to be paid at the time of
+registration. Despite having taken the major part of the cost of the flats,
+the housing project developers hadn't started the construction work.
+Ramu and his colleague asked the housing project developers to refund
+the amount paid. On refusal of refund of the amount paid by the housing
+project developers, Ramu and his colleague decided to approach the
+consumer court.
+The redressal agency which Ramu and his colleague should approach for
+redressal of their grievance is :
+(A)
+District Commission
+(B)
+State Commission
+(C)
+National Commission
+(D)
+Local Commission
+*66/6/2*
+#
+I P.T.O.]
+```
+
+---
+
+## page 10
+
+```
+8.
+(A) HEA
+(B)
+(C)
+9.
+*| :
+(A)
+(B)
+(C)
+(D)
+·66/6/2*
+10
+#
+```
+
+---
+
+## page 11
+
+```
+8.
+'Green Tech Solutions'
+, a manufacturer of eco-friendly products had an
+organisational structure with separate departments for production,
+marketing, sales, etc. Each department had its own objectives, policies
+and style of working. The company was facing challenges as the
+production department would focus on producing goods without
+consulting the sales department and the marketing department
+developed advertising campaigns without considering the production
+timelines, leading to confusion and conflicts. To resolve this, the Chief
+Executive Officer, Madhur arranged inter-departmental meetings
+explaining to the respective managers that they have to consult each
+other while performing their activities. All the departmental managers
+agreed to this.
+By linking the activities of all the departments, the Chief Executive
+Officer was able to ensure that the right products are available when
+needed, marketing efforts match with the product availability and sales
+targets are achieved.
+The concept of management followed by the Chief Executive Officer to
+resolve confusion and conflicts between departments was :
+(A)
+Organising
+(B) Coordination
+(C)
+Planning
+(D) Staffing
+9.
+Read the following statements carefully :
+Statement I: Planning and Controlling are both backward-looking as
+well as forward-looking functions.
+Statement II: Planning
+is
+prescriptive
+whereas
+Controlling is
+evaluative.
+In light of given statements,
+choose the correct alternative from the
+following :
+(A)
+Statement I is true and Statement II is false.
+(B) Statement I is false and Statement II is true.
+(C) Both Statement I and Statement II are true.
+(D) Both Statement I and Statement II are false.
+*66/6/2*
+#
+I P.T.O.]
+```
+
+---
+
+## page 12
+
+```
+10.
+A HAHO O e
+(A)
+(B)
+(C)
+(D)
+11.
+(A)
+(B)
+(C)
+(D)
+12.
+(A)
+(B)
+(C)
+(D)
+*66/6/2*
+12
+#
+```
+
+---
+
+## page 13
+
+```
+10.
+Read the following statements: Assertion (A) and Reason (R).
+Assertion (A): A buyer buys a product or service for what it does for
+him/her or the benefit it provides to him/her.
+Reason (R) :
+From the customer's point of view, a product is a bundle
+of utilities which is purchased because of its capability to
+provide satisfaction of a certain need.
+Choose the correct alternative from the options given below :
+(A)
+Both Assertion (A) and Reason (R) are true and Reason (R) is the
+correct explanation of Assertion (A).
+(B)
+Both Assertion (A) and Reason (R) are true, but Reason (R) is not
+the correct explanation of Assertion (A).
+(C)
+Assertion (A) is true, but Reason (R) is false.
+(D)
+Assertion (A) is false, but Reason (R) is true.
+11.
+Which of the following is not a feature of formal organisation?
+(A)
+It is deliberately designed by the top management.
+(B)
+The standards of behaviour evolve from group norms rather than
+officially laid down rules and regulations.
+(C)
+It specifies the relationships between various job positions and
+clarifies who is to report to whom.
+(D)
+It places more emphasis on work to be performed than
+interpersonal relationships among the employees.
+12.
+Which of the following is a
+regulatory function of Securities and
+Exchange Board of India ?
+(A)
+Registration of brokers and sub-brokers and other players in the
+market
+(B)
+Training of intermediaries of the securities market
+(C)
+Promotion of fair practices and code of conduct in securities market
+(D)
+Conducting research and publishing information useful to all
+market participants
+*66/6/2*
+13
+#
+I P.T.O.]
+```
+
+---
+
+## page 14
+
+```
+(V)
+(2)
+(D)
+(a)
+a ten de tea te let a fate fate fin yoke day ye pya leate
+(V)
+(2)
+(D)
+(a)
+•gI
+(V)
+(2)
+(D)
+(a)
+*7/9/99*
+#
+```
+
+---
+
+## page 15
+
+```
+13.
+"The principle of management which emphasizes on obedience to
+organisational rules and employment agreements necessary for the
+working of the organisation' is called :
+(A)
+Division of work
+(B)
+Discipline
+(C)
+Scalar chain
+(D)
+Remuneration of employees
+14.
+Under
+_ the consumer has a right to get relief for replacement
+of the product, removal of defect in the product, compensation paid for
+any loss or injury suffered by the consumer in case the product/service
+falls short of his expectations.
+(A)
+Right to safety
+(B)
+Right to seek redressal
+(C)
+Right to be assured
+(D)
+Right to be heard
+15.
+'Alpha Manufacturing Ltd.' is a company manufacturing high quality car
+spare parts. The company has a well-established production line and its
+products are highly demanded in the market. However, it was noticed
+that the defect rate in the manufacturing process was higher than the
+standard of 10 per 1,000 pieces produced. In spite of best efforts, the
+Production Manager was not able to reduce the defect rate. So, he decided
+to revise the standards.
+The step of the controlling process, followed by the Production Manager
+after not being able to reduce the defect rate, will be :
+(A)
+Taking corrective action
+(B)
+Measurement of actual performance
+(C)
+Analysing deviations
+(D)
+Comparing actual performance with standards
+*66/6/2*
+15
+#
+I P.T.O.]
+```
+
+---
+
+## page 16
+
+```
+16.
+(A)
+(B)
+(C)
+(D)
+17.
+(i)
+(ii)
+(ili)
+1E PAJI A Mate for tEle 140 fall it yet
+(iv)
+(R41(8T)
+(A)
+1-(iii), 2-(ii), 3-(i), 4-(iv)
+(B)
+1-(i), 2-(ii), 3-(iii), 4-(iv)
+(C)
+1-(iii), 2-(ii), 3-(iv), 4-(i)
+(D)
+1-(iv), 2-(i), 3-(ii), 4-(iii)
+*66/6/2*
+16
+#
+```
+
+---
+
+## page 17
+
+```
+16.
+Read the following statements carefully:
+Statement I:
+A single-use plan is used for activities that occur
+regularly over a period of time.
+Statement II: Policies are a general form of standing plans that specify
+the organisation's response to a certain situation.
+In the light of the above statements, choose the correct alternative from
+the following:
+(A)
+Statement I is true and Statement II is false.
+(B)
+Statement I is false and Statement II is true.
+(C)
+Both Statement I and Statement II are true.
+(D) Both Statement I and Statement II are false.
+17.
+Match the steps of organising process given in Column I with their
+explanation given in Column II.
+Column I
+Column II
+1.
+Identification
+and
+(i)
+Establish clear relationships to create a
+division of work
+hierarchical structure and facilitate
+co-ordination among various departments.
+2. Departmentalisation
+(ii)
+Divide the work into small
+and
+manageable activities so that activities
+similar in nature are grouped together.
+Assignment of
+(iii) As per previously drawn plans, identify the
+duties
+work and divide in such a way so that
+duplication can be avoided and burden of
+work can be shared among the employees.
+4.
+Establishing
+(iv) Define the work of different job positions
+authority and
+and accordingly allocate work to various
+reporting
+employees.
+relationships
+Choose the correct option from the following :
+(A)
+1-(iii), 2-(ii), 3-(i), 4-(iv)
+(B)
+1-(i), 2-(ii), 3-(iii), 4-(iv)
+(C)
+1-(iii), 2-(ii), 3-(iv), 4-(i)
+(D)
+1-(iv), 2-(i), 3-(ii), 4-(iii)
+*66/6/2*
+17
+#
+[ P.T.O.]
+```
+
+---
+
+## page 18
+
+```
+18.
+฿:
+(A)
+(B)
+(C)
+(D)
+19.
+(A)
+(B)
+(C)
+(D)
+20.
+(A)
+(B)
+(C)
+(D)
+21.
+(Б)
+3
+(i)
+(ii)
+энеа
+(a)
+*66/6/2*
+18
+#
+```
+
+---
+
+## page 19
+
+```
+18.
+The increase in profit earned by the equity shareholders due to the
+presence of fixed financial charges is known as :
+(A)
+Trading on equity
+(B)
+Financial risk
+(C)
+Financial planning
+(D)
+Financial leverage
+19.
+Identify the incorrect statement with respect to importance of
+'Directing':
+(A)
+It helps to initiate action.
+(B)
+It helps to bring stability and balance in the organisation.
+(C)
+It facilitates introduction of needed changes in the organisation.
+(D)
+It establishes standards for controlling.
+20.
+Identify the incorrect statement with respect to 'functional foremanship'
+as a technique of scientific management :
+(A)
+It advocates separation of planning and execution functions.
+(B)
+Speed boss, gang boss, repair boss and inspector work under the
+production incharge.
+(C)
+It is an extension of the principle of unity of command to the shop
+floor.
+(D)
+Each worker takes orders from eight foremen in the process of
+production.
+21.
+(a)
+Explain the following points of importance of the 'Controlling'
+function of management :
+3
+(i)
+Accomplishing organisational goals
+(ii)
+Facilitating coordination in action
+OR
+(b)
+State any three benefits of training to the organization.
+3
+*66/6/2*
+19
+#
+[ P.T.O.]
+```
+
+---
+
+## page 20
+
+```
+22.
+(a)
+3
+23.
+3
+*66/6/2*
+20
+#
+```
+
+---
+
+## page 21
+
+```
+22.
+Verso Cars' opened their new car showroom in Kainvad. They appointed
+Tarun as a General Manager for managing their operations. He was
+responsible for meeting sales targets, keeping a check on inventory,
+building customer relations, ensuring compliance with regulations, etc.
+However, the high volume of work made it impractical for him to handle
+it all by himself. To meet the company's goals, and to ensure that all
+work is accomplished, he appointed Nikhil as a Sales Manager. Nikhil
+was given the authority to take decisions inherent is his managerial
+position and to tell people what to do and expect them to do it. He not
+only had to ensure that sales targets are met but was also to guide sales
+representatives and had to report directly to Tarun. As a result, Tarun
+was able to concentrate on more important matters and ensure that all
+work is accomplished.
+(a)
+Identify the concept followed by Tarun which helped him in
+achieving the company's goals.
+(b)
+Explain any two points of importance of the concept identified in
+(a) above.
+3
+23.
+Sweets has been the mainstay for several large homegrown restaurant
+brands. Increased life expectancy of people and increased awareness for
+health care amongst consumers has increased the demand for healthy
+food options. Young consumers are moving away from consuming
+traditional sweets to buying more western style premium products which
+are baked or steamed. With this shift in consumer preferences, 'Shree
+Restaurants', a well known restaurant brand, is gearing itself up for
+playing a greater role in the healthy packaged foods market. In addition
+to traditional sweets, the company is also planning to expand to healthy
+savoury and sweet items and some ready-to-eat items. These new healthy
+products are expected to change people's lifestyles.
+Identify and explain the two features of Business Environment
+highlighted in the above case.
+3
+*66/6/2*
+21
+#
+I P.T.O.]
+```
+
+---
+
+## page 22
+
+```
+24.
+(5)
+3
+(i)
+(ii)
+этетат
+(ta)
+3
+(i)
+(ii)
+25.
+(Б)
+4
+(i)
+(ii)
+(Ta)
+(i)
+(ii)
+26.
+(Ф)
+(T)
+4
+*66/6/2*
+22
+#
+```
+
+---
+
+## page 23
+
+```
+24.
+(a)
+Explain the following internal sources of recruitment :
+3
+(i)
+Transfers
+(ii)
+Promotions
+OR
+(b)
+Explain the following methods of training:
+3
+(i)
+Internship training
+(ii)
+Vestibule training
+25.
+(a)
+Explain the following points of importance of the 'Planning'
+function of management :
+4
+(i)
+Planning reduces overlapping and wasteful activities.
+(ii)
+Planning promotes innovative ideas.
+OR
+(b)
+Explain the following features of the 'Planning' function of
+management:
+4
+(i)
+Planning is a primary function of management.
+(ii)
+Planning is pervasive.
+26.
+Shreedar had worked as an Operations Manager at a cab aggregator firm
+for ten years, gaining in-depth knowledge of the business. He then
+decided to leave the job and started his own cab aggregator business
+'Easy Cab' with his friend Mukesh. Shreedar became the Chief Executive
+Officer and Mukesh the Chief Operating Officer in Easy Cab'. They
+decided to initially offer their services only in Goregram. To finance the
+venture, they applied for a loan to purchase electric cars for their fleet
+aiming to provide a sustainable and eco-friendly way to travel.
+(a)
+Identify the level of management at which Shreedar and Mukesh
+are working in 'Easy Cab'.
+State any three functions required to be performed by both
+Shreedar and Mukesh at the level of management they are
+working.
+4
+*66/6/2*
+23
+#
+[ P.T.O.]
+```
+
+---
+
+## page 24
+
+```
+(4b)
+(6)
+•87
+176I11741y
+(42)
+(la)
+(1)
+(11)
+*719/99*
+#
+```
+
+---
+
+## page 25
+
+```
+27. 'Nurata Ltd.' is a leading manufacturer of clothing in India, known for
+good quality casual wear as well as formal wear for children. The
+company is earning good profits and now wants to expand its business by
+entering into the business of electronics and home appliances too. The
+management decided to create separate business units, where each unit
+head would be responsible for a specific product category and for its
+performance. All key functions, such as marketing, finance, production,
+etc. would be handled within each unit.
+(a)
+Identify the organizational structure adopted by 'Nurata Ltd.' on
+expansion of its business.
+(b)
+State any two advantages and one disadvantage of the
+organizational structure identified in (a) above.
+4
+28. Rushil opened 'RK Hair and Beauty Salon' in a reputed locality and
+appointed fifteen people as salon staff. However, within just a few
+months, he observed that the employees were leaving the salon one by
+one and the business was not able to meet even the monthly targets.
+Rushil asked his manager to find out the reason. The manager reported
+that quite often, according to the requirement, the hair stylist was asked
+to do the work of a makeup artist and a makeup artist was asked to do
+nail care, etc. As a result, the employees were not happy and wanted to
+work at a salon where work was divided according to their competence
+and would enhance their specialisation.
+The manager also added that there was neither any fixed place for hair
+care, skin care or nail care materials nor for the employees. This created
+confusion and hindrance in the work and led to further dissatisfaction
+amongst the staff. As a result, the employees kept leaving the salon
+leading to high employee turnover ratio and a shortage of experienced
+staff.
+Identify and explain the two principles of management discussed above
+that are not followed in RK Hair and Beauty Salon'.
+4
+29.
+(a)
+State any four features of the 'Directing' function of management.
+4
+OR
+(b)
+Explain the following non-financial incentives :
+(i)
+Employee Recognition Programmes
+(ii)
+Job Security
+*66/6/2*
+25
+#
+I P.T.O.]
+```
+
+---
+
+## page 26
+
+```
+(42)
+(b)
+(1)
+Sg-54 rat
+(!!)
+9
+*7/9/99*
+97
+#
+```
+
+---
+
+## page 27
+
+```
+30. 'BNG Ltd.' is a reputed company that manufactures consumer durables.
+It has a large scale manufacturing unit where products like electric
+kettles, toasters, blenders, electric irons, etc. are manufactured. Since the
+production is at a large scale, the average cost of production is low. As a
+result, the products are widely available across areas at affordable prices
+contributing to its strong profit margins.
+On the other hand, 'KMV Ltd., another reputed consumer durables
+manufacturer in the same business is also earning good profits. However,
+'KMV Ltd.' focuses on producing the products which are superior in
+quality, performance and features. It has a dedicated Research and
+Development team which continually works to bring improvement in the
+quality of its products.
+(a)
+Identify and explain the marketing management philosophy
+followed by 'BNG Ltd.' and 'KMV Ltd.'.
+(b)
+Differentiate
+between the
+two
+marketing
+management
+philosophies identified in (a) above on the basis of the following :
+4
+(i)
+Main focus
+(ii)
+Ends
+After completing his civil engineering degree, Sankalp decided to start
+his own business. He started a construction company 'Sankalp Builders'.
+He entered into an agreement for construction of residential flats on a
+land of 30 acres. Building of the flats on such a large scale required
+expensive machinery like bulldozers, excavators, etc. He had the option
+to buy the machinery or take it on lease. Though Sankalp was in favour
+of buying, his father advised him to take the decision with caution as
+construction machinery becomes outdated very fast and needs to be
+replaced. He also told Sankalp that in future he may think of diversifying
+his operations and would need funds for that too.
+Identify and state any four factors discussed above affecting the fixed
+capital requirements of 'Sankalp Builders'.
+6
+*66/6/2*
+27
+#
+I P.T.O.]
+```
+
+---
+
+## page 28
+
+```
+32.
+(Б)
+6
+(T9)
+6
+(i)
+(ii)
+(iii)
+(iv)
+33.
+*66/6/2*
+28
+#
+```
+
+---
+
+## page 29
+
+```
+32.
+(a)
+Distinguish between Primary Market' and 'Secondary Market' on
+the basis of any six points.
+6
+OR
+(b)
+Explain the following factors affecting dividend decision of a
+company:
+6
+(i)
+Growth opportunities
+(ii)
+Cash flow position
+(iii)
+Stock market reaction
+(iv) Access to capital market
+33.
+Sara recently received her degree in automobile engineering and decided
+to join her father's electric vehicle business. They were not only selling
+electric vehicles but also providing related services like charging vehicles
+and their maintenance, etc. Sara had worked on a practical project
+related to electric vehicles during her automobile engineering course and
+won first prize for it. She was impressed by electric vehicles because of
+their potential to revolutionize the automotive industry as these are more
+sustainable and eco-friendly alternative to traditional vehicles.
+She was exploring the possibility of entering into partnerships with the
+government for electric vehicle charging stations. This could be shared
+investment, with the government providing land and incentives and her
+company contributing technical expertise and operational management.
+Sara shared her thoughts and ideas with her father. She prepared a
+proposal to collaborate with the government for setting up electric vehicle
+charging stations. The proposal contained her ideas, feelings and
+suggestions which she intended to convey to the government. She then
+converted her ideas, feelings and suggestions into words and pictures.
+She used clear concise language and visual aids such as charts and
+graphs, to make complex information more understandable. She now had
+to choose a path through which her proposal would be transmitted to the
+government. Sara had a face-to-face meeting with the government and
+presented her ideas directly.
+*66/6/2*
+29
+#
+I P.T.O.]
+```
+
+---
+
+## page 30
+
+```
+(4e)
+nă d
+NSN De bn nejıy Hkgh
+(L)
+d d
+1 ęŞK 1 i4K DAşanE jeE
+9
+7E
+(4e)
+9
+LOPOtE
+(5)
+9
+*7/9/99**
+#
+```
+
+---
+
+## page 31
+
+```
+(a)
+The above case highlights an element of one of the functions of
+management. Identify and explain the element.
+(b)
+Quoting lines from the above case, name the four elements of the
+concept identified in (a) above.
+(C)
+State three other elements of the concept identified in (a) above,
+not discussed in the above case.
+6
+34.
+(a) Explain any four features of marketing.
+6
+OR
+(b)
+Explain any four important elements of marketing mix.
+6
+*66/6/2*
+#
+```

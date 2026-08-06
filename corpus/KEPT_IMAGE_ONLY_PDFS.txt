@@ -1,0 +1,573 @@
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/ACCOUNTANCY/264-6-1 Accountancy Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/ACCOUNTANCY/264-6-2 Accountancy Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/ACCOUNTANCY/264-6-3 Accountancy Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Agriculture/332 Agriculture.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Air-Conditioning_and_Refrigeration/351 Air-Conditioning and Refrigeration.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Applied_Mathematics/465 Applied Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Artificial_Intelligence/367 Artificial Intelligence.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Automotive/328 Automotive.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/BIOLOGY/57-B-6 Biology Blind.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/BUSINESS_STUDIES/263-6-1 Business Studies Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/BUSINESS_STUDIES/263-6-2 Business Studies Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/BUSINESS_STUDIES/263-6-3 Business Studies Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Banking/335 Banking.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Beauty_and_Wellness/331 Beauty and Wellness.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Bharatnatyam/84 Bharatnatyam.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Biotechnology/99 Biotechnology.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/CHEMISTRY/56-B-6 Chemistry Blind.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Commercial_Art/72 Commercial Art..pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Commercial_Art/72 Commercial Art.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Cost_Accounting/347 Cost Accounting.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Design/354 Design.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/ECONOMICS/226-6-1 Economics Punjabi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/ECONOMICS/226-6-2 Economics Punjabi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/ECONOMICS/226-6-3 Economics Punjabi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/ECONOMICS/251-6-1 Economics Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/ECONOMICS/251-6-2 Economics Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/ECONOMICS/251-6-3 Economics Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Early_Childhood_Care___Education/366 Early Childhood Care & Education.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Electrical_Technology/343 Electrical Technology.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Entrepreneurship/98 Entrepreneurship.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Fashion_Studies/361 Fashion Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Financial_Market_Management/329 Financial Market Management.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Food_Production/333 Food Production.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/French/18 French.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Front_Office_Operations/334 Front Office Operations.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/GEOGRAPHY/227-6-1 Geography Punjabi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/GEOGRAPHY/227-6-2 Geography Punjabi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/GEOGRAPHY/227-6-3 Geography Punjabi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/GEOGRAPHY/255-6-1 Geography Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/GEOGRAPHY/255-6-2 Geography Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/GEOGRAPHY/255-6-3 Geography Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Geospatial_Technology/342 Geospatial Technology.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Graphics/74 Graphics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/HINDI_ELECTIVE/28 English Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/HISTORY/222-6-1 History Punjabi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/HISTORY/222-6-2 History Punjabi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/HISTORY/222-6-3 History Punjabi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/HISTORY/253-6-1 History Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/HISTORY/253-6-2 History Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/HISTORY/253-6-3 History Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Health_Care/337 Health Care.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Hindustani_Music_Melodic/80 Hindustani Music Melodic.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Hindustani_Music_Vocal/79 Hindustani Music Vocal.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Home_Science/69 Home Science..pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Home_Science/69 Home Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Horticulture/340 Horticulture.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Information_Technology/326 Information Technology.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Insurance/338 Insurance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Library_and_Information_Science/360 Library and Information Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/MATHS/65-B-6 Maths Blind.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Marketing/336 Marketing.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Mass_Media_Studies/359 Mass Media Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Mizo/97 Mizo.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Multimedia/345 Multimedia.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/NCC/42 NCC.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Nepali/24 Nepali.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Office_Procedures___Practices/348 Office Procedures & Practices.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/PHYSICS/55-B-6 Physics Blind.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/POL_SCIENCE/221-6-1 Political Science Punjabi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/POL_SCIENCE/221-6-2 Political Science Punjabi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/POL_SCIENCE/221-6-3 Political Science Punjabi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/POL_SCIENCE/252-6-1 Polotical Science Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/POL_SCIENCE/252-6-2 Poliotical Science Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/POL_SCIENCE/252-6-3 Political Science Urdu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Painting/71 Painting.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Retail/325 Retail.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Salesmanship/355 Salesmanship.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Sanskrit_Core/22 Sanskrit Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Sanskrit_Elective/49 Sanskrit Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Sculpture/73 Sculpture.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Shoprthand_Hindi/350 Shoprthand Hindi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Shorthand_English/349 Shorthand English.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Taxation/346 Taxation.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Tourism/330 Tourism.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Typography___Computer_Applications/341 Typography & Computer Applications.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Web_Applications/327 Web Applications.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022-COMPTT/Yoga/365 Yoga.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Accountancy/67-1-1 Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Accountancy/67-1-2 Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Accountancy/67-1-3 Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Accountancy/67-3-1 Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Accountancy/67-3-2 Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Accountancy/67-3-3 Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Accountancy/67-5-1 Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Accountancy/67-5-2 Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Accountancy/67-5-3 Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Air_Conditioning_and_Refrigeration/351_Air Conditioning and Refrigeration.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Artificial__Intelligence/367_Artificial Intelligence.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/BS/66-1-1 Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/BS/66-1-2 Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/BS/66-1-3 Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/BS/66-3-1 Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/BS/66-3-2 Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/BS/66-3-3 Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/BS/66-5-1 Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/BS/66-5-2 Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/BS/66-5-3 Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Bengali/5_Bengali.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Bharatnatayam_Dance/84 Bharatnatayam Dance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Biology/57-1-1 Biology.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Biology/57-1-2 Biology.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Biology/57-1-3 Biology.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Biology/57-3-1 Biology.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Biology/57-3-2 Biology.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Biology/57-3-3 Biology.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Business_Administration/357 Business Administration.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Carnatic_Music_Inst_Mel/77_Carnatic Music Inst. Mel..pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Carnatic_Music_Inst_Per/78_Carnatic Music Inst. Per..pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Carnatic_Music_Vocal_76/76_Carnatic Music Vocal.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Chemistry/56-1-1 Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Chemistry/56-1-2 Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Chemistry/56-1-3 Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Chemistry/56-3-1 Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Chemistry/56-3-2 Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Chemistry/56-3-3 Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Chemistry/56-5-1 Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Chemistry/56-5-2 Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Chemistry/56-5-3 Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Commercial_Art/72_Commercial Art.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Computer_Science/91_Computer Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Dance_Kuchipudi/88 Dance Kuchipudi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Design/354_Design.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Early_Childhood_Care___Education/366_Early Childhood Care & Education.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Economics/58-1-1 Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Economics/58-1-2 Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Economics/58-1-3 Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Economics/58-3-1 Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Economics/58-3-2 Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Economics/58-3-3 Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Eng_Core/1-1-1 English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Eng_Core/1-1-2 English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Eng_Core/1-1-3 English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Eng_Core/1-3-1 English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Eng_Core/1-3-2 English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Eng_Core/1-3-3 English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Eng_Core/1-5-1 English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Eng_Core/1-5-2 English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Eng_Core/1-5-3 English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Engineering_Graphics/68 Engineering Graphics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Fashion_Studies/361 Fashion Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Food_Nutrition___dietetics/358 Food Nutrition & dietetics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Geography/64-1-1 Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Geography/64-1-2 Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Geography/64-1-3 Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Geography/64-3-1 Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Geography/64-3-2 Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Geography/64-3-3 Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Geography/64-5-1 Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Geography/64-5-2 Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Geography/64-5-3 Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Graphics/74_Graphics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Gujarati/10 Gujarati.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Core/2-1-1 Hindi Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Core/2-1-2 Hindi Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Core/2-1-3 Hindi Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Core/2-3-1 Hindi Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Core/2-3-2 Hindi Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Core/2-3-3 Hindi Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Core/2-5-1 Hindi Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Core/2-5-2 Hindi Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Core/2-5-3 Hindi Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Elective/29-1-1 Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Elective/29-1-2 Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Elective/29-1-3 Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Elective/29-2-1 Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Elective/29-2-2 Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Elective/29-2-3 Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Elective/29-3-1 Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Elective/29-3-2 Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Elective/29-3-3 Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Elective/29-5-1 Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Elective/29-5-2 Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Hindi_Elective/29-5-3 Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/History/61-1-1 History.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/History/61-1-2 History.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/History/61-1-3 History.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/History/61-3-1 History.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/History/61-3-2 History.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/History/61-3-3 History.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Informatics_Practices/90_Informatics Practices.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Kannada/15_Kannada.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Kashmiri/96_Kashmiri.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Kathak_Dance/82 Kathak Dance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Kathakali_Dance/86 Kathakali Dance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Legal_Studies/40_Legal Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Library_and_Information_Science/360 Library and Information Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Malayalam_XII/12_Malayalam_XII.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Marathi/9_Marathi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Mass_Media_Studies/359_Mass Media Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Math/65-1-1 Mathematcs.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Math/65-1-2 Mathematcs.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Math/65-1-3 Mathematcs.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Math/65-3-1 Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Math/65-3-2 Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Math/65-3-3 Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Math/65-5-1 Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Math/65-5-2 Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Math/65-5-3 Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Medical_Diagnostics/352_Medical Diagnostics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Mizo/97_Mizo.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Music_Hindustani_MI/80_Music Hindustani MI.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Music_Hindustani_PI/81_Music Hindustani PI.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Music_Hindustani_Vocal/79_Music Hindustani Vocal.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/NCC/42_NCC.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Odissi_Dance/87 Odissi Dance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Painting/71_Painting.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Phy_Edu/225_Physical Education Punjabi Version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Phy_Edu/75_physical education.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Physics/55-1-1 Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Physics/55-1-2 Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Physics/55-1-3 Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Physics/55-3-1 Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Physics/55-3-2 Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Physics/55-3-3 Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Physics/55-5-1 Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Physics/55-5-2 Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Physics/55-5-3 Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Poltical_Science/252-5-1 Political Science Urdu version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Poltical_Science/59-1-1 Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Poltical_Science/59-1-2 Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Poltical_Science/59-1-3 Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Poltical_Science/59-3-1 Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Poltical_Science/59-3-2 Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Poltical_Science/59-3-3 Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Poltical_Science/59-5-1 Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Poltical_Science/59-5-2 Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Poltical_Science/59-5-3 Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Punjabi/4_Punjabi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Salesmanship/355_Salesmanship.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Sculpture/73_Sculpture.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Sindhi/8_Sindhi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Spanish/95_Spanish.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Tamil/6_Tamil.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Telugu/7_Telugu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Textile_Design/353_Textile Design.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Urdu_Core/3_Urdu Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Urdu_elective/30_Urdu elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2022/Yoga/365_Yoga.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/10_GUJARATI/10_GUJARATI.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/12_MALAYALAM/12_MALAYALAM.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/15_KANNADA/15_KANNADA.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/16_ARABIC/16_ARABIC.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/30_Urdu_Elective/30_Urdu_Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/351_Air_Conditioning_Refrigeration/351_Air_Conditioning_Refrigeration.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/352_Medical_Diagnostics/352_Medical_Diagnostics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/353_Textile_Design/353_Textile_Design.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/354_Design/354_Design.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/355_Salesmanship/355_Salesmanship.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/357_Business_Administration/357_Business_Administration.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/358_Food_Nutrition_Dietetics/358_Food_Nutrition_Dietetics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/359_Mass_Media_Studies/359_Mass_Media_Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/360_Library_Information_Science/360_Library _ Information_Sciene.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/361_Fashion_Studies/361_Fashion_Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/365_Yoga/365_Yoga.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/366_EARLY_CHILDHOOD_CARE_EDUCATION/366_EARLY_CHILDHOOD_CARE _ EDUCATION.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/367_ARTIFICIAL_INTELLIGENCE/367_ARTIFICIAL_INTELLIGENCE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/39_KTPI/39_KTPI.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/3__Urdu_Core/3_ Urdu_Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/40_LEGAL_STUDIES/40_LEGAL_STUDIES.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/42_National_Cadet_Corps_NCC/42_National_Cadet_Corps_NCC.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/49_Sanskrit_Elective/49_Sanskrit_Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/4_PUNJABI/4_PUNJABI.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/5_Bengali/5_Bengali.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/68_Engg_Graphics/68_Engg_Graphics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/6_TAMIL/6_TAMIL.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/71_Painting/71_Painting.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/72_Commercial_Art/72_Commercial_Art.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/73_Sculpture/73_Sculpture.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/74_Graphics/74_Graphics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/75_Physical_Education/75_Physical_Education.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/76_Carnatic_Music_Vocal/76_Carnatic_Music_Vocal.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/77_Carnatic_Music_Inst_Melodic/77_Carnatic_Music_Inst_Melodic.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/78_Carnatic_Music_Ins_Perc/78_Carnatic_Music_Ins_Perc.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/79_Music_Hindustani_Vocal/79_Music_Hindustani_Vocal.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/7_TELUGU/7_TELUGU.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/80_HINDUSTANI_MUSIC_Melodic_Instuments/80_HINDUSTANI_MUSIC_Melodic_Instuments.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/81_HINDUSTANI_MUSIC_Percussion_Instruments/81_HINDUSTANI_MUSIC_Percussion_Instruments.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/82_KATHAK_DANCE/82_Kathak_Dance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/83_Manipuri_Dance/83_Manipuri_Dance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/84_BHARATANATYAM_DANCE/84_Bharatanatyam_Dance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/86_KATHAKALI_DANCE/86_Kathakali_Dance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/87_ODISSI_DANCE/87_Odissi_Dance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/88_Kuchipudii_Dance/88_Kuchipudii_Dance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/8_SINDHI/8_SINDHI.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/90_Informatics_Practices/90_Informatics_Practices.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/91_Computer_Science/91_Computer_Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/95_Spanish/95_Spanish.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/96_Kashmiri/96_Kashmiri.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/9_MARATHI/9_MARATHI.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ACCOUNTANCY/264_5_1_Accountancy Urdu version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ACCOUNTANCY/264_5_2_Accountancy Urdu version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ACCOUNTANCY/264_5_3_Accountancy Urdu version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ACCOUNTANCY/67_2_1_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ACCOUNTANCY/67_2_2_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ACCOUNTANCY/67_2_3_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ACCOUNTANCY/67_5_1_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ACCOUNTANCY/67_5_2_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ACCOUNTANCY/67_5_3_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/BIOLOGY/57_5_1_Biology.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/BIOLOGY/57_5_2_Biology.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/BIOLOGY/57_5_3_Biology.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/BUSINESS_STUDIES/263_5_1 Business Studies Urdu version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/BUSINESS_STUDIES/263_5_2 Business Studies Urdu version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/BUSINESS_STUDIES/263_5_3 Business Studies Urdu version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/BUSINESS_STUDIES/66_2_1_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/BUSINESS_STUDIES/66_2_2_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/BUSINESS_STUDIES/66_2_3_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/BUSINESS_STUDIES/66_5_1_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/BUSINESS_STUDIES/66_5_2_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/BUSINESS_STUDIES/66_5_3_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ECONOMICS/251_5_1_Economics Urdu version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ECONOMICS/251_5_2_Economics Urdu version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ECONOMICS/251_5_3_Economics Urdu version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ECONOMICS/58_2_1_Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ECONOMICS/58_2_2_Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ECONOMICS/58_2_3_Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ECONOMICS/58_5_1_Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ECONOMICS/58_5_2_Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/ECONOMICS/58_5_3_Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/GEOGRAPHY/64-2-1 Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/GEOGRAPHY/64-2-2 Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/GEOGRAPHY/64-2-3 Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/GEOGRAPHY/64-5-1 Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/GEOGRAPHY/64-5-2 Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/GEOGRAPHY/64-5-3 Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/HISTORY/253_5_1 History Urdu version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/HISTORY/253_5_2 History Urdu version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/HISTORY/253_5_3 History Urdu version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/HISTORY/61_2_1 History.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/HISTORY/61_2_2 History.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/HISTORY/61_2_3 History.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/HISTORY/61_5_1 History.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/HISTORY/61_5_2 History.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/HISTORY/61_5_3 History.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/MATHEMATICS/65-2-1 MATHEMATICS.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/MATHEMATICS/65-2-3 MATHEMATICS.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/MATHEMATICS/65-5-1 MATHEMATICS.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/MATHEMATICS/65-5-2 MATHEMATICS.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/MATHEMATICS/65-5-3 MATHEMATICS.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/PHYSICS/55_2_1_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/PHYSICS/55_2_2_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/PHYSICS/55_2_3_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/PHYSICS/55_5_1_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/PHYSICS/55_5_2_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/PHYSICS/55_5_3_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/POLITICAL_SCIENCE/252_5_1_Political Science Urdu version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/POLITICAL_SCIENCE/252_5_2_Political Science Urdu version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/POLITICAL_SCIENCE/252_5_3_Political Science Urdu version.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/POLITICAL_SCIENCE/59_2_1_Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/POLITICAL_SCIENCE/59_2_2_Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/POLITICAL_SCIENCE/59_2_3_Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/POLITICAL_SCIENCE/59_5_1_Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/POLITICAL_SCIENCE/59_5_2_Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2023/POLITICAL_SCIENCE/59_5_3_Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/ACCOUNTANCY/67_4_1_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/ACCOUNTANCY/67_4_2_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/ACCOUNTANCY/67_4_3_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/ACCOUNTANCY/67_5_1_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/ACCOUNTANCY/67_5_2_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/ACCOUNTANCY/67_5_3_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Artificial_Intelligence/367_Artificial_Intelligence.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/BIOLOGY/57_5_1_BIOLOGY.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/BIOLOGY/57_5_2_BIOLOGY.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/BIOLOGY/57_5_3_BIOLOGY.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Bharatnatyam_Dance/84_Bharatnatyam_Dance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/CHEMISTRY/56-4-1_Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/CHEMISTRY/56-4-2_Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/CHEMISTRY/56-4-3_Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/CHEMISTRY/56-5-1_Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/CHEMISTRY/56-5-2_Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/CHEMISTRY/56-5-3_Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Computer_Science/91_Computer_Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Data__Science/368_Data _cience.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Design/354_Design.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/ECONOMICS/58_4_1_Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/ECONOMICS/58_4_2_Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/ECONOMICS/58_4_3_Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/ECONOMICS/58_5_1_Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/ECONOMICS/58_5_2_Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/ECONOMICS/58_5_3_Economics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/ENGLISH_CORE/1_4_1_English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/ENGLISH_CORE/1_4_2_English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/ENGLISH_CORE/1_4_3_English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Engineering_Graphics/68_Engineering_Graphics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Food_Nutrition_Dietetics/358_Food_Nutrition_Dietetics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/GEOGRAPHY/64_4_1_Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/GEOGRAPHY/64_4_2_Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/GEOGRAPHY/64_4_3_Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/GEOGRAPHY/64_5_1_Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/GEOGRAPHY/64_5_2_Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/GEOGRAPHY/64_5_3_Geography.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/HINDI_ELECTIVE/29_4_1_Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/HINDI_ELECTIVE/29_4_2_Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/HINDI_ELECTIVE/29_4_3_Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/HINDI_ELECTIVE/29_5_1_Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/HINDI_ELECTIVE/29_5_2_Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/HINDI_ELECTIVE/29_5_3_Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Hindustani_Music__Mel_Inst/80_Hindustani_Music_ Mel_Inst.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Hindustani_Music__Perc_Inst/81_Hindustani_Music_ Perc_Inst.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Informatics_Practices/90_Informatics_Practices.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/KTPI/39_KTPI.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Kathak_Dance/82_Kathak_Dance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Kathakali_Dance/86_Kathakali_Dance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Kuchipudi_Dance/88_Kuchipudi_Dance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Library_Information_Science/360_Library_Information_Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/MATHEMATICS/65_5_1Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/MATHEMATICS/65_5_1_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/MATHEMATICS/65_5_2Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/MATHEMATICS/65_5_2_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/MATHEMATICS/65_5_3Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/MATHEMATICS/65_5_3_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Manipuri_Dance/83_Manipuri_Dance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Medical_Diagnostics/352_Medical_Diagnostics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Odissi_Dance/87_Odissi_Dance.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/PHYSICS/55_4_1_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/PHYSICS/55_4_2_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/PHYSICS/55_4_3_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/PHYSICS/55_5_1_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/PHYSICS/55_5_2_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/PHYSICS/55_5_3_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/POLITICAL_SCIENCE/59_4_1_Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/POLITICAL_SCIENCE/59_4_2_Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/POLITICAL_SCIENCE/59_4_3_Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/POLITICAL_SCIENCE/59_5_1_Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/POLITICAL_SCIENCE/59_5_2_Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/POLITICAL_SCIENCE/59_5_3_Political Science.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Physical_Activity_Trainer/369_Physical_Activity_Trainer.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Physical_Education/75_Physical_Education.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Psychology/63_Psychology.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Sanskrit_Core/22_Sanskrit_Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2024/Yoga/365_Yoga.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ACCOUNTANCY/67-1-1_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ACCOUNTANCY/67-1-2_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ACCOUNTANCY/67-1-3_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ACCOUNTANCY/67-2-1_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ACCOUNTANCY/67-2-2_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ACCOUNTANCY/67-2-3_Accountancy.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BIOLOGY/57-1-1 BIOLOGY.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BIOLOGY/57-1-2 BIOLOGY.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BIOLOGY/57-1-3 BIOLOGY.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BIOLOGY/57-2-1 BIOLOGY.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BIOLOGY/57-2-2 BIOLOGY.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BIOLOGY/57-2-3 BIOLOGY.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-1-1_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-1-2_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-1-3_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-2-1_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-2-2_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-2-3_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-4-1_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-4-2_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-4-3_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-5-1_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-5-2_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-5-3_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-6-1_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-6-2_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-6-3_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-7-1_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-7-2_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/BUSINESS_STUDIES/66-7-3_Business Studies.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/CHEMISTRY/56-1-1_Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/CHEMISTRY/56-1-2_Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/CHEMISTRY/56-1-3_Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/CHEMISTRY/56-2-1_Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/CHEMISTRY/56-2-2_Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/CHEMISTRY/56-2-3_Chemistry.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ECONOMICS/58-1-1 ECONOMICS.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ECONOMICS/58-1-2 ECONOMICS.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ECONOMICS/58-1-3 ECONOMICS.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ECONOMICS/58-2-1 ECONOMICS.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ECONOMICS/58-2-2 ECONOMICS.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ECONOMICS/58-2-3 ECONOMICS.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ENGLISH_CORE/1-1-1_English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ENGLISH_CORE/1-1-2_English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ENGLISH_CORE/1-1-3_English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ENGLISH_CORE/1-2-1_English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ENGLISH_CORE/1-2-2_English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/ENGLISH_CORE/1-2-3_English Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/GEOGRAPHY/64-1-1_GEOGRAPHY.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/GEOGRAPHY/64-1-2_GEOGRAPHY.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/GEOGRAPHY/64-1-3_GEOGRAPHY.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/GEOGRAPHY/64-2-1_GEOGRAPHY.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/GEOGRAPHY/64-2-2_GEOGRAPHY.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/GEOGRAPHY/64-2-3_GEOGRAPHY.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/HINDI_CORE/2-1-1 HINDI CORE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/HINDI_CORE/2-1-2 HINDI CORE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/HINDI_CORE/2-1-3 HINDI CORE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/HINDI_CORE/2-2-1 HINDI CORE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/HINDI_CORE/2-2-2 HINDI CORE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/HINDI_CORE/2-2-3 HINDI CORE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/HINDI_ELECTIVE/29-1-1 HINDI ELECTIVE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/HINDI_ELECTIVE/29-1-2 HINDI ELECTIVE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/HINDI_ELECTIVE/29-1-3 HINDI ELECTIVE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/HINDI_ELECTIVE/29-2-1 HINDI ELECTIVE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/HINDI_ELECTIVE/29-2-2 HINDI ELECTIVE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/HINDI_ELECTIVE/29-2-3 HINDI ELECTIVE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65 B_Mathematics for Visually Impaired candidates.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-1-1_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-1-2_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-1-3_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-2-1_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-2-2_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-2-3_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-4-1_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-4-2_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-4-3_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-5-1_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-5-2_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-5-3_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-6-1_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-6-2_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-6-3_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-7-1_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-7-2_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/MATHEMATICS/65-7-3_Mathematics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/PHYSICS/55 (B)_Physics for Visually Challenged Candidates.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/PHYSICS/55-1-1_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/PHYSICS/55-1-2_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/PHYSICS/55-1-3_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/PHYSICS/55-2-1_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/PHYSICS/55-2-2_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/PHYSICS/55-2-3_Physics.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/POLITICAL_SCIENCE/59-1-1 POLITICAL SCIENCE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/POLITICAL_SCIENCE/59-1-2 POLITICAL SCIENCE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/POLITICAL_SCIENCE/59-1-3 POLITICAL SCIENCE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/POLITICAL_SCIENCE/59-2-1 POLITICAL SCIENCE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/POLITICAL_SCIENCE/59-2-2 POLITICAL SCIENCE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2025/POLITICAL_SCIENCE/59-2-3 POLITICAL SCIENCE.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Accountancy/67_1_1_Accountancy_cl12.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Accountancy/67_1_2_Accountancy_cl12.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Accountancy/67_1_3_Accountancy_cl12.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Accountancy/67_2_1_Accountancy_cl12.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Accountancy/67_2_2_Accountancy_cl12.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Accountancy/67_2_3_Accountancy_cl12.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Arabic/Arabic.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Bengali/Bengali.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Electronics_Hardware/Electronics_Hardware.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Hindi_Core/2_1_1_Hindi Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Hindi_Core/2_1_2_Hindi Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Hindi_Core/2_1_3_Hindi Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Hindi_Core/2_2_1_Hindi Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Hindi_Core/2_2_2_Hindi Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Hindi_Core/2_2_3_Hindi Core.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Hindi_Elective/29_1_1_Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Hindi_Elective/29_1_2_Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Hindi_Elective/29_1_3_Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Hindi_Elective/29_2_1_Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Hindi_Elective/29_2_2_Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Hindi_Elective/29_2_3_Hindi Elective.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Kannada/Kannada.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Lepcha/Lepcha.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Limboo/Limboo.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Marathi/Marathi.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Persian/Persian.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/SINDHI/SINDHI.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Spanish/Spanish.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Tamil/Tamil.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Telugu/Telugu.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Telugu_Telangana/Telugu_Telangana.pdf
+/Users/umashankar/Downloads/cbse_official/past_papers/2026/Yoga/Yoga.pdf
+/Users/umashankar/Downloads/cbse_official/skill_sqp_ms/816_HORTICULTURE_MS.pdf
+/Users/umashankar/Downloads/cbse_official/sqp_ms/Punjabi-MS.pdf
