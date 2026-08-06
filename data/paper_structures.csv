@@ -1,0 +1,33 @@
+subject,qp_code,paper_set,architecture,max_marks_paper,questions_set,questions_to_attempt,attemptable_marks
+Accountancy,67/S/1,SET~1,academic,80,34,34,80
+Accountancy,67/S/2,SET~2,academic,80,34,34,80
+Accountancy,67/S/3,SET~3,academic,80,34,34,80
+Artificial Intelligence,367/S,SET~4,skill,50,21,15,50
+Computer Science,91/S,Set-4,academic,70,37,37,70
+Economics,58/S/1,SET~1,academic,80,34,34,80
+Economics,58/S/2,SET~2,academic,80,34,34,80
+Economics,58/S/3,SET~3,academic,80,34,34,80
+Engineering Graphics,68/S,SET~4,drawing,70,25,25,70
+Financial Markets Management,329,SET-4,skill,60,24,17,60
+History,61/S/1,SET~1,academic,80,34,34,80
+History,61/S/2,SET~2,academic,80,34,34,80
+History,61/S/3,SET~3,academic,80,34,34,80
+Information Technology,326/S,Set-4,skill,60,24,17,60
+Political Science,59/1/1,SET~1,academic,80,30,30,80
+Political Science,59/1/2,SET~2,academic,80,30,30,80
+Political Science,59/1/3,SET~3,academic,80,30,30,80
+Political Science,59/2/1,SET~1,academic,80,30,30,80
+Political Science,59/2/2,SET~2,academic,80,30,30,80
+Political Science,59/2/3,SET~3,academic,80,30,30,80
+Political Science,59/3/1,SET~1,academic,80,30,30,80
+Political Science,59/3/2,SET~2,academic,80,30,30,80
+Political Science,59/3/3,SET~3,academic,80,30,30,80
+Political Science,59/4/1,SET~1,academic,80,30,30,80
+Political Science,59/4/2,SET~2,academic,80,30,30,80
+Political Science,59/4/3,SET~3,academic,80,30,30,80
+Political Science,59/5/1,SET~1,academic,80,30,30,80
+Political Science,59/5/2,SET~2,academic,80,30,30,80
+Political Science,59/5/3,SET~3,academic,80,30,30,80
+Taxation,346,SET~4,skill,60,24,17,60
+Typography and Computer Applications,341/S,SET~4,skill,60,24,17,60
+Web Applications,327,SET-4,skill,60,25,17,60

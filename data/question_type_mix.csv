@@ -1,0 +1,407 @@
+subject,q_type,n,marks
+Accountancy,mcq,541,1017
+Accountancy,subjective,369,1308
+Accountancy,figure-only,49,
+Accountancy,assertion-reason,34,63
+Accountancy,two-statement,27,40
+Agriculture,subjective,42,94
+Agriculture,figure-only,9,
+Agriculture,mcq,3,10
+Air Conditionng Refrigeration,subjective,20,54
+Air Conditionng Refrigeration,mcq,2,2
+Applied Math,subjective,29,24
+Applied Math,mcq,26,24
+Applied Math,assertion-reason,5,
+Applied Math,figure-only,2,
+Applied Mathematics,subjective,9,13
+Applied Mathematics,figure-only,4,
+Applied Mathematics,assertion-reason,3,6
+Applied Maths,subjective,16,11
+Applied Maths,mcq,14,
+Applied Maths,assertion-reason,3,
+Applied Maths,source-based,1,2
+Applied Maths,figure-only,1,
+Arabic,subjective,22,96
+Arabic,source-based,3,20
+Arabic,mcq,1,
+Artificial Intelligence,subjective,25,30
+Artificial Intelligence,two-statement,1,4
+Artificial Intelligence,figure-only,1,
+Artificial Intelligence,mcq,1,1
+Automotive,subjective,34,55
+Automotive,figure-only,10,
+Automotive,mcq,3,
+Banking,subjective,46,55
+Banking,figure-only,10,
+Banking,mcq,3,22
+Beauty And Wellness,figure-only,7,
+Beauty And Wellness,subjective,2,7
+Beauty And Wellness,source-based,1,4
+Beauty Wellness,subjective,30,24
+Beauty Wellness,figure-only,6,
+Beauty Wellness,mcq,2,4
+Bengali,figure-only,4,
+Bharatanatyam Dance,subjective,14,65
+Bharatanatyam Dance,mcq,8,9
+Biology,subjective,601,1954
+Biology,mcq,378,252
+Biology,assertion-reason,219,305
+Biology,source-based,93,339
+Biology,figure-only,65,
+Biology,ordering,12,23
+Biology,matching,4,2
+Biology,two-statement,1,
+Biotechnology,subjective,46,132
+Biotechnology,mcq,31,30
+Biotechnology,assertion-reason,17,21
+Biotechnology,figure-only,3,
+Biotechnology,source-based,1,2
+Biotechnology,ordering,1,
+Business Administration,subjective,30,81
+Business Administration,mcq,1,1
+Business Administration,figure-only,1,
+Business Studies,mcq,457,429
+Business Studies,subjective,450,1711
+Business Studies,assertion-reason,47,49
+Business Studies,two-statement,43,21
+Business Studies,figure-only,32,
+Business Studies,ordering,6,
+Carnatic Music,subjective,6,8
+Carnatic Music,two-statement,1,6
+Carnatic Music,matching,1,
+Carnatic Music Instl,subjective,12,20
+Carnatic Music Instl,mcq,3,3
+Carnatic Music Instl,two-statement,2,12
+Carnatic Music Instl,matching,1,
+Carnatic Music Melodic Instru,subjective,5,18
+Carnatic Music Melodic Instru,mcq,1,1
+Carnatic Music Melodic Instru,two-statement,1,6
+Carnatic Music Melodic Instru,matching,1,1
+Carnatic Music Vocal,subjective,14,46
+Carnatic Music Vocal,mcq,3,3
+Carnatic Music Vocal,two-statement,2,12
+Carnatic Music Vocal,matching,1,1
+Chemistry,subjective,638,1653
+Chemistry,mcq,349,244
+Chemistry,assertion-reason,220,341
+Chemistry,figure-only,94,
+Chemistry,ordering,44,117
+Chemistry,source-based,26,67
+Chemistry,two-statement,13,29
+Commercial Art,subjective,15,63
+Commercial Art,assertion-reason,1,6
+Commercial Art Theory,mcq,8,19
+Commercial Art Theory,subjective,8,20
+Commercial Art Theory,assertion-reason,3,4
+Commercial Art Theory,figure-only,1,
+Computer Science,subjective,78,226
+Computer Science,mcq,27,51
+Computer Science,assertion-reason,9,7
+Computer Science,figure-only,5,
+Cost Accounting,subjective,18,7
+Cost Accounting,figure-only,5,
+Cost Accounting,mcq,1,
+Data Science,subjective,23,58
+Data Science,assertion-reason,2,13
+Data Science,figure-only,1,
+Design Thinking Innovation,subjective,12,
+Design Thinking Innovation,mcq,1,
+Early Childhood Care And Education,figure-only,3,
+Early Childhood Care And Education,subjective,2,
+Early Childhood Care Edn,figure-only,2,
+Early Childhood Care Edn,subjective,1,
+Early Childhood Care Educaiton,subjective,25,26
+Early Childhood Care Educaiton,mcq,1,
+Economics,mcq,436,679
+Economics,subjective,374,1298
+Economics,two-statement,128,179
+Economics,source-based,125,406
+Economics,figure-only,113,
+Economics,assertion-reason,87,116
+Economics,ordering,6,8
+Electical Technology,subjective,19,53
+Electical Technology,mcq,1,4
+Electrical Technology,subjective,35,7
+Electrical Technology,figure-only,12,
+Electrical Technology,mcq,1,
+Electrocics Technology,subjective,11,24
+Electrocics Technology,mcq,1,4
+Electronics Hardware,subjective,7,18
+Electronics Hardware,figure-only,3,
+Electronics Hardware,mcq,2,4
+Electronics Technology,subjective,20,6
+Electronics Technology,figure-only,11,
+Electronics Technology,mcq,1,
+Engineering Graphics,mcq,29,12
+Engineering Graphics,subjective,5,43
+Engineering Graphics,figure-only,5,
+Engineering Graphics,matching,2,4
+English Core,subjective,468,1047
+English Core,source-based,147,1015
+English Core,mcq,132,429
+English Core,assertion-reason,6,36
+English Core,two-statement,3,30
+English Core,figure-only,1,
+English Elective,subjective,59,128
+English Elective,source-based,7,54
+English Elective,mcq,7,30
+English Elective,two-statement,4,40
+English Elective,figure-only,1,
+Entrepreneurship,subjective,76,217
+Entrepreneurship,mcq,48,71
+Entrepreneurship,assertion-reason,7,7
+Entrepreneurship,figure-only,4,
+Entrepreneurship,source-based,3,8
+Entrepreneurship,ordering,1,1
+Fashion Studies,subjective,54,113
+Fashion Studies,mcq,2,5
+Fashion Studies,figure-only,2,
+Financial Markets Management,subjective,42,55
+Financial Markets Management,figure-only,6,
+Financial Markets Management,mcq,3,8
+Fmm,figure-only,5,
+Fmm,subjective,4,
+Food Nutrition,subjective,13,36
+Food Nutrition,figure-only,2,
+Food Nutrition,mcq,1,1
+Food Nutrition,assertion-reason,1,1
+Food Nutrition And Dietetics,subjective,1,
+Food Nutrition And Dietetics,figure-only,1,
+Food Nutrition Dietetics,subjective,29,98
+Food Nutrition Dietetics,assertion-reason,2,10
+Food Production,subjective,50,56
+Food Production,figure-only,4,
+Food Production,mcq,3,8
+French,subjective,1,
+French,figure-only,1,
+Front Office Operations,subjective,42,56
+Front Office Operations,figure-only,10,
+Front Office Operations,mcq,2,6
+Geography,mcq,386,496
+Geography,subjective,255,1072
+Geography,source-based,135,465
+Geography,figure-only,96,
+Geography,map,63,95
+Geography,assertion-reason,53,105
+Geography,ordering,29,35
+Geography,matching,19,32
+Geospatial Technology,subjective,38,35
+Geospatial Technology,figure-only,4,
+Geospatial Technology,mcq,1,
+German,subjective,16,95
+German,source-based,1,
+Graphics,subjective,16,64
+Graphics,mcq,5,6
+Graphics,assertion-reason,3,4
+Gujarati,figure-only,2,
+Health Care,subjective,62,54
+Health Care,mcq,3,4
+Health Care,figure-only,3,
+Health Care,ordering,1,
+Hindi Core,figure-only,13,
+Hindi Elective,figure-only,37,
+Hindi Elective,subjective,5,12
+Hindustani Music,subjective,13,50
+Hindustani Music,mcq,9,24
+Hindustani Music,two-statement,4,10
+Hindustani Music,matching,1,
+Hindustani Music Melodic,subjective,8,28
+Hindustani Music Melodic,mcq,3,3
+Hindustani Music Melodic,two-statement,2,2
+Hindustani Music Melodic,figure-only,1,
+Hindustani Music Melodic Insmts,subjective,6,24
+Hindustani Music Melodic Insmts,mcq,4,5
+Hindustani Music Melodic Insmts,two-statement,2,2
+Hindustani Music Per Ins,subjective,5,18
+Hindustani Music Per Ins,mcq,3,3
+Hindustani Music Per Ins,two-statement,2,2
+Hindustani Music Percussion Inst,subjective,5,28
+Hindustani Music Percussion Inst,mcq,3,12
+Hindustani Music Percussion Inst,two-statement,2,11
+Hindustani Music Percussion Instruments,figure-only,1,
+Hindustani Music Percussion Instruments,subjective,1,6
+History,mcq,751,372
+History,subjective,409,2103
+History,source-based,151,594
+History,matching,66,41
+History,assertion-reason,66,15
+History,ordering,51,28
+History,map,45,114
+History,figure-only,30,
+Home Science,subjective,55,155
+Home Science,mcq,36,35
+Home Science,assertion-reason,7,8
+Home Science,figure-only,4,
+Home Science,matching,3,3
+Home Science,source-based,2,2
+Home Scince,subjective,2,6
+Home Scince,figure-only,1,
+Horticulture,subjective,21,6
+Horticulture,figure-only,6,
+Horticulture,source-based,1,
+Horticulture,mcq,1,
+Informatic Practices,subjective,11,42
+Informatics Practices,subjective,50,146
+Informatics Practices,mcq,14,17
+Informatics Practices,figure-only,12,
+Informatics Practices,assertion-reason,6,6
+Information Practices,mcq,15,27
+Information Practices,subjective,12,65
+Information Practices,assertion-reason,2,2
+Information Technology,subjective,50,150
+Information Technology,mcq,3,8
+Information Technology,figure-only,2,
+Insurance,subjective,49,116
+Insurance,figure-only,10,
+Insurance,mcq,2,4
+Japanese,subjective,10,12
+Japanese,matching,1,
+Kannada,subjective,1,
+Kannada,mcq,1,12
+Kathak Dance,mcq,22,30
+Kathak Dance,subjective,18,83
+Kathak Dance,figure-only,1,
+Kathakali Dance,mcq,7,7
+Kathakali Dance,subjective,4,20
+Knowledge Tradubg,subjective,15,50
+Knowledge Tradubg,assertion-reason,8,11
+Knowledge Tradubg,mcq,2,3
+Knowledge Tradubg,source-based,1,1
+Kuchipudii Dance,subjective,6,24
+Kuchipudii Dance,mcq,4,5
+Legal Studies,subjective,84,241
+Legal Studies,mcq,51,105
+Legal Studies,figure-only,13,
+Legal Studies,assertion-reason,8,19
+Legal Studies,two-statement,3,3
+Library Info Science,subjective,9,27
+Library Info Science,figure-only,3,
+Library Info Science,mcq,1,1
+Libraryinformation Science New,figure-only,6,
+Libraryinformation Science New,subjective,2,
+Limboo,subjective,2,
+Manipuri Dance,figure-only,6,
+Manipuri Dance,subjective,5,22
+Manipuri Dance,mcq,2,2
+Marketing,subjective,47,55
+Marketing,figure-only,10,
+Marketing,mcq,3,12
+Mass Media Studies,subjective,38,54
+Mass Media Studies,mcq,3,8
+Mass Media)Studies(New),subjective,3,
+Mass Media)Studies(New),figure-only,3,
+Mathematics,subjective,460,813
+Mathematics,mcq,325,463
+Mathematics,figure-only,193,
+Mathematics,assertion-reason,94,119
+Medical Diagnostics,subjective,7,20
+Medical Diagnostics,figure-only,3,
+Mizo,subjective,3,5
+Mizo,figure-only,1,
+Multimedia,subjective,13,18
+Multimedia,figure-only,7,
+Multimedia,mcq,1,12
+Music Hindustani Vocal Theory,subjective,12,12
+Music Hindustani Vocal Theory,mcq,10,20
+Music Hindustani Vocal Theory,two-statement,4,10
+Music Hindustani Vocal Theory,matching,1,
+National Cadet Corps Ncc,subjective,11,44
+National Cadet Corps Ncc,source-based,1,10
+National Cadet Corps Ncc,assertion-reason,1,4
+Ncc,subjective,14,39
+Ncc,figure-only,3,
+Ncc,mcq,1,2
+Ncc,assertion-reason,1,5
+Nepali,figure-only,4,
+Odia,figure-only,3,
+Odissi Dance,mcq,6,6
+Odissi Dance,subjective,4,8
+Odissi Dance,figure-only,1,
+Office Procedures Practices,subjective,18,7
+Office Procedures Practices,figure-only,11,
+Office Procedures Practices,mcq,1,
+Painting,subjective,38,139
+Painting,mcq,6,7
+Painting,assertion-reason,5,24
+Persian,subjective,7,26
+Persian,source-based,1,
+Physical Activity Trainer,subjective,14,30
+Physical Activity Trainer,mcq,1,1
+Physical Education,mcq,45,88
+Physical Education,subjective,39,112
+Physical Education,assertion-reason,6,17
+Physical Education,figure-only,2,
+Physical Education,matching,1,1
+Physics,subjective,554,1747
+Physics,mcq,407,366
+Physics,assertion-reason,193,265
+Physics,figure-only,112,
+Political Science,subjective,483,1376
+Political Science,mcq,274,288
+Political Science,assertion-reason,65,32
+Political Science,figure-only,58,
+Political Science,source-based,49,105
+Political Science,map,33,62
+Political Science,two-statement,16,27
+Political Science,matching,8,15
+Political Science,ordering,3,
+Psychology,subjective,54,162
+Psychology,mcq,36,60
+Psychology,figure-only,12,
+Psychology,source-based,11,42
+Psychology,assertion-reason,5,5
+Psychology,ordering,2,2
+Punjabi,figure-only,16,
+Retail,subjective,40,67
+Retail,figure-only,4,
+Retail,mcq,3,8
+Russian,subjective,6,
+Russian,source-based,1,
+Salesmanship,subjective,37,90
+Salesmanship,mcq,2,5
+Salesmanship,figure-only,2,
+Salesmanship,ordering,1,4
+Sanskrit Core,subjective,33,56
+Sanskrit Core,figure-only,6,
+Sanskrit Core,source-based,4,3
+Sanskrit Elective,subjective,30,127
+Sanskrit Elective,mcq,8,38
+Sanskrit Elective,figure-only,7,
+Sanskrit Elective,source-based,6,28
+Sculpture,subjective,23,77
+Sculpture,mcq,5,6
+Sculpture,assertion-reason,4,14
+Shorthand,subjective,28,48
+Shorthand,mcq,3,4
+Shorthand English,subjective,71,36
+Shorthand English,figure-only,7,
+Shorthand English,mcq,2,
+Shorthand Hindi,figure-only,1,
+Sociology,subjective,64,198
+Sociology,mcq,31,
+Sociology,assertion-reason,18,2
+Sociology,figure-only,6,
+Sociology,source-based,6,16
+Tamil,figure-only,7,
+Tamil,mcq,1,12
+Tangkhul,figure-only,7,
+Tangkhul-Qp,figure-only,1,
+Taxation,subjective,27,10
+Taxation,figure-only,7,
+Taxation,mcq,1,
+Telugu,subjective,4,
+Textile Design,subjective,50,111
+Textile Design,figure-only,9,
+Textile Design,mcq,2,5
+Tourism,subjective,43,88
+Tourism,figure-only,7,
+Tourism,mcq,3,8
+Typography & Computer Applications,subjective,41,55
+Typography & Computer Applications,figure-only,9,
+Typography & Computer Applications,mcq,3,8
+Typography Computer Applications,subjective,2,
+Web Applications,subjective,108,119
+Web Applications,mcq,4,12
+Web Applications,figure-only,1,
+Yoga,subjective,34,40
+Yoga,mcq,2,10

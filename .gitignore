@@ -1,0 +1,8 @@
+*.pdf
+*.zip
+*.duckdb
+qcache*.json
+en/
+en2/
+ocrpdf
+__pycache__/
