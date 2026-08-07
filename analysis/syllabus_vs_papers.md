@@ -11,12 +11,36 @@ share against the declared share.
 
 > ## ⚠️ Read this before any number below
 >
-> Question→unit assignment is **47–62% accurate**, measured against a gold set (below).
-> Every "actual" share therefore carries roughly **±10 percentage points** of
-> uncertainty. Gaps smaller than that are not evidence of anything.
+> Unit-level shares are **highly sensitive to how the unit description is built**.
+> The same subject, same questions, same model, produces opposite headlines depending
+> on where the description text is taken from:
 >
-> | Gap size | Verdict |
-> |---|---|
+> | Subject | Unit-description source | Accuracy | Headline gap |
+> |---|---|---:|---|
+> | Accountancy | enriched keyword (no NCERT) | 59.0% | Companies **+8** |
+> | Accountancy | curriculum paragraph, embedded | 47.1% | Partnership +25 |
+> | Accountancy | NCERT chapter head (with heading) | **67.1%** | Companies **+20** |
+> | Accountancy | NCERT chapter head (heading stripped) | 62.5% | Companies **+19** |
+> | Accountancy | NCERT chapter, windowed sample | 28.6% | Partnership +34 |
+> | Biology | keyword | 62%, 15% mapped | Human Welfare +48 |
+> | Biology | curriculum paragraph, embedded | 56.7% | Human Welfare −15 |
+> | Biology | NCERT chapters, from PDF text | **78.4%** | none clear the bar |
+> | Biology | NCERT chapters, from markdown | 49–55% | Ecology +17 |
+>
+> The pipeline is deterministic — three identical runs give identical numbers — so this
+> is sensitivity to preprocessing choices, not randomness. But it means **no unit-level
+> gap should be believed unless it survives across the higher-accuracy configurations.**
+>
+> Exactly one does: **Accountancy's Accounting for Companies is over-tested**, at +20
+> and +19 in the two most accurate configurations (67.1% and 62.5%). The keyword method
+> agrees on direction (+8) at 59%.
+>
+> Everything else in this document is **not established**, including findings reported
+> in earlier revisions: Psychology's "Psychological Disorders +15" falls to +5–8 under
+> NCERT chapter descriptions, and Biology has now been read five ways with four
+> different headlines.
+
+---|---|
 > | ≥ ±14 pts | probably real |
 > | ±8 to ±13 pts | suggestive, not established |
 > | < ±8 pts | **indistinguishable from noise** |

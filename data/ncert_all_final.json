@@ -1,0 +1,289 @@
+{
+ "Biology": {
+  "mapped": 0.735,
+  "accuracy": 0.491,
+  "band": 11,
+  "chapters": {
+   "VI Reproduction": [
+    "lebo103",
+    "lebo102",
+    "lebo101"
+   ],
+   "VII Genetics and Evolution": [
+    "lebo105",
+    "lebo109",
+    "lebo104"
+   ],
+   "VIII Biology and Human Welfare": [
+    "lebo106"
+   ],
+   "IX Biotechnology and its Applications": [
+    "lebo110",
+    "lebo107",
+    "lebo108"
+   ],
+   "X Ecology and Environment": [
+    "lebo112",
+    "lebo111",
+    "lebo113"
+   ],
+   "Identification/Familiarity with the apparatus": []
+  },
+  "units": [
+   {
+    "unit": "VII Genetics and Evolution",
+    "declared_pct": 26.7,
+    "actual_pct": 27.5,
+    "gap": 0.9,
+    "verdict": "noise"
+   },
+   {
+    "unit": "VI Reproduction",
+    "declared_pct": 21.3,
+    "actual_pct": 17.8,
+    "gap": -3.5,
+    "verdict": "noise"
+   },
+   {
+    "unit": "VIII Biology and Human Welfare",
+    "declared_pct": 16.0,
+    "actual_pct": 0.8,
+    "gap": -15.2,
+    "verdict": "suggestive"
+   },
+   {
+    "unit": "IX Biotechnology and its Applications",
+    "declared_pct": 16.0,
+    "actual_pct": 19.9,
+    "gap": 3.9,
+    "verdict": "noise"
+   },
+   {
+    "unit": "X Ecology and Environment",
+    "declared_pct": 13.3,
+    "actual_pct": 30.3,
+    "gap": 17.0,
+    "verdict": "probably real"
+   },
+   {
+    "unit": "Identification/Familiarity with the apparatus",
+    "declared_pct": 6.7,
+    "actual_pct": 3.7,
+    "gap": -3.0,
+    "verdict": "noise"
+   }
+  ]
+ },
+ "Accountancy": {
+  "mapped": 0.908,
+  "accuracy": 0.625,
+  "band": 8,
+  "chapters": {
+   "Accounting for Partnership Firms": [
+    "leac101",
+    "leac102",
+    "leac103"
+   ],
+   "Accounting for Companies": [
+    "leac201",
+    "leac205",
+    "leca101"
+   ],
+   "Analysis of Financial Statements": [
+    "leac203",
+    "leac204",
+    "leca104"
+   ],
+   "Cash Flow Statement": [
+    "leac206",
+    "leca103",
+    "leac202"
+   ]
+  },
+  "units": [
+   {
+    "unit": "Accounting for Partnership Firms",
+    "declared_pct": 45.0,
+    "actual_pct": 33.2,
+    "gap": -11.8,
+    "verdict": "suggestive"
+   },
+   {
+    "unit": "Accounting for Companies",
+    "declared_pct": 30.0,
+    "actual_pct": 49.2,
+    "gap": 19.2,
+    "verdict": "probably real"
+   },
+   {
+    "unit": "Analysis of Financial Statements",
+    "declared_pct": 15.0,
+    "actual_pct": 7.6,
+    "gap": -7.4,
+    "verdict": "noise"
+   },
+   {
+    "unit": "Cash Flow Statement",
+    "declared_pct": 10.0,
+    "actual_pct": 10.0,
+    "gap": 0.0,
+    "verdict": "noise"
+   }
+  ]
+ },
+ "Economics": {
+  "mapped": 0.891,
+  "accuracy": null,
+  "band": 14,
+  "chapters": {
+   "National Income and Related Aggregates": [
+    "keec108",
+    "keec105",
+    "keec107"
+   ],
+   "Money and Banking": [
+    "leec106",
+    "leec103",
+    "keec106"
+   ],
+   "Determination of Income and Employment": [
+    "leec104",
+    "keec104",
+    "leec101"
+   ],
+   "Government Budget and the Economy": [
+    "leec105",
+    "leec102"
+   ],
+   "Balance of Payments": [],
+   "Current Challenges facing Indian Economy": [
+    "keec103",
+    "keec101",
+    "keec102"
+   ]
+  },
+  "units": [
+   {
+    "unit": "Current Challenges facing Indian Economy",
+    "declared_pct": 33.3,
+    "actual_pct": 27.8,
+    "gap": -5.5,
+    "verdict": "noise"
+   },
+   {
+    "unit": "Determination of Income and Employment",
+    "declared_pct": 20.0,
+    "actual_pct": 34.1,
+    "gap": 14.1,
+    "verdict": "suggestive"
+   },
+   {
+    "unit": "National Income and Related Aggregates",
+    "declared_pct": 16.7,
+    "actual_pct": 15.4,
+    "gap": -1.3,
+    "verdict": "noise"
+   },
+   {
+    "unit": "Money and Banking",
+    "declared_pct": 10.0,
+    "actual_pct": 5.0,
+    "gap": -5.0,
+    "verdict": "noise"
+   },
+   {
+    "unit": "Government Budget and the Economy",
+    "declared_pct": 10.0,
+    "actual_pct": 3.8,
+    "gap": -6.2,
+    "verdict": "noise"
+   },
+   {
+    "unit": "Balance of Payments",
+    "declared_pct": 10.0,
+    "actual_pct": 13.8,
+    "gap": 3.8,
+    "verdict": "noise"
+   }
+  ]
+ },
+ "Psychology": {
+  "mapped": 0.944,
+  "accuracy": null,
+  "band": 14,
+  "chapters": {
+   "I Variations in Psychological Attributes": [
+    "lepy101"
+   ],
+   "II Self and Personality": [
+    "lepy102"
+   ],
+   "III Meeting Life Challenges": [
+    "lepy103"
+   ],
+   "IV Psychological Disorders": [
+    "lepy104"
+   ],
+   "V Therapeutic Approaches": [
+    "lepy105"
+   ],
+   "VI Attitude and Social Cognition": [
+    "lepy106"
+   ],
+   "VII Social Influence and Group Processes": [
+    "lepy107"
+   ]
+  },
+  "units": [
+   {
+    "unit": "I Variations in Psychological Attributes",
+    "declared_pct": 18.6,
+    "actual_pct": 15.6,
+    "gap": -3.0,
+    "verdict": "noise"
+   },
+   {
+    "unit": "II Self and Personality",
+    "declared_pct": 18.6,
+    "actual_pct": 18.6,
+    "gap": 0.1,
+    "verdict": "noise"
+   },
+   {
+    "unit": "IV Psychological Disorders",
+    "declared_pct": 17.1,
+    "actual_pct": 15.6,
+    "gap": -1.6,
+    "verdict": "noise"
+   },
+   {
+    "unit": "III Meeting Life Challenges",
+    "declared_pct": 12.9,
+    "actual_pct": 9.9,
+    "gap": -3.0,
+    "verdict": "noise"
+   },
+   {
+    "unit": "V Therapeutic Approaches",
+    "declared_pct": 12.9,
+    "actual_pct": 23.2,
+    "gap": 10.3,
+    "verdict": "noise"
+   },
+   {
+    "unit": "VI Attitude and Social Cognition",
+    "declared_pct": 11.4,
+    "actual_pct": 11.0,
+    "gap": -0.4,
+    "verdict": "noise"
+   },
+   {
+    "unit": "VII Social Influence and Group Processes",
+    "declared_pct": 8.6,
+    "actual_pct": 6.1,
+    "gap": -2.5,
+    "verdict": "noise"
+   }
+  ]
+ }
+}
