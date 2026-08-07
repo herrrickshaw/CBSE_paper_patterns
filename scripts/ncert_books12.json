@@ -1,0 +1,620 @@
+[
+ {
+  "subject": "Accountancy",
+  "title": "Accountancy-I",
+  "code": "leac1",
+  "chapters": 4
+ },
+ {
+  "subject": "Accountancy",
+  "title": "Accountancy Part-II",
+  "code": "leac2",
+  "chapters": 6
+ },
+ {
+  "subject": "Accountancy",
+  "title": "Lekhashastra Part-I",
+  "code": "lhac1",
+  "chapters": 4
+ },
+ {
+  "subject": "Accountancy",
+  "title": "Lekhashastra Part-II",
+  "code": "lhac2",
+  "chapters": 5
+ },
+ {
+  "subject": "Accountancy",
+  "title": "Computerised Accounting System",
+  "code": "leca1",
+  "chapters": 4
+ },
+ {
+  "subject": "Accountancy",
+  "title": "Khatadari-I(Urdu)",
+  "code": "luac1",
+  "chapters": 5
+ },
+ {
+  "subject": "Accountancy",
+  "title": "Khatadari-II(Urdu)",
+  "code": "luac2",
+  "chapters": 6
+ },
+ {
+  "subject": "Mathematics",
+  "title": "Mathematics Part-I",
+  "code": "lemh1",
+  "chapters": 6
+ },
+ {
+  "subject": "Mathematics",
+  "title": "Mathematics Part-II",
+  "code": "lemh2",
+  "chapters": 7
+ },
+ {
+  "subject": "Mathematics",
+  "title": "Ganit-I",
+  "code": "lhmh1",
+  "chapters": 6
+ },
+ {
+  "subject": "Mathematics",
+  "title": "Ganit-II",
+  "code": "lhmh2",
+  "chapters": 7
+ },
+ {
+  "subject": "Mathematics",
+  "title": "Riyazi-I",
+  "code": "lumh1",
+  "chapters": 6
+ },
+ {
+  "subject": "Mathematics",
+  "title": "Riyazi-II",
+  "code": "lumh2",
+  "chapters": 7
+ },
+ {
+  "subject": "Physics",
+  "title": "Physics Part-I",
+  "code": "leph1",
+  "chapters": 8
+ },
+ {
+  "subject": "Physics",
+  "title": "Physics Part-II",
+  "code": "leph2",
+  "chapters": 6
+ },
+ {
+  "subject": "Physics",
+  "title": "Bhautiki-I",
+  "code": "lhph1",
+  "chapters": 8
+ },
+ {
+  "subject": "Physics",
+  "title": "Bhautiki-II",
+  "code": "lhph2",
+  "chapters": 6
+ },
+ {
+  "subject": "Physics",
+  "title": "Tabiyaat-I",
+  "code": "luph1",
+  "chapters": 8
+ },
+ {
+  "subject": "Physics",
+  "title": "Tabiyaat-II",
+  "code": "luph2",
+  "chapters": 6
+ },
+ {
+  "subject": "Hindi",
+  "title": "Antra",
+  "code": "lhat1",
+  "chapters": 21
+ },
+ {
+  "subject": "Hindi",
+  "title": "Aroh",
+  "code": "lhar1",
+  "chapters": 15
+ },
+ {
+  "subject": "Hindi",
+  "title": "Vitan",
+  "code": "lhvt1",
+  "chapters": 3
+ },
+ {
+  "subject": "Hindi",
+  "title": "Antral Bhag 2",
+  "code": "lhan1",
+  "chapters": 3
+ },
+ {
+  "subject": "English",
+  "title": "Kaliedoscope",
+  "code": "lekl1",
+  "chapters": 21
+ },
+ {
+  "subject": "English",
+  "title": "Flamingo",
+  "code": "lefl1",
+  "chapters": 13
+ },
+ {
+  "subject": "English",
+  "title": "Vistas",
+  "code": "levt1",
+  "chapters": 6
+ },
+ {
+  "subject": "Biotechnology",
+  "title": "Biotechnology",
+  "code": "lebt1",
+  "chapters": 13
+ },
+ {
+  "subject": "Biology",
+  "title": "Biology",
+  "code": "lebo1",
+  "chapters": 13
+ },
+ {
+  "subject": "Biology",
+  "title": "Jeev Vigyan",
+  "code": "lhbo1",
+  "chapters": 13
+ },
+ {
+  "subject": "Biology",
+  "title": "Hayatiyaat",
+  "code": "lubo1",
+  "chapters": 16
+ },
+ {
+  "subject": "History",
+  "title": "Themes in Indian History-I",
+  "code": "lehs1",
+  "chapters": 4
+ },
+ {
+  "subject": "History",
+  "title": "Bharatiya Itihas ke kuchh Vishay-I",
+  "code": "lhhs1",
+  "chapters": 4
+ },
+ {
+  "subject": "History",
+  "title": "Themes in Indian History-II",
+  "code": "lehs2",
+  "chapters": 4
+ },
+ {
+  "subject": "History",
+  "title": "Bharatiya Itihas ke kuchh Vishay-II",
+  "code": "lhhs2",
+  "chapters": 4
+ },
+ {
+  "subject": "History",
+  "title": "Themes in Indian History-III",
+  "code": "lehs3",
+  "chapters": 4
+ },
+ {
+  "subject": "History",
+  "title": "Bharatiya Itihas ke kuchh Vishay-III",
+  "code": "lhhs3",
+  "chapters": 4
+ },
+ {
+  "subject": "History",
+  "title": "Tareekh-e-Hind ke Mauzuaat-I(Urdu)",
+  "code": "luth1",
+  "chapters": 4
+ },
+ {
+  "subject": "History",
+  "title": "Tareekh-e-Hind ke Mauzuaat-II(Urdu)",
+  "code": "luth2",
+  "chapters": 4
+ },
+ {
+  "subject": "History",
+  "title": "Tareekh-e-Hind ke Mauzuaat-III(Urdu)",
+  "code": "luth3",
+  "chapters": 4
+ },
+ {
+  "subject": "Geography",
+  "title": "Fundamentals of Human Geography",
+  "code": "legy1",
+  "chapters": 8
+ },
+ {
+  "subject": "Geography",
+  "title": "Practical Work in Geography Part II",
+  "code": "legy3",
+  "chapters": 4
+ },
+ {
+  "subject": "Geography",
+  "title": "Manav Bhugol Ke Mool Sidhant",
+  "code": "lhgy1",
+  "chapters": 8
+ },
+ {
+  "subject": "Geography",
+  "title": "Bhugol main peryojnatmak pryogatmak karye",
+  "code": "lhgy3",
+  "chapters": 4
+ },
+ {
+  "subject": "Geography",
+  "title": "India -People And Economy",
+  "code": "legy2",
+  "chapters": 9
+ },
+ {
+  "subject": "Geography",
+  "title": "Bharat log aur arthvyasastha(Bhugol)",
+  "code": "lhgy2",
+  "chapters": 9
+ },
+ {
+  "subject": "Geography",
+  "title": "Insani Jughrafia Ke Buniyadi Usool(Urdu)",
+  "code": "lufh1",
+  "chapters": 10
+ },
+ {
+  "subject": "Geography",
+  "title": "Hindustan Awam Aur Maishat(Urdu)",
+  "code": "lugy1",
+  "chapters": 12
+ },
+ {
+  "subject": "Geography",
+  "title": "Jughrafia Mein Aamli Kam(Urdu)",
+  "code": "lugy3",
+  "chapters": 6
+ },
+ {
+  "subject": "Psychology",
+  "title": "Psychology",
+  "code": "lepy1",
+  "chapters": 7
+ },
+ {
+  "subject": "Psychology",
+  "title": "Manovigyan",
+  "code": "lhpy1",
+  "chapters": 7
+ },
+ {
+  "subject": "Psychology",
+  "title": "Nafsiat(Urdu)",
+  "code": "lupy1",
+  "chapters": 9
+ },
+ {
+  "subject": "Sociology",
+  "title": "Indian Society",
+  "code": "lesy1",
+  "chapters": 7
+ },
+ {
+  "subject": "Sociology",
+  "title": "Bhartiya Samaj",
+  "code": "lhsy1",
+  "chapters": 7
+ },
+ {
+  "subject": "Sociology",
+  "title": "Social Change and Development in India",
+  "code": "lesy2",
+  "chapters": 8
+ },
+ {
+  "subject": "Sociology",
+  "title": "Bharat main Samajik Parivartan aur Vikas",
+  "code": "lhsy2",
+  "chapters": 8
+ },
+ {
+  "subject": "Sociology",
+  "title": "Hindustani Samaj(Urdu)",
+  "code": "luis1",
+  "chapters": 7
+ },
+ {
+  "subject": "Sociology",
+  "title": "Hindustan Mein Samaji Tabdili Aur Taraqqi(Urdu)",
+  "code": "lusy2",
+  "chapters": 8
+ },
+ {
+  "subject": "Chemistry",
+  "title": "Chemistry-I",
+  "code": "lech1",
+  "chapters": 5
+ },
+ {
+  "subject": "Chemistry",
+  "title": "Chemistry-II",
+  "code": "lech2",
+  "chapters": 5
+ },
+ {
+  "subject": "Chemistry",
+  "title": "Rasayan vigyan bhag I",
+  "code": "lhch1",
+  "chapters": 5
+ },
+ {
+  "subject": "Chemistry",
+  "title": "Rasayan vigyan bhag II",
+  "code": "lhch2",
+  "chapters": 5
+ },
+ {
+  "subject": "Chemistry",
+  "title": "Keemiya-I",
+  "code": "luch1",
+  "chapters": 9
+ },
+ {
+  "subject": "Chemistry",
+  "title": "Keemiya-II",
+  "code": "luch2",
+  "chapters": 7
+ },
+ {
+  "subject": "Sanskrit",
+  "title": "Bhaswati",
+  "code": "lhsk1",
+  "chapters": 10
+ },
+ {
+  "subject": "Sanskrit",
+  "title": "Shaswati",
+  "code": "lhsk2",
+  "chapters": 11
+ },
+ {
+  "subject": "Political Science",
+  "title": "Contemporary World Politics",
+  "code": "leps1",
+  "chapters": 7
+ },
+ {
+  "subject": "Political Science",
+  "title": "Samkalin Vishwa Rajniti",
+  "code": "lhps1",
+  "chapters": 7
+ },
+ {
+  "subject": "Political Science",
+  "title": "Politics in India Since Independence",
+  "code": "leps2",
+  "chapters": 8
+ },
+ {
+  "subject": "Political Science",
+  "title": "Swatantra Bharat Mein Rajniti-II",
+  "code": "lhps2",
+  "chapters": 8
+ },
+ {
+  "subject": "Political Science",
+  "title": "Aasri Alami Siyasat(Urdu)",
+  "code": "lups1",
+  "chapters": 9
+ },
+ {
+  "subject": "Political Science",
+  "title": "Azadi Ke Baad Hindustan Ki Siyasat(Urdu)",
+  "code": "luab1",
+  "chapters": 9
+ },
+ {
+  "subject": "Home Science",
+  "title": "Human Ecology and Family Sciences Part I",
+  "code": "lehe1",
+  "chapters": 7
+ },
+ {
+  "subject": "Home Science",
+  "title": "Human Ecology and Family Sciences Part II",
+  "code": "lehe2",
+  "chapters": 7
+ },
+ {
+  "subject": "Home Science",
+  "title": "Manav Paristhitik avam Parivar Vigyan Bhag 1",
+  "code": "lehh1",
+  "chapters": 7
+ },
+ {
+  "subject": "Home Science",
+  "title": "Manav Paristhitiki avam Parivar Vigyan Bhag 2",
+  "code": "lehh2",
+  "chapters": 7
+ },
+ {
+  "subject": "Economics",
+  "title": "Introductory Microeconomics",
+  "code": "leec2",
+  "chapters": 5
+ },
+ {
+  "subject": "Economics",
+  "title": "Introductory Macroeconomics",
+  "code": "leec1",
+  "chapters": 6
+ },
+ {
+  "subject": "Economics",
+  "title": "Vyashthi Arthshasrta",
+  "code": "lhec2",
+  "chapters": 5
+ },
+ {
+  "subject": "Economics",
+  "title": "Samashty Arthshastra Ek Parichay",
+  "code": "lhec1",
+  "chapters": 6
+ },
+ {
+  "subject": "Economics",
+  "title": "Juzvi Maashiyat ka Taruf(Urdu)",
+  "code": "lume1",
+  "chapters": 6
+ },
+ {
+  "subject": "Economics",
+  "title": "Kulli Maashiyat Ka Taruf(Urdu)",
+  "code": "lume2",
+  "chapters": 6
+ },
+ {
+  "subject": "Business Studies",
+  "title": "Business Studies-I",
+  "code": "lebs1",
+  "chapters": 8
+ },
+ {
+  "subject": "Business Studies",
+  "title": "Vyavasai Adhyan-I",
+  "code": "lhbs1",
+  "chapters": 8
+ },
+ {
+  "subject": "Business Studies",
+  "title": "Business Studies-II",
+  "code": "lebs2",
+  "chapters": 3
+ },
+ {
+  "subject": "Business Studies",
+  "title": "Vyavasai Adhyan-II",
+  "code": "lhbs2",
+  "chapters": 3
+ },
+ {
+  "subject": "Business Studies",
+  "title": "Karobari Uloom I(Urdu)",
+  "code": "lubs1",
+  "chapters": 8
+ },
+ {
+  "subject": "Business Studies",
+  "title": "Karobari Uloom II(Urdu)",
+  "code": "lubs2",
+  "chapters": 4
+ },
+ {
+  "subject": "Urdu",
+  "title": "Gulistan-e- Adab",
+  "code": "luga1",
+  "chapters": 12
+ },
+ {
+  "subject": "Urdu",
+  "title": "Khayaban-e-Urdu",
+  "code": "luku1",
+  "chapters": 6
+ },
+ {
+  "subject": "Urdu",
+  "title": "Nai Awaz",
+  "code": "luna1",
+  "chapters": 16
+ },
+ {
+  "subject": "Urdu",
+  "title": "Dhanak",
+  "code": "ludh1",
+  "chapters": 12
+ },
+ {
+  "subject": "Heritage Crafts",
+  "title": "Hindustan me Dastkari Ki Riwayat",
+  "code": "luhc1",
+  "chapters": 9
+ },
+ {
+  "subject": "Heritage Crafts",
+  "title": "Craft Tradition of India",
+  "code": "lehc1",
+  "chapters": 9
+ },
+ {
+  "subject": "Heritage Crafts",
+  "title": "Bharatiya Hastkla Ki Paramparayen",
+  "code": "lhhc1",
+  "chapters": 9
+ },
+ {
+  "subject": "New Age Graphics Design",
+  "title": "New Age Graphics Design",
+  "code": "legd1",
+  "chapters": 12
+ },
+ {
+  "subject": "Creative Writing & Translation",
+  "title": "Srijan-II",
+  "code": "khsr2",
+  "chapters": 4
+ },
+ {
+  "subject": "Creative Writing & Translation",
+  "title": "Takhleequi Jauhar",
+  "code": "lucw1",
+  "chapters": 11
+ },
+ {
+  "subject": "Fine Art",
+  "title": "An Introduction to Indian Art Part-II",
+  "code": "lefa1",
+  "chapters": 8
+ },
+ {
+  "subject": "Fine Art",
+  "title": "Bhartiya Kala ka Itihaas Bhag 2",
+  "code": "lhfa1",
+  "chapters": 8
+ },
+ {
+  "subject": "Computer Science",
+  "title": "Computer Science",
+  "code": "lecs1",
+  "chapters": 13
+ },
+ {
+  "subject": "Informatics Practices",
+  "title": "Informatics Practices",
+  "code": "leip1",
+  "chapters": 7
+ },
+ {
+  "subject": "Sangeet",
+  "title": "Tabla evam Pakhawaj",
+  "code": "lstp1",
+  "chapters": 7
+ },
+ {
+  "subject": "Sangeet",
+  "title": "Hindustani Sangeet Gayan Evam Vaadan",
+  "code": "lsgv1",
+  "chapters": 9
+ }
+]

@@ -1,0 +1,71 @@
+{
+ "Accountancy": {
+  "Accounting for Companies": [
+   "\\bdebenture",
+   "\\bforfeit",
+   "share capital",
+   "\\ballotment\\b",
+   "securities premium",
+   "oversubscri"
+  ],
+  "Accounting for Partnership Firms": [
+   "\\bgoodwill\\b",
+   "sacrificing ratio",
+   "gaining ratio",
+   "\\bretire(s|d|ment)\\b.*partner",
+   "dissolution of the (partnership )?firm",
+   "revaluation account"
+  ],
+  "Analysis of Financial Statements": [
+   "\\bcommon[- ]size\\b",
+   "comparative statement",
+   "\\bdebt[- ]equity ratio",
+   "\\bcurrent ratio\\b",
+   "inventory turnover"
+  ],
+  "Cash Flow Statement": [
+   "cash flow from",
+   "operating activities",
+   "investing activities",
+   "financing activities"
+  ]
+ },
+ "Biology": {
+  "VII Genetics and Evolution": [
+   "\\bmendel",
+   "dihybrid",
+   "\\ballele",
+   "hardy[- ]weinberg",
+   "\\bpedigree\\b"
+  ],
+  "VI Reproduction": [
+   "\\bembryo sac\\b",
+   "\\bpollen",
+   "double fertilisation",
+   "\\bmegaspor",
+   "\\bplacenta\\b",
+   "spermatogenesis"
+  ],
+  "IX Biotechnology and its Applications": [
+   "recombinant dna",
+   "\\bplasmid",
+   "\\bbt cotton\\b",
+   "\\brna interference",
+   "\\bpcr\\b",
+   "\\btransgenic"
+  ],
+  "X Ecology and Environment": [
+   "\\becosystem\\b",
+   "\\bfood chain\\b",
+   "ecological pyramid",
+   "\\bbiodiversity\\b"
+  ],
+  "VIII Biology and Human Welfare": [
+   "\\bmalaria\\b",
+   "\\btyphoid\\b",
+   "\\bimmunity\\b",
+   "\\bvaccin",
+   "\\bantibiotic"
+  ]
+ }
+}

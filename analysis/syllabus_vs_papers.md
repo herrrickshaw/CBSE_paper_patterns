@@ -33,7 +33,8 @@ subject's unit names are distinctive:
 | Accountancy | enriched keyword | 87% | 59% | **51%** |
 | Accountancy | embedding | 90% | 47% | 42% |
 | Biology | enriched keyword | 15% | 62% | 9% |
-| Biology | **embedding** | 57% | 57% | **32%** |
+| Biology | embedding (curriculum para) | 57% | 57% | 32% |
+| Biology | **embedding (NCERT chapters)** | 70% | **78%** | **55%** |
 
 Embeddings (`all-MiniLM-L6-v2`, each unit described by its name plus the syllabus prose
 beneath it) are decisively better where unit names are generic single words — Biology's
@@ -102,7 +103,50 @@ gap in the corpus that clears the noise floor. Note this reverses the earlier
 keyword-based reading, which had Psychology as the most blueprint-faithful subject with
 every unit inside ±4 — that reading came from mapping only 41% of its questions.
 
-## Biology — 57% mapped, embedding method
+## Biology — 70% mapped, NCERT chapter descriptions
+
+**Assignment accuracy 78.4%** — the best in the corpus, up from 56.7% with a curriculum
+paragraph. Uncertainty band ≈ ±6pp.
+
+| Unit | Declared | Actual | Gap | Verdict |
+|---|---:|---:|---:|---|
+| VII Genetics and Evolution | 27% | 18% | -8 | suggestive |
+| VI Reproduction | 21% | 31% | +10 | suggestive |
+| VIII Biology and Human Welfare | 16% | 11% | -5 | noise |
+| IX Biotechnology and its Applications | 16% | 21% | +5 | noise |
+| X Ecology and Environment | 13% | 14% | +1 | noise |
+| Identification/Familiarity with the apparatus | 7% | 3% | -4 | noise |
+
+Nothing clears the bar. Biology is **broadly blueprint-faithful**, with a hint that
+Reproduction is over-tested and Genetics under-tested. This is the third and final
+reading of this subject; the two before it were both artifacts:
+
+| Reading | Method | Headline | Why it was wrong |
+|---|---|---|---|
+| 1st | keyword | Human Welfare **+48** | only 15% mapped; `disease`/`health`/`drug` absorbed everything |
+| 2nd | NCERT, shared chapters | Human Welfare **−15** | Human Welfare and Biotechnology were given the *same three chapters*, so Biotech absorbed every question |
+| 3rd | NCERT, exclusive chapters | Human Welfare **−5, noise** | each chapter assigned to one unit, no unit left empty |
+
+## How NCERT chapter text was attached to units
+
+286 Class-XII chapter PDFs from `ncert.nic.in` (~5.7 GB, book codes and chapter counts
+read out of the inline JavaScript that builds the dropdowns on `textbook.php`). Chapter
+titles are useless for this — `pdftotext` returns body prose like *"Y ou have learnt
+about..."* — so chapters are attached to units by embedding the **chapter text** and
+assigning **exclusively**: highest similarity first, each chapter used once, and any
+unit left empty takes its best unclaimed chapter. That last clause is what fixed the
+2nd reading above.
+
+The resulting assignment is verifiably correct against the NCERT contents page:
+Reproduction ← ch1–3, Genetics and Evolution ← ch4–6, Biology and Human Welfare ←
+ch8 *Microbes in Human Welfare*, Ecology ← ch11–13.
+
+**It does not help every subject.** Accountancy went 47.1% → 45.1% with NCERT text;
+its enriched keyword sets remain the best method there at 59%. Chapter text helps where
+units are semantically broad (Biology) and not where they turn on fine-grained
+vocabulary the model doesn't separate (`debenture` vs `goodwill`).
+
+## Superseded: Biology — 57% mapped, embedding method
 
 | Unit | Declared | Actual | Gap | Verdict |
 |---|---:|---:|---:|---|

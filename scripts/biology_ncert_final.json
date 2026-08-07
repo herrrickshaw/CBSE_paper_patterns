@@ -1,0 +1,49 @@
+{
+ "mapped": 0.704,
+ "accuracy": 0.784,
+ "method": "ncert_chapter_exclusive",
+ "units": [
+  {
+   "unit": "VII Genetics and Evolution",
+   "declared_pct": 26.7,
+   "actual_pct": 18.5,
+   "gap": -8.2,
+   "verdict": "suggestive"
+  },
+  {
+   "unit": "VI Reproduction",
+   "declared_pct": 21.3,
+   "actual_pct": 31.0,
+   "gap": 9.7,
+   "verdict": "suggestive"
+  },
+  {
+   "unit": "VIII Biology and Human Welfare",
+   "declared_pct": 16.0,
+   "actual_pct": 11.4,
+   "gap": -4.6,
+   "verdict": "noise"
+  },
+  {
+   "unit": "IX Biotechnology and its Applications",
+   "declared_pct": 16.0,
+   "actual_pct": 21.4,
+   "gap": 5.4,
+   "verdict": "noise"
+  },
+  {
+   "unit": "X Ecology and Environment",
+   "declared_pct": 13.3,
+   "actual_pct": 14.5,
+   "gap": 1.2,
+   "verdict": "noise"
+  },
+  {
+   "unit": "Identification/Familiarity with the apparatus",
+   "declared_pct": 6.7,
+   "actual_pct": 3.2,
+   "gap": -3.5,
+   "verdict": "noise"
+  }
+ ]
+}
