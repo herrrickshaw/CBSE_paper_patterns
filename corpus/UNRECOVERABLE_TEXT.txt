@@ -1,0 +1,8 @@
+official/skill_sqp_ms/816_HORTICULTURE_MS.md
+past_papers_X/2024-COMPTT/X/Sanskrit/52-S sanskrit.md
+sqp_archive/SQP/ClassXII_2020_21/Bodo-MS.md
+sqp_archive/SQP/ClassXII_2020_21/Kashmiri-MS.md
+sqp_archive/SQP/ClassXII_2020_21/Manipuri-MS.md
+sqp_archive/SQP/ClassXII_2020_21/Mizo-MS.md
+sqp_archive/SQP/ClassXII_2020_21/Telugu-MS.md
+sqp_archive/SQP/ClassXII_2020_21/Tibetan-MS.md

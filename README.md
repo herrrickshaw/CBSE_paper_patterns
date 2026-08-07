@@ -107,8 +107,16 @@ URL of the PDF it came from.
 - `corpus/questions.csv` — the 960 questions from the 32 hand-verified papers
 - `corpus/OCR_MANIFEST.json` — 572 scanned papers recovered by OCR (5.34M characters)
 
-573 of the papers were image-only scans; macOS Vision OCR recovered 523 of them to
-usable text. 49 remain thin — they are Hindi-medium, and Vision has no Devanagari model.
+**1,048 of the papers were image-only scans** (573 in the Class XII set, 416 Class X,
+59 in the sample-paper archive) — `pdftotext` returns nothing for them. macOS Vision OCR
+recovered 1,046, adding **8.9 million characters**. Across the whole 6,409-document
+corpus only **8 files** still lack substantive text; they are listed in
+`corpus/UNRECOVERABLE_TEXT.txt` and are Hindi-medium scans, which Vision cannot read
+because it ships no Devanagari model. Those 8 need re-downloading from the URLs in
+`sources/` and OCR with a Devanagari-capable engine (e.g. tesseract with `hin`).
+
+The source PDFs are not kept: every one is reconstructible from the `source_url` and
+verifiable against the `pdf_sha256` in each document's front-matter.
 
 Derived aggregates:
 
