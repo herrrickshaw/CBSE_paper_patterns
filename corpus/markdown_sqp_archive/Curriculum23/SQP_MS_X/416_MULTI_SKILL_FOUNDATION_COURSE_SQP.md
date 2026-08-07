@@ -1,0 +1,209 @@
+---
+title: "416 MULTI SKILL FOUNDATION COURSE SQP"
+source_pdf: "416_MULTI_SKILL_FOUNDATION_COURSE_SQP.pdf"
+source_url: "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_X/416_MULTI_SKILL_FOUNDATION_COURSE_SQP.pdf"
+pages: 4
+pdf_bytes: 643712
+pdf_sha256: "344c7427d02cacdb809d4cbb949a584f231f0b0075b0062cd45b6e5e16be8b62"
+text_chars: 10402
+low_text_pages: 0
+converter: "pdftotext -layout"
+---
+
+# 416 MULTI SKILL FOUNDATION COURSE SQP
+
+
+---
+
+## page 1
+
+```
+ CBSE | DEPARTMENT OF SKILL EDUCATION
+         Multi skill foundation Course (SUBJECT CODE -416)
+       Blue-print for Sample Question Paper for Class X (Session 2022-2023)
+Max. Time: 2 Hours                                                                    Max. Marks: 50
+
+PART A - EMPLOYABILITY SKILLS (10 MARKS):
+
+                                                     OBJECTIVE TYPE   SHORT ANSWER
+UNIT                                                                                      TOTAL
+                    NAME OF THE UNIT                  QUESTIONS       TYPE QUESTIONS
+NO.                                                                                     QUESTIONS
+                                                      1 MARK EACH     2 MARKS EACH
+
+  1      Communication Skills - II                         -                -                -
+
+  2      Self-Management Skills - II                       2                2                4
+
+  3      ICT Skills - II                                   2                1                3
+
+  4      Entrepreneurial Skills - II                       2                2                4
+
+  5      Green Skills - II                                 -                -                -
+
+               TOTAL QUESTIONS                             6                5               11
+
+      NO. OF QUESTIONS TO BE ANSWERED                    Any 4            Any 3             07
+
+                  TOTAL MARKS                           1x4=4            2x3=6           10 MARKS
+
+
+PART B - SUBJECT SPECIFIC SKILLS (40 MARKS):
+
+                                       OBJECTIVE          SHORT        DESCRIPTIVE/
+                                         TYPE          ANSWER TYPE    LONG ANS. TYPE
+UNIT                                                                                      TOTAL
+          NAME OF THE UNIT             QUESTIONS        QUESTIONS
+NO.                                                                     QUESTIONS
+                                                                                        QUESTIONS
+                                       1 MARK EACH    2 MARKS EACH     4 MARKS EACH
+
+                                            6                  2            1                9
+         Workshop
+  1
+         Engineering
+         Techniques
+
+         Energy &                           7                  2            1               10
+  2
+         Environment
+
+
+
+
+                                                                                                    1
+```
+
+---
+
+## page 2
+
+```
+     Gardening, Nursery       5           1         2           8
+3    & Agriculture
+     Technique
+
+4    Personal Health &        6           1         1           8
+     Hygiene
+    TOTAL QUESTIONS           24          6         5           35
+
+    NO. OF QUESTIONS          20        Any 4    Any 3          27
+    TO BE ANSWERED
+      TOTAL MARKS         1 x 20 = 20   2x4=8   4 x 3 = 12   40 MARKS
+
+
+
+
+                                                                        2
+```
+
+---
+
+## page 3
+
+```
+ CBSE | DEPARTMENT OF SKILL EDUCATION
+         Multiskill Foundation Course (SUBJECT CODE 416)
+          SAMPLE QUESTION PAPER FOR CLASS X (SESSION 2022-2023)
+Max. Time: 2 Hours                                                                       Max. Marks: 50
+General Instructions:
+   1. Please read the instructions carefully.
+   2. This Question Paper consists of 21 questions in two sections – Section A & Section B.
+   3. Section A has Objective type questions whereas Section B contains Subjective type questions.
+   4. Out of the given (5 + 16 =) 21 questions, a candidate has to answer (5 + 10 =) 15 questions in the
+      allotted (maximum) time of 2 hours.
+   5. All questions of a particular section must be attempted in the correct order.
+   6. SECTION A - OBJECTIVE TYPE QUESTIONS (24 MARKS):
+          i.  This section has 05 questions.
+         ii.  There is no negative marking.
+        iii.  Do as per the instructions given.
+        iv.   Marks allotted are mentioned against each question/part.
+   7. SECTION B – SUBJECTIVE TYPE QUESTIONS (26 MARKS):
+          i.  This section contains 16 questions.
+         ii.  A candidate has to do 10 questions.
+        iii.  Do as per the instructions given.
+        iv.   Marks allotted are mentioned against each question/part.
+
+
+                         SECTION A: OBJECTIVE TYPE QUESTIONS
+  Q.
+                                               QUESTION                                           Marks
+ No.
+ Q. 1    Answer any 4 out of the given 6 questions on Employability Skills (1 x 4 = 4 marks)
+    i.   What is Stress?                                                                            1
+   ii.   What are the two types of motivation?                                                      1
+  iii.   ICT stands for ?                                                                           1
+         On a computer, Which shortcut key is used to paste a file?                                 1
+  iv.
+   v.    What is wage employment?                                                                   1
+  vi.    Define demand?                                                                             1
+ Q. 2    Answer any 5 out of the given 6 questions (1 x 5 = 5 marks)
+    i.   What does G.I pipe mean?                                                                   1
+   ii.   What is meant by sieri in an engineering workshop?                                         1
+  iii.   What is a conductor?                                                                       1
+  iv.    Animals need fodder for ………………. & ……………..                                                  1
+   v.    Which type of nursery is set up to prepare seasonal vegetables and flower saplings?
+                                                                                                    1
+  vi.    Rice is a rich source of …………………….                                                         1
+ Q. 3    Answer any 5 out of the given 6 questions (1 x 5 = 5 marks)
+    i.   Write down the least count of vernier calipers.                                            1
+   ii.   What is the use of tap tools in workshop engineering techniques?                           1
+  iii.   What is the unit of measure of resistance?                                                 1
+  iv.    What is the SI unit of energy?                                                             1
+
+
+                                                                                                          3
+```
+
+---
+
+## page 4
+
+```
+  v.    Name the methods of artificial insemination                                                  1
+ vi.    Write the long form of DOTS                                                                  1
+Q. 4    Answer any 5 out of the given 6 questions (1 x 5 = 5 marks)
+   i.   What is meant by concrete?                                                                   1
+  ii.   What is the PH of neutral soil?                                                              1
+ iii.   What is the direction of electric current?                                                   1
+ iv.    Which equipment converts DC voltage into AC voltage?                                         1
+  v.    What are called as Soldiers of the body?                                                     1
+ vi.    Based upon the storage life, food items have been divided in how many groups?                1
+Q. 5    Answer any 5 out of the given 6 questions (1 x 5 = 5 marks)
+   i.   What is the full form of RCC?                                                                1
+  ii.   Traditional pot irrigation method suitable for ___________.                                  1
+ iii.   What is the function of the valve in the pump?                                               1
+ iv.    Give an example of a renewable source of energy?                                             1
+  v.    Which nutrient performs the main role in muscle development?                                 1
+ vi.    Which blood group is called the Universal acceptor blood group?                              1
+
+                 SECTION B: SUBJECTIVE TYPE QUESTIONS
+ Q.
+                                              QUESTION                                             Marks
+ No.
+Answer any 3 out of the given 5 questions on Employability Skills in 20 – 30 words each (2 x 3 = 6 marks)
+Q. 6 Write down the importance of Goal setting in life?                                               2
+Q. 7 Write down the steps for Stress Management?                                                      2
+Q. 8 Write the function of the mouse?                                                                 2
+Q. 9 Write the process of creating a folder on computer.                                              2
+Q. 10 Write the functions of an entrepreneur.                                                         2
+Answer any 4 out of the given 6 questions in 20 – 30 words each (2 x 4 = 8 marks)
+Q. 11 Enlist the elements in cement.                                                                  2
+Q. 12 What is the function of the inlet valve and outlet valve in a diesel engine?                    2
+Q. 13 Write main types of the threading die?                                                          2
+Q. 14 State any two advantages of biogas.                                                             2
+Q. 15 Write the names of modern irrigation systems.                                                   2
+Q. 16 What are the benefits of regular exercise?                                                      2
+Answer any 3 out of the given 5 questions in 50– 80 words each (4 x 3 = 12 marks)
+Q. 17 Write down the benefits of plastering.                                                          4
+Q. 18 Explain the types of engine.                                                                    4
+Q. 19 Write down the functions of nitrogen                                                            4
+Q. 20 Write the advantages of vegetative plant propagation/Stem based regeneration                    4
+       technique.
+Q. 21 What is dehydration? Write the causes of dehydration.                                           4
+
+
+
+
+                                                                                                            4
+```

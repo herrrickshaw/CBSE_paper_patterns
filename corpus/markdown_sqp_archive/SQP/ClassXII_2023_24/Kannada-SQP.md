@@ -1,0 +1,489 @@
+---
+title: "Kannada-SQP"
+source_pdf: "Kannada-SQP.pdf"
+source_url: "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Kannada-SQP.pdf"
+pages: 9
+pdf_bytes: 1429925
+pdf_sha256: "e551c74a7b54d36bad0ae791b33cbdbe4626ceb754fe41cdb488ccd160dd0c27"
+text_chars: 26341
+low_text_pages: 0
+converter: "pdftotext -layout"
+---
+
+# Kannada-SQP
+
+
+---
+
+## page 1
+
+```
+                                                                                                   BLUE PRINT : FOR LANGUAGES
+SUBJECT        KANNADA                                                                                                                 SUBJECT CODE 115
+MAXIMUM MARKS 80                                                                       TIME ALLOWED 3 Hrs.
+                                                               Multiple choice & Descriptive questions                     AVERAGE TIME TO SOLVE THE QUESTION PAPER 2.45Hrs.
+
+
+                                                          COMPOSITION/WRITING SKILLS
+                          READING SKILLS BASED                      BASED
+                                                                                             GRAMMAR & TRANSLATION BASED                     LITERATURE BASED                               POETRY BASED
+                                                                                                                                                                                                                                  UNIT /
+ UNIT / CHAPTER                                                                                                                                                                                                               CHAPTERWISE
+                                                                                                                                                                                                                              TOTAL MARKS
+
+                                   SA     SA   LA   LA   VSA   VSA   SA   SA    LA    LA   MCQ     MCQ   SA      SA   LA   LA   MCQ    VSA     SA     SA         LA     LA   MCQ    VSA   SA                     LA    LA
+                   MCQ1    MCQ2     1      2    1    2    1     2     1    2     1     2    1       2     1       2    1    2    1      2       1      2          1      2    1      2     1        SA     2      1     2
+ಅಪರಿಚಿತ ಗದ್ಯ       1(5)    1(5)                                                                                                                                                                                                   10
+
+ವ್ಯಯ ಕರಣ                                                                                   1(10)         1(2) 2(2)                                                                                                                16
+
+ಪರಿಚಿತ ಪದ್ಯ                                                                                                                                                                  1(5)                                                 5
+
+ಪರಿಚಿತ ಗದ್ಯ                                                                                                                     1(5)                                                                                              5
+ಸೃಜನಶೀಲ
+                                                                                                                                                                                                                                  10
+ಬರವಣಿಗೆ                                                                        5(2)
+
+ಪದ್ಯ ಪಾಠ                                                                                                                                                                                  2(1) 3(1)*3(1)              4(1)*       12
+
+ಗದ್ಯ ಪಾಠ                                                                                                                                      2(1) 3(1)* 4(1)*                                                                    9
+
+ದೀರ್ಘಗದ್ಯ                                                                                                                       1(4)          2(1)              4(1)*                                                             10
+
+ಕವಿ ಪರಿಚಯ                                                                                                                                            3(1)*                                                                        3
+
+
+                                                                               5(2)        1(16)                                1(9)          2(2)    3(2)       4(2)        1(5)         2(1)            3(2)        4(1)
+SUB TOTAL          1(5)    1(5)
+TOTAL                             1(10)                              5(2)                                1(16)                                   15(27)                                          12(17)                           80
+
+
+TOTAL NUMBER OF SECTIONS IN QP: 04                                                         TOTAL NUMBER OF OPTIONS IN QP: 7
+```
+
+---
+
+## page 2
+
+```
+                                      Very Short Answer (MCQ) 40         Short answer (SA)07         Long answer (LA)05                             Value Based Question (VBQ) 07
+NOTE:
+        1   PLEASE PUT THE NUMBER OF QUESTIONS WITHIN BRACKET AND THE TOTAL MARKS OUTSIDE THE BRAKET IN THE RELEVANT COLUMN ONLY.
+        2   USE (*) SIGN TO INDICATE THAT THE MARKS HAVE BEEN COMBINED TO FORM ONE QUESTION. USE DIFFERENT SYMBOLS FOR SUCH QUESTIONS CARRYING MORE THAN ONE PART.
+        3   PLEASE STRIKE OUT WHICHEVER IS NOT APPLICABLE.
+        4   PLEASE PREPARE AND SEND DULY FILLED IN BLUE PRINT PROFORMA FOR EACH PAPER SEPARATELY.
+```
+
+---
+
+## page 3
+
+```
+                                         KANNADA ( CODE NO. 115)
+                                               CLASS XII
+                                                2023-2024
+                                         SAMPLE QUESTION PAPER
+          3 Hours                                                      Max. Marks : 80
+                                             «µÀAiÀÄ : PÀ£ÀßqÀ ( CODE NO. 115)
+                                                    vÀgÀUÀw : 12
+                                                     2023-2024
+                                               ªÀiÁzÀj ¥Àæ±Éß¥ÀwæPÉ
+         ¸ÀªÀÄAiÀÄ : 3 UÀAmÉ                                                   CAPÀUÀ¼ÀÄ : 80
+_____________________________________________________________________________________
+¸ÀÆZÀ£ÉUÀ¼ÀÄ :
+      ¥Àæ±Éß ¥ÀwæPÉAiÀÄÄ A & b ಭಾಗಗಳನ್ನು ಮತ್ತು A, B, C ªÀÄvÀÄÛ D JA§ 4 ವಿಭಾಗÀ¼À£ÀÄß M¼ÀUÉÆArgÀÄvÀÛzÉ.
+       MlÄÖ 24 §ºÀÄ DAiÉÄÌAiÀÄ ¥Àæ±ÉßUÀ½gÀÄvÀÛªÉ. ಎಲ್ಲ ಪ್ರ ಶ್ನು ಗಳಿಗೆ GvÀÛj¸À¨ÉÃPÀÄ.
+      ಭಾಗ- A,ಯ ವಿಭಾಗ A ದಲ್ಲ        ªÁZÀ£À ªÀÄvÀÄÛ UÀæ»PÁ PË±À®åzÀ°è 2 UÀzÁåA±ÀUÀ¼À£ÀÄß PÉÆqÀ¯ÁVzÉ.
+      ವಿಭಾಗ - B, C£Àé¬ÄPÀ ªÁåPÀgÀt «¨sÁUÀzÀ°è 16 ಅಂಕಗಳ 14 ಪ್ರ ಶ್ನು ಗಳಿವೆ ಅಲ್ಲ ಕೊಟ್ಟಿ ರುವ ಸೂಚನೆಯಂತೆ
+       ಉತ್ು ರಿಸಬೇಕು.
+      ವಿಭಾಗ - C ದಲ್ಲ ಯ ಎಲ್ಲ ಪ್ರ ಶ್ನು ಗಳಿಗೆ ಉತ್ು ರಿಸಬೇಕು.
+      ಭಾಗ - b ದ ವಿಭಾಗ - D ದಲ್ಲ ಯ ಪ್ರ ಶ್ನು ಗಳಿಗೆ ಅಲ್ಲ ಕೊಟ್ಟಿ ರುವ ಸೂಚನೆಯಂತೆ ಉತ್ು ರಿಸಬೇಕು.
+________________________________________________________________________
+                                                PART A Section A
+                                 ªÁZÀ£À ªÀÄvÀÄÛ UÀæ»PÁ PË±À® : ಅಪ್ರಿಚಿತ್ ಗದಯ ಅಂಕಗಳು - 10
+¥Àæ±Éß 1. F PÉ¼ÀUÉ JgÀqÀÄ ¥ÀjZÉÒÃzÀUÀ¼À£ÀÄß PÉÆqÀ¯ÁVzÉ. CªÀÅUÀ¼À£ÀÄß N¢PÉÆAqÀÄ AiÀiÁªÀÅzÁzÀgÀÆ MAzÀÄ ¥ÀjZÉÒÃzÀzÀ PÉ¼ÀUÉ
+         PÉÆnÖgÀÄªÀ §ºÀÄ DAiÉÄÌAiÀÄ ¥Àæ±ÉßUÀ½UÉ GvÀÛj¹j.                                                                         1 x 5= 5
+              ¸ÁªÀiÁ£ÀåªÁV vÀAvÀæeÁÕ£ÀzÀ PÉëÃvÀæzÀ°è DUÀÄwÛgÀÄªÀ ºÉÆ¸À D«µÁÌgÀUÀ¼À ªÀÄvÀÄÛ §zÀ¯ÁªÀuÉUÀ¼À ¥ÀjZÀAiÀÄ PÁ«ÄðPÀ¤UÉ DUÀÄªÀÅ¢®è. £ÀªÀÄä
+ªÀåªÀ¸ÉÜ EgÀÄªÀzÉÃ »ÃUÉ. ºÉÆ¸À C£ÉéÃµÀuÉAiÀÄ CxÀªÁ §zÀ¯ÁªÀuÉAiÀÄ ªÀiÁ»w w½¸ÀÄªÀ ¸Á»vÀåªÀ£ÀÄß £ÁªÀÅ vÀdÕgÁzÀªÀjUÉ ªÀiÁvÀæ PÉÆqÀÄvÉÛÃªÉ.
+CªÀgÀÄ ªÀiÁvÀæ CzÀgÀ §UÉÎ D¯ÉÆÃa¸ÀÄvÁÛgÉ. CªÀgÀÄ ºÉÃ½zÀ ªÀiÁ¥Áðl£ÀßµÉÖÃ PÁ«ÄðPÀ AiÀiÁAwæPÀªÁV ªÀiÁqÀÄvÁÛ£É. CzÀQÌAvÀ ºÉZÀÄÑ AiÉÆÃa¸À®Ä
+CªÀ¤UÉ ¸ÁzsÀå«®è. KPÉAzÀgÉ D MAzÀÄ §zÀ¯ÁªÀuÉAiÀÄ »£Éß¯ÉAiÀÄ£ÀÄß w½¸ÀÄªÀ vÀAvÀæeÁÕ£ÀzÀ «ªÀgÀ CªÀ¤UÀxÀðªÁUÀÄªÀ ¨sÁµÉAiÀÄ°è EgÀÄ ªÀÅ¢®è.
+EzÀÄ »ÃUÉÃ ªÀÄÄAzÀÄªÀjAiÀÄÄwÛgÀÄªÀÅzÀgÀ CxÀðªÉÃ£ÀÄ? PÉ®¸À ªÀiÁqÀÄvÁÛ ºÉÆÃzÀAvÉ PÁ«ÄðPÀ£À w¼ÀÄªÀ½PÉ eÁ¹ÛAiÀiÁUÀÄvÁÛ ºÉÆÃUÀÄvÀÛzÉ. CªÀ¤UÉ
+¥ÀÆgÀPÀªÁzÀ ¸Á»vÀåªÀ£ÀÆß MzÀV¹zÀgÉ CzÀjAzÀ CªÀ£À ¸ÀÈd£ÁvÀäPÀvÉ ºÉZÁÑUÀÄvÀÛzÉ. EzÀgÀ £ÉgÀ«¤AzÀ DvÀ PÁAiÀÄð«zsÁ£ÀzÀ°è PÉ®ªÉÃ
+§zÀ¯ÁªÀuÉUÀ¼À£ÀÄß ªÀiÁrPÉÆAqÀÄ E£ÀÆß GvÀÛªÀÄ UÀÄtªÀÄlÖzÀ°è ªÀ¸ÀÄÛªÀ£ÀÄß GvÁà¢¸À§ºÀÄzÀÄ CxÀªÁ GvÁàzÀ£ÉAiÀÄ ªÉZÀÑªÀ£ÀÄß vÀVÎ¸ÀÄªÀAvÀºÀ G¥ÀAiÀÄÄPÀÛ
+¸À®ºÉAiÀÄ£ÀÆß PÉÆqÀ§ºÀÄzÀÄ. MnÖ£À°è PÁ«ÄðPÀ£À F C£ÀÄ¨sÀªÀ eÁÕ£ÀzÀ §¼ÀPÉUÉ EgÀÄªÀ §ºÀÄzÉÆqÀØ vÉÆqÀPÉAzÀgÉ «zÉÃ²Ã ¨sÁµÉAiÉÆAzÀg À
+ªÀiÁzsÀåªÀÄzÀ ªÀÄÆ®PÀ £ÀªÀÄä ªÀåªÀºÁgÀUÀ¼É®èªÀÇ £ÀqÉAiÀÄÄwÛgÀÄªÀÅzÀÄ. £ÁªÀÅ §zÀ¯ÁUÀ¨ÉÃPÁzÀgÉ ªÉÆzÀ®Ä F ¨sÁµÁ ªÀåªÀ¸ÉÜAiÀÄ£ÀÄß
+¸Àj¥Àr¸À¨ÉÃPÁVzÉ. ºÁVzÁÝUÀ ªÀiÁvÀæ £ÀªÀÄä £É®, £ÀªÀÄä £É®PÉÌ MUÀÄÎªÀAvÉ vÀAvÀæeÁÕ£À PÉÃvÀæzÀ°è £ÀªÀÄUÉ CUÀvÀå«gÀÄªÀAxÀªÀÅUÀ¼À£ÀÄß £ÁªÉÃ
+¹zÀÞ¥Àr¹PÉÆAqÀÄ ¸ÁéªÀ®A©UÀ¼ÁUÀ§ºÀÄzÀÄ.
+¥Àæ±ÉßUÀ¼ÀÄ :
+I.vÀAvÀæeÁÕ£ÀzÀ°è GAmÁUÀÄªÀ ºÉÆ¸À D«µÁÌgÀUÀ¼À ¥ÀjZÀAiÀÄ PÁ«ÄðPÀ¤UÉ ¸ÁªÀiÁ£ÀåªÁV KPÉ GAmÁUÀzÀÄ?
+      A. vÀ£Àß PÉ®¸ÀQÌAvÀ ºÉZÀÄÑ AiÉÆÃa¸À®Ä CªÀ¤UÉ ¸ÁzsÀå«®è.
+      B. ºÉÆ¸À C£ÉéÃµÀuÉAiÀÄ CxÀªÁ §zÀ¯ÁªÀuÉAiÀÄ ªÀiÁ»w w½¸ÀÄªÀ ¸Á»vÀåªÀ£ÀÄß £ÁªÀÅ vÀdÕgÁzÀªÀjUÉ ªÀiÁvÀæ PÉÆqÀÄvÉÛÃªÉ.
+      C. §zÀ¯ÁªÀuÉAiÀÄ »£Éß¯ÉAiÀÄ£ÀÄß w½¸ÀÄªÀ vÀAvÀæeÁÕ£ÀzÀ «ªÀgÀ CªÀ¤UÀxÀðªÁUÀÄªÀ ¨sÁµÉAiÀÄ°è EgÀÄªÀÅ¢®è.
+      D. ºÉÆ¸À D«µÁÌgÀUÀ¼À ¥ÀjZÀAiÀÄ PÁ«ÄðPÀ¤UÉ CUÀvÀåªÉAzÀÄ AiÀiÁjUÀÆ C¤¸ÀÄwÛ®è.
+II.vÀdÕgÀÄ ºÉÃ½zÀµÀÖ£Éß PÁ«ÄðPÀ ªÀiÁqÀ®Ä PÁgÀtªÉÃ£ÀÄ?
+    A. CªÀ¤UÉ ¥ÀÆgÀPÀªÁzÀ ¸Á»vÀåªÀ£ÀÄß MzÀV¸ÀÄwÛ®è.
+     B. PÁ«ÄðPÀ¤UÉ CzÀgÀ°è D¸ÀQÛ¬Ä®è.
+     C. §zÀ¯ÁªÀuÉAiÀÄ »£Éß¯ÉAiÀÄ£ÀÄß w½¸ÀÄªÀ vÀAvÀæeÁÕ£ÀzÀ «ªÀgÀ CªÀ¤UÀxÀðªÁUÀÄªÀ ¨sÁµÉAiÀÄ°è EgÀÄªÀÅ¢®è.
+     D. ºÉÆ¸À C£ÉéÃµÀuÉAiÀÄ CxÀªÁ §zÀ¯ÁªÀuÉAiÀÄ ªÀiÁ»w w½¸ÀÄªÀ ¸Á»vÀåªÀ£ÀÄß £ÁªÀÅ vÀdÕgÁzÀªÀjUÉ ªÀiÁvÀæ PÉÆqÀÄvÉÛÃªÉ.
+III.vÀAvÀæeÁÕ£ÀzÀ §zÀ¯ÁªÀuÉ PÁ«ÄðPÀ¤UÉ KPÉ w½AiÀÄÄªÀÅ¢®è?
+    A. §zÀ¯ÁªÀuÉAiÀÄ »£Éß¯ÉAiÀÄ£ÀÄß w½¸ÀÄªÀ vÀAvÀæeÁÕ£ÀzÀ «ªÀgÀ CªÀ¤UÀxÀðªÁUÀÄªÀ ¨sÁµÉAiÀÄ°è EgÀÄªÀÅ¢®è.
+     B. £ÀªÀÄä ªÀåªÀ¸ÉÜ ಇರುವುದೇ »ÃUÉ.
+     C. KPÉAzÀgÉ ºÉÃ½zÀ ªÀiÁ¥Áðl£ÀßµÉÖÃ PÁ«ÄðPÀ AiÀiÁAwæPÀªÁV ªÀiÁqÀÄvÁÛ£É.
+     D. vÀdÕgÀÄ w½¹PÉÆnÖgÀÄªÀÅ¢®è.
+```
+
+---
+
+## page 4
+
+```
+IV.GvÀÛªÀÄ UÀÄtªÀÄlÖzÀ ªÀ¸ÀÄÛUÀ¼À£ÀÄß GvÁà¢¸À®Ä PÁ«ÄðPÀ¤UÉ ºÉÃUÉ £ÉgÀªÁUÀ§ºÀÄzÀÄ?
+   A. PÉ®¸À ªÀiÁqÀÄvÁÛ ºÉÆÃzÀAvÉ PÁ«ÄðPÀ£À w¼ÀÄªÀ½PÉ eÁ¹ÛAiÀiÁUÀÄvÁÛ ºÉÆÃUÀÄvÀÛzÉ.
+   B. PÁ«Äðಕ¤UÉ ¥ÀÆgÀPÀªÁzÀ ¸Á»vÀåªÀ£ÀÄß MzÀV¹zÀgÉ CzÀjAzÀ CªÀ£À ¸ÀÈd£ÁvÀäPÀvÉ ºÉZÁÑV, GvÀÛªÀÄ UÀÄtªÀÄlÖzÀ ªÀ¸ÀÄÛUÀ¼À£ÀÄß
+     GvÁà¢¸À®Ä C£ÀÄPÀÆ®ªÁUÀÄvÀÛzÉ.
+   C. ºÉÆ¸À C£ÉéÃµÀuÉAiÀÄ CxÀªÁ §zÀ¯ÁªÀuÉAiÀÄ ªÀiÁ»w w½¸ÀÄªÀ ¸Á»vÀåªÀ£ÀÄß PÁ«ÄðPÀ¤UÉ PÉÆqÀ§ºÀÄzÀÄ.
+   D. vÀdÕgÉÃ PÁ«ÄðPÀ£À PÉ®¸À ªÀiÁrPÉÆlÄÖ £ÉgÀªÁUÀ§ºÀÄzÀÄ.
+V.«zÉÃ±À ¨sÁµÉAiÀÄ §¼ÀPÉ¬ÄAzÀ PÁ«ÄðPÀ¤UÁUÀÄªÀ vÉÆAzÀgÉAiÉÄÃ£ÀÄ?
+   A. PÁ«ÄðPÀ ವಿದೇಶೀ ¨sÁµÉAiÀÄ£ÀÄß PÀ°AiÀÄ§ºÀÄzÀÄ.
+   B. §zÀ¯ÁªÀuÉAiÀÄ »£Éß¯ÉAiÀÄ£ÀÄß w½¸ÀÄªÀ vÀAvÀæeÁÕ£ÀzÀ «ªÀgÀ CªÀ¤UÀxÀðªÁUÀÄªÀ¢®è.
+   C. vÀdÕgÀÄ ºÉÃ½zÀ ªÀiÁ¥Áðl£ÀßµÉÖÃ PÁ«ÄðPÀ AiÀiÁAwæPÀªÁV ªÀiÁqÀÄvÁÛ£É.
+   D. PÁ«ÄðPÀ¤UÉ vÀ£Àß GzÉÆåÃUÀªÀ£ÀÄß KPÁUÀævÉ ªÀÄvÀÄÛ ±ÀæzÉÞ¬ÄAzÀ ªÀiÁqÀ®Ä DUÀÄವು¢®è.
+¥Àæ±Éß 2. F PÉ¼ÀUÉ JgÀqÀÄ ¥ÀjZÉÒÃzÀUÀ¼À£ÀÄß PÉÆqÀ¯ÁVzÉ. CªÀÅUÀ¼À£ÀÄß N¢PÉÆAqÀÄ AiÀiÁªÀÅzÁzÀgÀÆ MAzÀÄ ¥ÀjZÉÒÃzÀzÀ PÉ¼ÀUÉ
+          PÉÆnÖgÀÄªÀ §ºÀÄ DAiÉÄÌAiÀÄ ¥Àæ±ÉßUÀ½UÉ GvÀÛj¹j.                                                                       1 x 5= 5
+          ¥ÁæaÃ£À PÁ®zÀ°è zsÀªÀÄðªÉÃ ¨sÁgÀvÀzÀ £É¯ÉUÀmÁÖV CzÀPÉÌ vÀPÀÌAvÉ fÃªÀ£À gÀÆ¥ÀÄUÉÆArvÀÄÛ. Cw ¥ÁæaÃ£À PÁ®¢AzÀ¯ÉÃ DAiÀÄð d£ÁAUÀ
+¨sÁgÀvÀzÀ°è ªÉÆzÀ¯ÉÃ £É¯É¹zÀ ªÀÄÆ® ¤ªÁ¹UÀ¼ÉÆqÀ£É ¸À«Ää®£ÀUÉÆAqÀÄ, zsÁ«ÄðPÀ-¸ÁA¸ÀÌøwPÀ CAUÀUÀ¼À°è MAzÀgÉÆqÀ£ÉÆAzÀÄ ºÁ¸ÀÄºÉÆPÁÌV
+¸ÉÃjPÉÆAqÀÄ, ¥Àæ¥ÀAZÀzÀ EvÀgÉqÉUÀ½VAvÀ ©ü£ÀßªÁzÀ ‘¨sÁgÀwÃAiÀÄvÉ’AiÉÄA§ÄzÀgÀ ¥ÁæzÀÄ¨sÁðªÀªÁ¬ÄvÀÄ. zÉÃªÀªÁtÂAiÉÄAzÀÄ ºÉ¸ÀgÁzÀ ¸ÀA¸ÀÌøvÀ,
+¸ÀÄ¸ÀA¸ÀÌøvÀgÁzÀ £ÁUÀjPÀgÀ KPÉÊPÀ ¸ÀAªÀºÀ£À ªÀiÁzsÀåªÀÄªÁVvÀÄÛ. EzÀgÀ°è ¥Àæ§ÄzÀÞgÁzÀ ¥Àæ¨sÁªÀ±Á° ªÀåQÛUÀ¼ÀÄ C¸ÀASÁåvÀ d£À¸ÁªÀ iÁ£ÀågÀ fÃªÀ£À
+jÃw, ¸ÀA¸ÀÌøw ªÀÄvÀÄÛ aAvÀ£ÉUÀ¼À ªÉÄÃ¯É ºÀvÉÆÃnAiÀÄ¤ßlÄÖPÉÆAqÀÄzÀÄ, vÀªÀÄUÉ ¨ÉÃPÁzÀAvÉ CzÀ£ÀÄß gÀÆ¦¹zÀÄzÀÄ ¥ÀªÁqÀ¸ÀzÀÈ±ÀªÁVzÉ. D
+d£À¸ÁªÀiÁ£ÀågÀ aAvÀ£ÉUÀ¼É®èzÀgÀ ªÉÄÃ¯É F ²µÀÖvÀ£ÀzÀ £ÉgÀ¼ÀÄ MAzÀÄ jÃwAiÀÄ°è DªÀj¹zÀgÀÆ, ¸ÁªÀiÁ£Àå d£ÀvÉAiÀÄ DZÁgÀ -«ZÁgÀUÀ¼ÀÄ ²µÀÖQÌAvÀ
+©ü£ÀßªÁV EzÀgÀ eÉÆvÉeÉÆvÉAiÀiÁVAiÉÄÃ EvÉÛA§ÄzÀÆ, CzÀÆ ಶಕ್ತಿ AiÀÄÄvÀªÁVAiÀÄÆ EvÉÛA§ÄzÀÄ ¤«ðªÁzÀ. ªÉÆzÀ®Ä vÀ¼ÀzÀ°è EzÀÝ EzÀÄ,
+PÁ¯ÁAvÀgÀzÀ°è ªÉÄÃ¯É vÀ¯ÉAiÉÄwÛ ¨É¼ÉzÀ ¥ÀjuÁªÀÄªÁV, ¥ÁæzÉÃ²PÀªÁV C£ÉÃPÀ ¨sÁµÁ ¥Àæ¨sÉÃzÀUÀ¼ÀÄ ¥Àæ§®ªÁV, CªÀÅUÀ¼À°è ¸ÀévÀAvÀæªÁV ¸Á»vÀå
+gÀZÀ£ÉAiÀiÁUÀ¯ÁgÀA¨sÀªÁ¬ÄvÀÄ. eÉÆvÉUÉ zsÁ«ÄðPÀ PÁæAwUÀ¼ÀÆ MzÀV, eÉÊ£À-¨ËzÀÞ ªÀÄÄAvÁzÀ eÁÕ¤UÀ¼ÀÄ d£À¸ÁªÀiÁ£ÀågÀ ¨sÁµÉAiÀÄ£ÉßÃ DAiÀÄÄÝPÉÆAqÀÄ
+CzÀgÀ°è PÀÈw gÀZÀ£É ªÀiÁqÀ®Ä DgÀA©ü¹zÀÄzÀgÀ ¥ÀjuÁªÀÄªÁV zÉÃ²ÃAiÀÄ ¸Á»vÀå ªÉÊ«zsÀåªÀÄAiÀÄªÁV, §ºÀÄªÀÄÄRವ್ಯV ¨É¼ÉAiÀÄ®Ä ¸ÁzsÀåªÁ¬ÄvÀÄ.
+DzÀgÉ PÁ®PÉÌ vÀPÀÌAvÉ ¨sÁgÀwÃAiÀÄ ¸ÁªÀiÁfPÀ ªÀåªÀ¸ÉÜAiÀÄ°èAiÀÄÆ PÀÆqÀ §zÀ¯ÁªÀuÉUÀ¼ÁUÀvÉÆqÀVzÀªÀÅ. «zÉÃ²Ã ¸ÀA¸ÀÌøwAiÀÄ DUÀªÀÄ£À ¨sÁgÀwÃAiÀÄvÀézÀ
+ªÉÄÃ¯É zÉÆqÀØ DWÁvÀªÀ£ÀÄßAlÄªÀiÁrvÀÄ. ¥sÀ®¸ÀégÀÆ¥ÀªÁV £ÁªÀÅ £ÀªÀÄä vÀ£ÀªÀ£ÉßÃ PÀ¼ÉzÀÄPÉÆAqÀÄ £ÁªÀÅ JvÀÛ ºÉÆÃUÀÄwÛzÉÝÃªÉ£ÀÄßªÀ ÅzÀÄ £ÀªÀÄUÉÃ
+CxÀðªÁUÀzÀ ¸ÀA¢UÀÞ ¹ÜwUÉ §AzÀÄ vÀ®Ä¦zÉªÀÅ. EvÀÛ zÉÃ²ÃAiÀÄ ¦æÃwAiÀÄ£ÀÆß ©qÀ¯ÁgÀzÉ, CvÀÛ «zÉÃ²Ã ªÉÆÃºÀ¢AzÀ®Æ ºÉÆgÀ§gÀ¯ÁgÀzÉ
+MzÁÝqÀÄwÛzÉÝÃªÉ.
+¥Àæ±ÉßUÀ¼ÀÄ :
+
+I.¨sÁgÀwÃAiÀÄvÉAiÀÄ ¥ÁæzÀÄ¨sÁðªÀ ºÉÃUÉ GAmÁ¬ÄvÀÄ?
+   A. ¨sÁgÀvÀzÀ ªÀÄÆ® ¤ªÁ¹UÀ¼ÉÆqÀ£É ¸À«Ää®£ÀUÉÆAqÀÄ
+    B. zsÁ«ÄðPÀ-¸ÁA¸ÀÌøwPÀ CAUÀUÀ¼À°è MAzÀgÉÆqÀ£ÉÆAzÀÄ ¸À«Ää®£ÀUÉÆAqÀÄ
+    C. ¨sÁgÀvÀzÀ Cw ¥ÁæaÃ£ÀvÉAiÀÄ PÁgÀt¢AzÁV
+    D. DAiÀÄð d£ÁAUÀ ¨sÁgÀvÀzÀ°è ªÉÆzÀ¯ÉÃ £É¯É¹zÀÝjAzÀ.
+
+II.¥ÁæaÃ£À PÁ®zÀ°è £ÁUÀjPÀgÉÆ¼ÀUÉ ¸ÀAªÀºÀ£À ªÀiÁzsÀåªÀÄ AiÀiÁªÀÅzÁVvÀÄÛ?
+     A. ¨sÁgÀwÃAiÀÄvÉ
+    B. ¸ÀA¸ÀÌøvÀ
+    C. ¸ÀÄ¸ÀA¸ÀÌøvÀvÉ
+    D. zsÁ«ÄðPÀvÉ-¸ÁA¸ÀÌøwPÀvÉ
+
+III. AiÀiÁªÀÅzÀ£ÀÄß ¥ÀªÁqÀ JAzÀÄ ¯ÉÃRPÀgÀÄ PÀgÉ¢zÁÝgÉ?
+   A. d£ÀgÀÄ ¸ÀA¸ÀÌøw ªÀÄvÀÄÛ aAvÀ£ÉUÀ¼À ªÉÄÃ¯É ºÀvÉÆÃnAiÀÄ¤ßlÄÖPÉÆAqÀÄzÀÄ
+    B. ¨sÁgÀwÃAiÀÄvÉAiÉÄA§ÄzÀgÀ ¥ÁæzÀÄ¨sÁðªÀ
+    C. ²µÀÖvÀ£ÀzÀ £ÉgÀ¼ÀÄ
+    D. ¸ÁªÀiÁ£Àå d£ÀvÉAiÀÄ DZÁgÀ-«ZÁgÀUÀ¼ÀÄ
+IV.¨sÁµÁ ¥Àæ¨sÉÃzÀUÀ¼ÀÄ ºÀÄlÖ®Ä K£ÀÄ PÁgÀt?
+     A. ¸ÀA¸ÀÌøw ªÀÄvÀÄÛ aAvÀ£É
+    B. zsÁ«ÄðPÀvÉ-¸ÁA¸ÀÌøwPÀvÉ
+    C. d£À¸ÁªÀiÁ£ÀågÀ aAvÀ£ÉUÀ¼ÀÄ
+    D. ¸ÁªÀiÁ£Àå d£ÀvÉAiÀÄ DZÁgÀ-«ZÁgÀUÀ¼ÀÄ
+```
+
+---
+
+## page 5
+
+```
+V.zÉÃ²ÃAiÀÄ ¸Á»vÀå ºÉÃUÉ ªÉÊ«zsÀåªÀÄAiÀÄªÁ¬ÄvÀÄ?
+    A. eÉÊ£À-¨ËzÀÞ eÁÕ¤UÀ¼ÀÄ d£À¸ÁªÀiÁ£ÀågÀ ¨sÁµÉAiÀÄ£ÉßÃ DAiÀÄÄÝPÉÆAqÀÄ CzÀgÀ°è PÀÈw gÀZÀ£É ªÀiÁqÀ®Ä DgÀA©ü¹zÀÝjAzÀ
+    B. ¨sÁµÁ ¥Àæ¨sÉÃzÀUÀ¼ÀÄ ¥Àæ§®ªÁVzÀÝjAzÀ
+    C. d£À¸ÁªÀiÁ£ÀågÀ fÃªÀ£À jÃw
+    D. ¥Àæ§ÄzÀÞgÁzÀ ¥Àæ¨sÁªÀ±Á° ªÀåQÛUÀ¼À PÁgÀt¢AzÁV.
+                                                            Section - B
+      C£Àé¬ÄPÀ ªÁåPÀgÀt (ಬಹು ಅಯ್ಕೆ ಯ ಪ್ರ ಶ್ನು ಗಳು,ಛಂದಸ್ಸು ,ಗಾದೆಮಾತ್ತ,ವಾಕಯ ಪ್ರಿವತ್ತನೆ) – 16 CAPÀUÀ¼ÀÄ
+
+¥Àæ±Éß 3. PÉ¼ÀUÉ ªÁåPÀgÀuÁA±ÀUÀ¼À §ºÀÄDAiÉÄÌAiÀÄ 10 ¥Àæ±ÉßUÀ½ªÉ. ಎಲ್ಲ ¥Àæ±ÉßUÀ½UÉ GvÀÛj¹j.                             1*10 = 10
+I.PÉ¼ÀV£À ¥ÀzÀದ ¸ÀA¢ü ºÉ¸Àj¹j *
+       ¸ÀÆAiÉÆðÃzÀAiÀÄ
+      A. ªÀÈ¢Þ ¸ÀA¢ü
+      B. ¸ÀªÀtð¢ÃWÀð ¸ÀA¢ü
+      C. UÀÄt ¸ÀA¢ü
+      D. DzÉÃ±À ¸ÀA¢ü
+II. PÉ¼ÀVನ ¥ÀzÀzÀ ¸ÀªÀiÁ¸À ºÉ¸Àj¹j *
+      ¥ÀzÀä£Á¨sÀ
+      A. QæAiÀiÁ ¸ÀªÀiÁ¸À
+      B. vÀvÀÄàgÀÄµÀ ¸ÀªÀiÁ¸À
+      C. zÀéAzÀé ¸ÀªÀiÁ¸À
+      D §ºÀÄ«æÃ» ¸ÀªÀiÁ¸À
+III. PÉ¼ÀV£À ¥ÀzÀzÀ UÁæAyPÀ gÀÆ¥À §gÉ¬Äj. *
+     ¤£ÁßöågÀ
+          A.¤£Àß AiÀiÁgÀ
+          B.¤£Àß£ÀÄß AiÀiÁgÀÆ
+          C.¤Ã£ÀÄ AiÀiÁgÀ
+          D.¤Ã£ÀÄ AiÀiÁjUÀÆ
+IV.PÉ¼ÀV£À ªÁPÀåªÀ£ÀÄß ¨sÀ«µÀåvï PÁ®PÉÌ ¥ÀjªÀwð¹. *
+    PÀÄªÀiÁgÀ£ÀÄ NlzÀ ¥ÀAzÀåzÀ°è NqÀÄwÛzÁÝ£É.
+    A. PÀÄªÀiÁgÀ£ÀÄ NlzÀ ¥ÀAzÀåzÀ°è NqÀ§ºÀÄzÀÄ.
+    B. PÀÄªÀiÁgÀ£ÀÄ NlzÀ ¥ÀAzÀåzÀ°è NqÀÄªÀ£ÀÄ.
+    C. PÀÄªÀiÁgÀ£ÀÄ NlzÀ ¥ÀAzÀåzÀ°è NqÀÄªÀ£ÉÃ£ÉÆ.
+    D. PÀÄªÀiÁgÀ£ÀÄ NlzÀ ¥ÀAzÀåzÀ°è NrzÀ£ÀÄ.
+V.PÉ¼ÀV£À ªÁPÀåzÀ°ègÀÄªÀ QæAiÀiÁ¥ÀzÀzÀ zsÁvÀÄªÀ£ÀÄß w½¹. *
+    £ÀªÀÄä zÉÃºÀªÀ£ÀÄß »r¢qÀ§ºÀÄzÁzÀgÀÆ ªÀÄ£À¸Àì£ÀÄß PÀnÖºÁPÀ¯ÁUÀÄªÀÅ¢®è.
+          A. zÉÃºÀ, ªÀÄ£À¸ÀÄì
+          B. £ÀªÀÄä, ªÀÄ£À¸ÀÄì
+          C. zÉÃºÀ, »r
+          D. »r, PÀlÄÖ.
+VI. PÉ¼ÀV£À ¥ÀzÀ ©r¹ §gÉ¬Äj. *
+    DjUÀÄ¸ÀÄgÀÄªÉ£ÁgÀ
+          A.DjUÉ+¸ÀÄgÀÄªÉ£ÁgÀ
+          B.DjUÉ+G¸ÀÄgÀÄªÉ£ÀÄ+DgÀ
+          C.G¸ÀÄgÀÄªÉ£ÀÄ+DjUÉ
+          D.Dgï+DjUÉ+G¸ÀÄgÀÄªÉ£ï.
+VII. PÉ¼ÀV£À ¥ÀzÀzÀ «¨sÀQÛ ¥ÀævÀåAiÀÄ ºÉ¸Àj¹.   *
+  gÁªÀÄ£ÉÆ¼ï
+          A.¥ÀæxÀªÀiÁ «¨sÀQÛ ¥ÀævÀåAiÀÄ
+          B.¥ÀAZÀ«Ä «¨sÀQÛ ¥ÀævÀåAiÀÄ
+          C.µÀ¶×Ã «¨sÀQÛ ¥ÀævÀåAiÀÄ
+          C.¸À¥ÀÛ«ÄÃ «¨sÀQÛ ¥ÀævÀåAiÀÄ
+```
+
+---
+
+## page 6
+
+```
+VIII. PÉ¼ÀV£À ¥ÀzÀzÀ vÀvÀìªÀÄ vÀzÀãªÀ gÀÆ¥À §gÉ¬Äj.          *
+    AiÉÆÃV
+     A.¨sÉÆÃV
+     B.¨ÉÊgÁV
+     C.eÉÆÃV
+     D.¸ÁV.
+IX.PÉ¼ÀV£À ¥ÀzÀzÀ ¸ÀªÀiÁ£ÁxÀðPÀ ¥ÀzÀUÀ¼À£ÀÄß §gÉ¬Äj.     *
+    ¸À°®
+     A.¸Á®, dn®
+     B.¤ÃgÀÄ, d®
+     C.GzÀPÀ, ¥Á£ÀPÀ
+     D.PÀªÀÄ®, C¤®.
+X PÉ¼ÀV£À ¥ÀzÀzÀ C£ÉÃPÁxÀðUÀ¼À£ÀÄß §gÉ¬Äj. *
+     §UÉ
+         A.PÀæªÀÄ, jÃw
+         B.AiÉÆÃZÀ£É, AiÉÆÃd£É
+         C.zÉÆæÃºÀ, ¨ÉÃgÉ¨ÉÃgÉ
+         D.jÃw, ªÀÄ£À¸ÀÄì.
+4. ಕೆಳಗಿನ ಪ್ರ ಶ್ನು ಗಳಿಗೆ ಕೆಳಗೆ ಕೊಟ್ಟಿ ರುವ ಸೂಚನೆಯಂತೆ ಉತ್ು ರಿಸಿ
+I. ಕೆಳಗಿನ ಪ್ದಯ ಭಾಗಕೆೆ ಪ್ರ ಸ್ತು ರ ಹಾಕಿ,ಗಣವಿಂಡಿಸಿ ಛಂದಸು ನ್ನು ಹೆಸರಿಸಿ.                        *                 2
+
+     PÀzÀrzÀ ¸À°®A w½ªÀA
+     zÀzÉ vÀ¤ßA vÁ£É w½zÀ zÀ±ÀªÀzÀ£ÀAUÁ
+
+II. ಕೆಳಗಿನ ಯಾವುದಾದರೂ ಒಂದು ಗಾದೆಮಾತ್ನ್ನು ವಿಸು ರಿಸಿ ಬರೆಯಿರಿ.                             *                      2
+    1. ClÖPÉÌ £ÉUÉzÀÄ DUÀ¸ÀPÉ £ÉUÉ.
+    2.   ಗಿಡವ್ಯಗಿ ಬಗಗ ದ್ದು ಮರವ್ಯಗಿ ಬಗಿಗ ೀತೇ?
+
+III. PÉ¼ÀV£À ªÁPÀåªÀ£ÀÄß PÀªÀÄðtÂ ªÁPÀåªÀ£ÁßV §zÀ°¹j.     *                                                  1
+      gÁªÀÄ£ÀÄ ºÀtÚ£ÀÄß wAzÀ£ÀÄ
+IV. PÉ¼ÀV£À ªÁPÀåªÀ£ÀÄß ¥Àæ±ÁßxÀðPÀ ªÁPÀåªÀ£ÁßV ¥ÀjªÀwð¹.   *                                                1
+     gÁªÀÄ£ÀÄ ¥ÉÃmÉUÉ ºÉÆÃzÀ£ÀÄ.
+                                                Section - C
+                              ªÁZÀ£À ªÀÄvÀÄÛ UÀæ»PÁ PË±À® : ಪ್ರಿಚಿತ್ ಪ್ದಯ ,ಗದಯ , ದೀರ್ತಗದಯ : 14 ಅಂಕಗಳು
+¥Àæ±Éß 5. PÉ¼ÀV£À ¥ÀzÀå¨sÁUÀ N¢PÉÆAqÀÄ CzÀgÀ PÉ¼ÀUÉ PÉÆnÖgÀÄªÀ §ºÀÄDAiÉÄÌAiÀÄ ¥Àæ±ÉßUÀ½UÉ GvÀÛj¹j.   1x5=5
+        zÀ£ÀUÀ½UÉ ªÉÄÃ«®è
+        d£ÀUÀ½UÉ ¤Ãj®è
+        UÀAfUÀÆ UÀw¬Ä®è,
+        £À£ÀßªÀgÀÄ
+        ¸ÀvÀÛ zÀ£ÀUÀ¼À QvÀÄÛ w£ÀÄßªÀÅzÀ£ÀÄß
+        PÀuÁÚgÉ PÁtÄvÀÛ
+        PÀvÀPÀvÀ£É PÀÄ¢ªÀ CVß ¥ÀªÀðvÀªÁVzÉÝÃ£É.
+                        K£ÀÆ ªÀiÁqÀ¯ÁUÀzÉ
+                        CªÀgÀ ¹Üw £ÉÆÃqÀ¯ÁUÀzÉ
+                        CªÀjUÁV
+                        ªÀÄÄV®vÀÛ PÉÊZÁa ¤AwzÉÝÃ£É,
+                        zsÀUÀzsÀV¹ GjªÀ eÁé¯ÁªÀÄÄTAiÀiÁVzÉÝÃ£É.
+             £À£ÀßªÀjUÁV
+             £Á£ÉAzÀÆ £ÀA©gÀzÀ zÉÃªÀgÀ°è ªÉÆgÉ¬ÄqÀÄvÉÛÃ£É,
+             PÀAqÉÃ EgÀzÀ zÉÊªÀzÀ ¸ÀºÁAiÀÄ ¨ÉÃqÀÄvÉÛÃ£É.
+             AiÀiÁgÀÆ £À£ÀßªÀgÀ PÉÊ »rAiÀÄzÁzÁUÀ
+             £À£Àß PÀA§¤AiÀÄ ¯ÁªÁgÀ¸ÀzÀ°è
+             «±ÀéªÀ£ÉßÃ ªÀÄÄ¼ÀÄV¹©qÀÄªÀ
+             bÀ® ªÀÄÆqÀÄvÀÛzÉ.
+             ¨ÉAQ £Á®UÉ ZÁa £À£ÀßªÀgÀ zÁjzÀæöåªÀ£ÉßÃ
+             D¥ÉÆÃ±À£À ªÀiÁqÀÄvÉÛÃ£É.
+             CªÀgÀ ¢Ã£À
+```
+
+---
+
+## page 7
+
+```
+                zÀ°vÀvÀ£ÀPÉÌ ¢üPÁÌgÀ«gÀ°!
+                CªÀgÀ £ÉÆÃªÀ£ÉßÃ
+                ¸ÀªÀð£Á±À ªÀiÁqÀÄvÉÛÃ£É.
+                          DPÁ±ÀzÀ°è
+                          PÁªÉÆðÃqÀ PÀ«¸ÀÄªÀ £ÀUÀÄ
+                          ªÀÄ¼É ¸ÀÄj¸ÀÄªÀ £ÀUÀÄ
+                          ºÉÆ¼É ¸ÀÄj¸ÀÄªÀ £ÀUÀÄ
+                          ¨É¼É ¨É¼É¸ÀÄªÀ £ÀUÀÄ
+                          zÀ£À, d£À J®è PÀÆr
+                          £ÀUÀÄvÉÛÃªÉ
+                          MªÉÄä £ÀPÉÌÃ £ÀUÀÄvÉÛÃªÉ.
+
+¥Àæ±ÉßUÀ¼ÀÄ :
+
+I. PÀªÀ¬Äwæ K£À£ÀÄß PÁtÄwÛzÁÝgÉ?
+A. zÀ£ÀUÀ½UÉ ªÉÄÃ«®è
+B. d£ÀUÀ½UÉ ¤Ãj®è
+C. UÀAfUÀÆ UÀw¬Ä®è,
+D. ¸ÀvÀÛ zÀ£ÀUÀ¼À QvÀÄÛ w£ÀÄßªÀÅದ್ನ್ನು .
+
+II. d£À, zÀ£ÀUÀ½UÉ K¤®è?
+A. d£ÀUÀ½UÉ ¤Ãj®è
+B. zÀ£ÀUÀ½UÉ ªÉÄÃ«®è
+C. UÀAfUÀÆ UÀw¬Ä®è,
+D. d£À, zÀ£ÀUÀ½UÉ ¤ÃgÀÄ, ªÉÄÃ«®è.
+
+III. PÀªÀ¬Äwæ ªÀÄÄV®vÀÛ PÉÊZÁazÉÝÃPÉ?
+A. K£ÀÆ ªÀiÁqÀ¯ÁUÀzÉ
+B. CªÀgÀ ¹Üw £ÉÆÃqÀ¯ÁUÀzÉ
+C. CªÀgÀ ¹Üw £ÉÆÃqÀ¯ÁUÀzÉ, K£ÀÆ ªÀiÁqÀ¯ÁUÀzÉ
+D. ºÉÃUÁzÀgÀÆ ªÀÄ¼É §AzÀgÉ ¸ÁPÉAzÀÄ.
+
+IV. PÀªÀ¬ÄwæAiÀÄ°è JAvÀºÀ bÀ® ªÀÄÆqÀÄvÀÛzÉ?
+A. zÉÊªÀzÀ ¸ÀºÁAiÀÄ ¨ÉÃqÀÄªÀ
+B. CªÀgÀ ¢Ã£À, zÀ°vÀvÀ£ÀPÉÌ ¢üPÁÌgÀ ºÁPÀÄªÀ
+C. vÀªÀÄä PÀA§¤AiÀÄ ¯ÁªÁgÀ¸ÀzÀ°è «±ÀéªÀ£ÉßÃ ªÀÄÄ¼ÀÄV¹ ©qÀÄªÀ
+D CªÀgÀ £ÉÆÃªÀ£ÉßÃ ¸ÀªÀð£Á±À ªÀiÁr©qÀÄªÀ.
+
+V. ¸ÀvÀÛ zÀ£ÀUÀ¼À QvÀÄÛ w£ÀÄßªÀÅzÀ£ÀÄß PÀuÁÚgÉ ಕಾಣುತಿ ಲೇಖಕ್ತ _________ ¥ÀªÀðvÀªÁVzÉÝÃ£É ಎಂದರುವರು
+A. ಹಿಮ
+B. ಅಗಿು
+C. ಬಂಕ್ತ
+D. ಹಸಿರು
+
+¥Àæ±Éß 6. PÉ¼ÀV£À UÀzÀå¨sÁUÀ N¢PÉÆAqÀÄ CzÀgÀ PÉ¼ÀUÉ PÉÆnÖgÀÄªÀ §ºÀÄDAiÉÄÌAiÀÄ ¥Àæ±ÉßUÀ½UÉ GvÀÛj¹j.                   1x5=5
+Fa£À ªÀµÀðUÀ¼À°è PÀ£ÀßrUÀgÀÄ vÀªÀÄä gÁdåzÀ°è vÁªÉÃ vÀ§â°UÀ¼ÁUÀÄwÛgÀÄªÀÅzÀ£ÀÄß C£ÀÄ¨sÀªÀPÉÌ vÉUÉzÀÄPÉÆArzÁÝgÉ. GzÉÆåÃUÀzÀ ¸Àª ÀÄ¸Éå
+wÃªÀævÀgÀªÁVzÉ. gÁdåzÀ°è ¸ÁÜ¦vÀªÁUÀÄªÀ PÉÃAzÀæ GzÀåªÀÄUÀ¼À°è PÀ£ÀßrUÀjUÉ zÉÆgÉAiÀÄ¨ÉÃPÁzÀ ¥Á®Ä zÉÆgÉAiÀÄÄªÀÅ¢®è. MAzÀÄ ºÀAvÀzÀªÀgÉV£À
+£ÉÃªÀÄPÁwAiÀÄ°è ¸ÀÜ½ÃAiÀÄgÀ£ÉßÃ ¥ÀjUÀtÂ¸À¨ÉÃPÁzÀ CUÀvÀå«zÀÝgÀÆ E°è ºÁUÁUÀÄwÛ®è. D ¥ÀæzÉÃ±ÀzÀ d£ÀjUÉÃ GzÉÆåÃUÁªÀPÁ±ÀUÀ¼ÀÄ zÉÆgÉAiÀÄ¢zÀÝgÉ
+C°è GzÉÆåÃUÀUÀ¼ÀÄ DgÀA¨sÀUÉÆ¼ÀÄîªÀ GzÉÝÃ±ÀªÉÃ£ÀÄ? G¥ÀAiÉÆÃUÀªÉÃ£ÀÄ? gÁdå ¸ÀPÁðgÀzÀ £ËPÀjUÀ¼À£ÀÄß ªÀÄvÀÄÛ gÁdå ¸ÀPÁðgÀzÀ GzÀåªÀÄUÀ¼À£ÀÄß
+£ÉgÉºÉÆgÉAiÀÄªÀgÀÄ DPÀæ«Ä¹PÉÆAqÀÄ ©qÀÄvÁÛgÉ. C°èAiÀÄÆ PÀ£ÀßrUÀjUÉ CªÀPÁ±ÀUÀ½®è. EzÀjAzÀ PÀ£ÀßrUÀgÀÄ GzÉÆåÃUÀzÀ «µÀAiÀÄzÀ°è
+©üÃwUÉÆArgÀÄªÀÅzÀÄ ¸ÀºÀd. PÀ£ÀßrUÀgÀ DvÀäºÀvÁåPÁjAiÀiÁzÀ OzÁgÀå zsÉÆÃgÀuÉ¬ÄAzÀ FUÁUÀ¯ÉÃ ¨ÉAUÀ¼ÀÆgÀÆ ¸ÉÃjzÀAvÉ PÀ£ÁðlPÀzÀ C£ÉÃPÀ PÀqÉ
+PÀ£ÀßrUÀgÀÄ C®à¸ÀASÁåvÀgÁUÀÄwÛzÁÝgÉ. ¨sÁµÁ C®à¸ÀASÁåvÀgÀ ºÉ¸Àj£À°è EwÛÃZÉUÉ ¨ÉAUÀ¼ÀÆgÀÄ PÉÃAzÁæqÀ½vÀ £ÀUÀgÀªÁUÀ¨ÉÃPÉA§ C¥À¸Àé gÀªÀ£ÀÆß
+PÉÃ½zÉÝÃªÉ. PÀ£ÀßrUÀgÀÄ PÀ£ÀßqÀ £Ár£À°èAiÉÄÃ vÀ§â°UÀ¼ÁzÀgÉ CªÀjUÉ D±ÀæAiÀÄªÉ°èzÉ? PÀ£ÀßrUÀgÀ ¸ÀAPÀµÀÖUÀ½UÀÆ MAzÀÄ «Äw¬ÄzÉ. CªÀgÀ vÁ¼ÉäUÉ vÀ¥ÀÄà
+CxÀð ºÀZÀÑ¨ÁgÀzÀÄ. §zÀÄPÀÄ ¨sÁµÉVAvÀ zÉÆqÀØzÀÄ JAzÀÄ ºÉÃ½zÁÝgÉ. DzÀgÉ ¨sÁµÉAiÀÄ£ÀÄß ©lÄÖ §zÀÄPÀÄ EgÀÄªÀÅ¢®è JA§ÄzÀ£ÀÄß £ÁªÀÅ
+ªÀÄgÉAiÀÄ¨ÁgÀzÀÄ.
+```
+
+---
+
+## page 8
+
+```
+¥Àæ±ÉßUÀ¼ÀÄ :
+I.§zÀÄPÀÄ AiÀiÁªÀÅzÀ£ÀÄß ©lÄÖ EgÀÄªÀÅ¢®è?
+       A. ¸ÀAPÀµÀÖUÀ¼À£ÀÄß
+       B. £ÀªÀÄä £ÁqÀ£ÀÄß
+       C. ¨sÁµÉAiÀÄ£ÀÄß
+       D. §zÀÄPÀÄªÀªÀgÀ£ÀÄß
+
+II.£ÁªÀÅ AiÀiÁªÀ C¥À¸ÀégÀªÀ£ÀÄß PÉÃ½zÉÝÃªÉ? *
+     A. ¸ÀAPÀµÀÖUÀ½UÀÆ MAzÀÄ «Äw¬ÄzÉ
+     B. PÀ£ÀßrUÀjUÉ GzÉÆåÃUÁªÀPÁ±ÀUÀ¼ÀÄ zÉÆgÉAiÀÄÄwÛ®è
+     C. ¨ÉAUÀ¼ÀÆgÀÄ PÉÃAzÁæqÀ½vÀ £ÀUÀgÀªÁUÀ¨ÉÃPÀÄ
+     D vÁ¼ÉäUÉ vÀ¥ÀÄà CxÀð ºÀZÀÑ¨ÁgÀzÀÄ
+
+III.£ÉgÉºÉÆgÉAiÀÄªÀgÀÄ K£À£ÀÄß DPÀæ«Ä¹PÉÆAqÀÄ ©qÀÄvÁÛgÉ?
+      A. PÀ£ÀßqÀ £ÁqÀ£ÀÄß
+      B. gÁdå ¸ÀPÁðgÀzÀ £ËPÀjUÀ¼À£ÀÄß ªÀÄvÀÄÛ gÁdå ¸ÀPÁðgÀzÀ GzÀåªÀÄUÀ¼À£ÀÄß
+      C. ¥ÀgÀgÀÄ £ÀªÀÄä ¨sÁµÉAiÀÄ£ÀÄß
+      D. PÀ£ÀßrUÀjUÉ zÉÆgÉAiÀÄ¨ÉÃPÁzÀ ¥Á®Ä
+
+IV.PÀ£ÀßrUÀjUÉ DUÀÄwÛgÀÄªÀ C£ÁåAiÀÄªÉÃ£ÀÄ?        *
+     A. PÀ£ÀßqÀ £Ár£À°è PÀ£ÀßrUÀjUÉÃ GzÉÆåÃUÀ ¹UÀÄwÛ®è
+     B. gÁdåzÀ°è ¸ÁÜ¦vÀªÁUÀÄªÀ PÉÃAzÀæ GzÀåªÀÄUÀ¼À°è PÀ£ÀßrUÀjUÉ zÉÆgÉAiÀÄ¨ÉÃPÁzÀ ¥Á®Ä zÉÆgÉAiÀÄÄªÀÅ¢®è.
+     C. £ÀªÀÄä £É®, GzÀåªÀÄUÀ¼À£ÀÄß £ÉgÉºÉÆgÉAiÀÄªÀgÀÄ DPÀæ«Ä¹PÉÆ¼ÀÄîwÛgÀÄªÀÅzÀÄ
+     D. GzÉÆåÃUÁªÀPÁ±ÀUÀ¼ÀÄ zÉÆgÉAiÀÄÄwÛ®è
+
+V.PÀ£ÀßrUÀgÀÄ C®à¸ÀASÁåvÀgÁUÀ®Ä PÁgÀtªÉÃ£ÀÄ?
+     A. PÀ£ÀßrUÀgÀ ¸ÀASÉå PÀrªÉÄAiÀiÁUÀÄwÛzÉ
+     B. ¥ÀgÀ¨sÁ¶PÀgÀÄ ºÉZÁÑUÀÄwÛzÁÝgÉ
+     C. PÀ£ÀßrUÀgÀ OzÁgÀå zsÉÆÃgÀuÉ
+     D. PÀ£ÀßrUÀgÀ GzÁ¹Ã£À zsÉÆÃgÀuÉ.
+
+¥Àæ±Éß 7. PÉ¼ÀV£À UÀzÀå¨sÁUÀ N¢PÉÆAqÀÄ CzÀgÀ PÉ¼ÀUÉ PÉÆnÖgÀÄªÀ §ºÀÄDAiÉÄÌAiÀÄ ¥Àæ±ÉßUÀ½UÉ GvÀÛj¹j.                       1x4=4
+             ºÀ¼ÉPÉÆ¥ÀàzÀ ¸ÀÄ§âtÚ£À ªÀÄ£ÉAiÀÄ »wÛ®°è MAzÀÄ «avÀæ «zÀåªÀiÁ£À dgÀÄVvÀÄ. ªÀÄÆrUÉgÉUÀÆ CzÀgÀ »£Éß¯ÉAiÀÄ°ègÀÄªÀ ªÀÄ£ÁßdAVèUÀÆ
+       £ÀqÀÄªÉ ºÀ¼ÉPÉÆ¥Àà §gÀÄvÀÛzÉ. vÉÆÃlzÀ ªÀÄ£ÉAiÀÄ°è ªÀÄ®VzÀÝ ¸ÀÄ§âtÚ¤UÉ ªÀÄ£ÉAiÀÄ »vÀÛ®°è EzÀÝQÌzÀÝAvÉ C£ÉÃPÀ £Á¬ÄUÀ¼ÀÄ ¨ÉÆUÀ¼ÀÄªÀÅzÀÄ
+       PÉÃ½¹vÀÄ. EµÉÆÖAzÀÄ £Á¬ÄUÀ¼ÀÄ J°èAzÀ vÀ£Àß ªÀÄ£ÉAiÀÄ »vÀÛ°UÉ §AzÀªÀÅ JAzÀÄ CZÀÑj¥ÀqÀÄvÀÛ K£ÀÄ UÀ¯ÁmÉ £ÉÆÃqÀ®Ä ¸ÀÄ§âtÚ ¯ÁnÃ£ÀÄ
+       »rzÀÄ ºÉÆgÀ§AzÀ. PÉÆnÖUÉ §½ UÀ®¨sÉ ªÀiÁqÀÄwÛzÀÝ £Á¬ÄUÀ¼À£ÀÄß Nr¸À®Ä ºÀZÁ JAzÀÄ PÀÆUÀÄvÀÛ ¸ÀÄ§âtÚ CvÀÛ ¸ÁUÀÄvÀÛ®Æ PÉÆnÖUÉ
+       PÀA§UÀ¼ÀÄ ®l®l ªÀÄÄjzÀzÀÆÝ JAxÀzÉÆÃ PÀvÀÛ®°è zsÀqÀzsÀqÀ £ÀqÉzÀ ¸ÀzÀÆÝ CzÀgÀ »AzÉAiÉÄÃ £Á¬ÄUÀ¼À zÀAqÀÄ ¨ÉÆUÀ½PÉÆAqÀÄ NrzÀÆÝ
+       PÉÃ½¹vÀÄ. UÁ§j¬ÄAzÀ £ÉÆÃqÀÄwÛzÀÝ ¸ÀÄ§âtÚ£À PÀuÉÚzÀÄgÉÃ ErÃ PÉÆnÖUÉAiÀÄ ªÀiÁqÀÄ zÉÆ¥Àà£É PÀÄ¹zÀÄ ©vÀÄÛ. PÉÆnÖUÉAiÉÆ¼ÀVzÀÝ ºÀ®ªÁgÀÄ
+       ªÉÄÃPÉUÀ¼ÀÄ CgÀZÀ®Ä ±ÀÄgÀÄªÀiÁrzÀªÀÅ. CPÀÌ¥ÀPÀÌzÀ ªÀÄ£ÉAiÀÄªÀgÀÆ D¼ÀÄUÀ¼ÀÆ ¸ÉÃj PÀÄ¹zÀÄ ©¢ÝzÀÝ ªÉÄÃPÉUÀ¼À£ÀÄß ºÉÆgÀvÉUÉAiÀÄÄªÀÅzÀgÉÆ¼ÀUÉ PÉ®ªÀÅ
+       ¸ÀvÉÛÃºÉÆÃzÀªÀÅ.
+             PÉÆnÖUÉAiÀÄ£ÉßÃ GgÀÄ½¹ Nr ºÉÆÃUÀ¨ÉÃPÁzÀgÉ EzÀÄ D£ÉAiÀÄAxÀ ¥ÁætÂUÉ ªÀiÁvÀæ ¸ÁzsÀå JAzÀÄ H»¹zÀ CªÀgÀÄ ªÉÄÃPÉAiÀÄ ªÉÄÃªÀ£ÀÄß
+       PÀ¢ÝgÀ¨ÉÃPÁzÀgÉ EzÀÄ PÀÈµÉÚÃUËqÀgÀ D£ÉAiÉÄÃ ¸Àj JAzÀÄ ¤zsÀðj¹ ¸ÀvÀÛ ªÉÄÃPÉUÀ¼À£ÀÄß JzÀÄjVlÄÖPÉÆAqÀÄ PÀÈµÉÚÃUËqÀgÀ D£ÉUÉ §UÉ§UÉAiÀiÁV
+       ¤A¢¸ÀvÉÆqÀVzÀgÀÄ. “E£ÉÆßAzÀÄ ¸Áj CzÀÄ EvÀÛ¯ÁV ªÀÄÄR ºÁPÀ°, CzÀ£ÀÄß PÉÆÃ«Ã¯É ºÉÆrÃwÃ¤” JAzÀÄ ¸ÀÄ§âtÚ C°è C£ÀÄPÀA¥À
+       ¸ÀÆa¸ÀÄvÀÛ ¤AwzÀÝ CPÀÌ¥ÀPÀÌzÀ ªÀÄ£ÉAiÀÄ ¥ÉæÃPÀëPÀgÉzÀÄgÀÄ PÀÆUÁrzÀ.
+
+    ¥Àæ±ÉßUÀ¼ÀÄ :
+    I.«avÀæ «zÀåªÀiÁ£ÀUÀ¼ÀÄ J°è £ÀqÉzÀªÀÅ?
+           A. ºÀ¼ÉPÉÆ¥ÀàzÀ°è
+           B. ¸ÀÄ§âtÚ£À ªÀÄ£ÉAiÀÄ°è
+           C. ¸ÀÄ§âtÚ£À ªÀÄ£ÉAiÀÄ »wÛ®°è
+           D. PÉÆnÖUÉAiÀÄ°è
+```
+
+---
+
+## page 9
+
+```
+     II.PÉÆnÖUÉAiÀÄ£ÀÄß ©Ã½¹zÀÄÝ AiÀiÁgÀÄ?
+           A. £Á¬ÄUÀ¼ÀÄ
+          B. ªÉÄÃPÉUÀ¼ÀÄ
+          C. d£ÀgÀÄ
+          D. PÀÈµÉÚÃUËqÀgÀ D£É
+     III.«avÀæ «zÀåªÀiÁ£À AiÀiÁªÀÅzÀÄ?
+          A. £Á¬ÄUÀ¼ÀÄ ¨ÉÆUÀ¼ÀÄªÀÅzÀÄ
+          B. PÉÆnÖUÉAiÀÄ ªÀiÁqÀÄ PÀÄ¹zÀÄ ©¢ÝzÀÄÝ
+          C. ªÉÄÃPÉUÀ¼ÀÄ CgÀazÀÄÝ
+          D. PÉ® ªÉÄÃPÉUÀ¼ÀÄ ¸ÀwÛzÀÄÝ
+     IV.ªÉÄÃPÉUÀ¼ÀÄ KPÉ CgÀZÀ®Ä ±ÀÄgÀÄªÀiÁrzÀªÀÅ?
+          A. £Á¬ÄUÀ¼ÀÄ ¨ÉÆUÀ½zÀÝjAzÀ
+          B. ¸ÀÄ§âtÚ §A¢zÀÝjAzÀ
+          C. D£É §A¢zÀÝjAzÀ
+          D. PÉÆnÖUÉAiÀÄ ªÀiÁqÀÄ PÀÄ¹zÀÄ ©¢ÝzÀÝjAzÀ
+
+                                                     PART B                Section D
+                ಪ್ಠ್ಯ ಗಳ ಅಧ್ಯ ಯನ,ಕವಿ ಪ್ರಿಚಯ ಮತ್ತು ಸೃಜನಾತ್ಮ ಕ ಬರವಣಿಗೆ : 40 ಅಂಕಗಳು
+¥Àæ±Éß 8. PÉ¼ÀV£ÀªÀÅUÀ½UÉ JgÀqÀÄ-ªÀÄÆgÀÄ ªÁPÀåUÀ¼À°è GvÀÛj¹j.                                                 2 x 3 = 06
+       I. ಮುದ್ು ಣನನ್ನು ಮನೀರಮೆ ಹೇಗೆ ಉಪಚರಿಸಿದ್ಳು?
+       II. zÀÄdð£ÀgÀ PÁAiÀÄð AiÀiÁªÀ §UÉAiÀÄzÀÄ? *
+       III. ªÀÄoÀzÀªÀjUÉ D£ÉVAvÀ ªÉÃ¯ÁAiÀÄÄzsÀ£À£ÀÄß ¸ÁPÀ®Ä vÁæ¸ÁzÀÄzÉÃPÉ?
+¥Àæ±Éß 9. PÉ¼ÀV£À ¥Àæ±ÉßUÀ½UÉ ¸ÀAzÀ¨sÀð ¸ÀÆa¹, ¸ÁégÀ¸Àå §gÉ¬Äj.                                               3 x 3 = 09
+       I. ‘CzÀÈµÀÖªÀ£ÉßÃ’ CªÀ®A©¹ §zÀÄPÀ®Ä ¸ÁzsÀåªÉÃ? *
+       II.. ªÀÄPÀðl£À PÉÊAiÀÄ°è ªÀiÁtÂPÀå«zÀÄÝ ¥sÀ®ªÉÃ£ÀÄ?
+                          CxÀªÁ
+             “ªÀiÁvÉÃ ªÀÄgÉvÀÄºÉÆÃVzÉ PÀuÉ”.
+       III.“ಕಲಿ ಭೀಮನೇ ಮಿಡುಕುಳ್ಳ ಗಂಡನ್ನ”
+¥Àæ±Éß 10. PÉ¼ÀV£À PÀ«/¯ÉÃRPÀgÀ°è AiÀiÁgÁzÀgÀÆ M§âgÀ §UÉÎ DgÉÃ¼ÀÄ ªÁPÀåUÀ¼À°è §gÉ¬Äj.                          3 x 1 = 03
+              1. ¥ÀÄ°UÉgÉ ¸ÉÆÃªÀÄ£ÁxÀ        2. ªÀÄÄzÀÝt      3. qÁ. ºÁ.ªÀiÁ. £ÁAiÀÄPÀ.
+¥Àæ±Éß 11. PÉ¼ÀV£À ¥Àæ±ÉßUÀ½UÉ JAlÄ-ºÀvÀÄÛ ªÁPÀåUÀ¼À°è GvÀÛj¹j.                                               4 x 3 = 12
+           I. ¨É½î¯ÉÆÃl PÀAqÁUÀ zsÀtÂAiÀÄ°è DvÀAPÀ, UÁ§j, ¨sÀAiÀÄ GAmÁUÀ®Ä PÁgÀtªÉÃ£ÀÄ?
+                       CxÀªÁ
+               PÀ¯ÁA CªÀgÀÄ AiÀiÁªÁUÀ®Æ ¸ÁzsÀåvÉUÀ¼À£ÀÄß CgÀ¸ÀÄªÀ D±ÁfÃ«. ºÉÃUÉ? «ªÀj¹j.
+           II. AiÀiÁªÀ-AiÀiÁªÀ ¸ÀAUÀwUÀ¼À£ÀÄß G¥ÉÃQë¸À¨ÁgÀzÁV ¸ÉÆÃªÀÄ£ÁxÀ£ÀÄ w½¹zÁÝ£É? *
+                       CxÀªÁ
+               ²®Ä¨ÉUÉÃjzÀ fÃ¸À¸ï£À zÉÃºÀ K£À£ÀÄß ºÉÃ¼ÀÄªÀAwzÉ? «ªÀj¹.
+           III. ¤gÀÆ¥ÀPÀgÀÄ PÉÆqÀ° ªÀ¸ÀÆ° ªÀiÁqÀ®Ä ºÉÆÃUÀ°®èªÉÃPÉ? «ªÀj¹.
+                      CxÀªÁ
+               PÀÈµÉÚÃUËqÀgÀ D£É ºÀÄnÖ ¨É¼ÉzÀ §UÉAiÀÄ£ÀÄß «ªÀj¹. CzÀÄ ¥ÉÃmÉAiÀÄ°è K£ÀÄ ªÀiÁqÀÄwÛvÀÄÛ?
+
+¥Àæ±Éß 12. PÉ¼ÀV£ÀªÀÅUÀ¼À°è AiÀiÁªÀÅzÁzÀgÀÆ MAzÀÄ «µÀAiÀÄzÀ §UÉÎ 150-200 ¥ÀzÀUÀ½UÉ «ÄÃgÀzÀAvÉ ¥Àæ§AzsÀ §gÉ¬Äj.  5 x 1=5
+         I. vÁådå ªÀ¸ÀÄÛUÀ¼À ¥ÀÄ£À§ð¼ÀPÉ
+         II. PÉÆgÉÆ£Á vÀqÉUÀlÄÖªÀ°è AiÀÄÄªÀd£ÀvÉAiÀÄ ¥ÁvÀæ
+         III. gÁ¶ÖçÃAiÀÄ ¨sÁªÉÊPÀåvÉ.
+¥Àæ±Éß 13. ನಿಮಮ ವಿದಾಯ ಲ್ಯದಲ್ಲ ರಸ್ತು ಸ್ಸರಕ್ಷತಾ ಸಪ್ತು ಹದ ಅಂಗವಾಗಿ ಆಚರಿಸಿದ ಕಾಯತಕರ ಮದ ಬಗೆೆ ವಿವರಿಸ್ಸತಾು
+        ಪ್ತ್ರ ಕಾ ಸಂಪ್ತದಕರಿಗೆ ¥ÀvÀæ §gÉ¬Äj                                                                      5 x 1=5
+                            CxÀªÁ
+           ¤ªÀÄä HjUÉ ¸ÀªÀÄ¥ÀðPÀªÁV ವಿದುಯ ತ್ ಪೂgÉÊ¸À®Ä PÉÆÃj ¸ÀA§A¢ü¹zÀ E¯ÁSÁ ªÀÄÄRå¸ÀÜjUÉ ¥ÀvÀæªÉÇAzÀ£ÀÄß §gÉ¬Äj. *
+```

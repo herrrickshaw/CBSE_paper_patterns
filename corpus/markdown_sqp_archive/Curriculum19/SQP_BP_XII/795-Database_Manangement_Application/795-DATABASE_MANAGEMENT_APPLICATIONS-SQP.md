@@ -1,0 +1,234 @@
+---
+title: "795-DATABASE MANAGEMENT APPLICATIONS-SQP"
+source_pdf: "795-DATABASE_MANAGEMENT_APPLICATIONS-SQP.pdf"
+source_url: "https://cbseacademic.nic.in/web_material/Curriculum19/SQP_BP_XII/795-Database_Manangement_Application/795-DATABASE MANAGEMENT APPLICATIONS-SQP.pdf"
+pages: 6
+pdf_bytes: 24891
+pdf_sha256: "3db0a960a61a08ff900a1a97512f0b9757e622049028e3959496ef430c0c0e74"
+text_chars: 7020
+low_text_pages: 1
+converter: "pdftotext -layout"
+---
+
+# 795-DATABASE MANAGEMENT APPLICATIONS-SQP
+
+
+---
+
+## page 1
+
+```
+                                  Sample Paper
+                       DATABASE
+               MANAGEMENT APPLICATIONS (795)
+                           XII
+
+Time Allowed: 2½ hours                                            Maximum marks: 50
+                                         SECTION – A
+
+ Attempt any ten from the following                                                 10 x 1=10
+
+  1. The number of attributes in a relation is called the ____________of a relation.
+
+          a.   Tuple
+          b.   Table
+          c.   Cardinality
+          d.   Degree
+
+  2. In order to restrict the values of an attribute within a range, _________constraint to be
+     used.
+          a. Check
+          b. NULL
+          c. Default
+          d. NOT NULL
+  3. _______________ command is used to eliminate duplicate values of an attribute in the
+     select query
+          a. Update
+          b. Unique
+          c. Distinct
+          d. No Duplicate
+
+  4. _____________ command is used to delete the structure of the table
+         a. Drop Table
+         b. Drop Database
+         c. Delete Table
+         d. Alter Table
+```
+
+---
+
+## page 2
+
+```
+5. ________________is the use of electronic i.e. information and communication
+   technology (ICT) tools for governance by the government for the citizens
+       a. E Learning
+       b. e Commerce
+       c. E-Governance
+       d. E payment
+
+6. E business offers advantages and opportunities, there are also risks and barriers. These
+   include
+   (a) Violation of customer privacy
+   (b) Spikes causing websites to fail at peak times
+   (c) Internet hackers penetrating company security
+   d) All of the above
+
+
+7. Which segment do Flip Kart belong to ?
+   (i) B2B (Business to Business)
+   (ii) C2C (Consumer to Consumer)
+   (iii) C2B (Consumer to Business)
+   (iv) B2C (Business to Consumer)
+
+8. ____________ translates the byte code into machine code and then executes it.
+
+
+9. _____________ is a method convert the string into its integer equivalent.
+       a. Integer.toString()
+       b. Integer.valueOf()
+       c. Integer.parseInt()
+       d. Float.parseFloat()
+
+10. Which of the following statements is false about objects?
+    a. Object is an instance of a class
+    b. Object is capable of storing data
+    c. Each object has its own copy of methods
+    d. None of the above
+
+11. ___________ statement is used to use a prebuilt class and associated methods in those
+   class from the package
+       a. Include
+       b. Public
+       c. Extend
+       d. Import
+```
+
+---
+
+## page 3
+
+```
+12. ___________ method of a String class converts all of the characters in this String to
+   lower case
+       e. Lcase()
+       f. toLowerCase()
+       g. toLcase()
+       h. isLower()
+
+
+
+
+    Very short Answer Questions                                                (5X2=10)
+
+13. Sana has given the following query but she is unable to execute it successfully. Write the
+    correct query after rectifying the error                                           (2)
+     Select Name, Marks
+     From student Table
+     Where Name =”P%”
+14. Differentiate between DDL and DML.                                                 (2)
+15. Name one front end and one Back end application to create Web Applications         (2)
+16. List advantages of Work Integrated Learning with a suitable.                       (2)
+
+17. (a) Categorize the following as e-Governance and e-Learning applications. `  (2)
+     i) On-line experiments in a virtual Chemistry lab of a college.
+     ii) On-line application submission for change of address in the passport.
+     iii) On-line bill payment of electricity Charges.
+     iv) On-line tutorials on w3schools.com
+18. Describe any one social and economic impact of eCommerce.                    (2)
+19. Describe how Database management applications can be used in the Banking sector
+                                                                                 (2)
+
+
+
+
+Short Answer Questions                                                    (5X3=15)
+
+
+
+
+20. Explain main phases of Web Application Development.                        (3)
+```
+
+---
+
+## page 4
+
+```
+ 21. Pragya has registered herself on www.swayam.gov.in for a free online course on
+     elementary education. Mention any three advantages of eLearning.
+      (3)
+
+ 22. Predict the output generated by the following code Categorize the loop into entry control
+     or exit control                                                                     (2+1)
+      int x =10, b=30;
+      while (x<=40)
+      {
+               x+=b;
+               b-=2;
+               System.out.println(“ ”+x);
+      }
+ 23. Write a JAVA program to input a number. If the number is even then Display its square
+     otherwise its cube.                                                                 (3)
+ 24. What are exceptions in Java? Describe the keywords used for handling Exceptions in
+     JAVA
+      (3)
+
+ 25. Explain User Interface with a suitable example                                     (3)
+
+ 26. Illustrate Work Integrated learning with reference to Education Sector             (3)
+
+
+
+
+                                            SECTION B
+
+
+
+Long Answer Questions                                                            (3X5=15)
+
+ 27. Consider the following table Doctor and answer the following Queries in SQL        (5)
+          ID         Department       OPD_DAYS        Doctor_Name             Fee
+          H201       ENT              MWF             Akaash Arora            400
+          H308       Oncology         TTS             Dharma Sharma           600
+          H907       Paediatrics      MWF             Sanjay Singh            500
+          H896       ENT              TTS             Praveen Sethi           400
+          H675       Gynecology       TTS             Kavita Sharma           450
+          H357       Haematology      MWF             Dinesh Chaudhry         600
+
+           I.   To display the name of all Doctors who visit OPD on ‘MWF’
+```
+
+---
+
+## page 5
+
+```
+          II.   To display the all the details of Doctors whose Department ends with ‘y’
+         III.   To count the Number of Doctors in ENT Department
+         IV.    To display names and the fee of doctors in the descending order of fee
+          V.    To add a new column Phone No to a table Doctor
+
+
+
+28. What is eGovernance? Write advantages of eGovernance.                              (2+3)
+
+29. Ananya is trying to Book online railway ticket. Mention two precautions she has to take
+    while making online transaction; also write three advantages of online payment.
+     (5)
+
+30. (i)Write a JAVA program (method) to develop an application to accept sales of a
+    company for four quarters. Calculate the total yearly sale and display the same.
+   (ii) Explain any two methods of String Class                                      (3+2)
+31. (i) Write a JAVA program (method) to develop an application in JAVA to calculate Marks
+    in 5 subjects and show the percentage of Students.
+    (ii) Differentiate between Class and Object with a suitable example              (3+2)
+```
+
+---
+
+## page 6
+
+```
+
+```

@@ -1,0 +1,2519 @@
+{
+ "directed": true,
+ "multigraph": false,
+ "graph": {
+  "note": "graphify shards merged with normalised-label dedup"
+ },
+ "nodes": [
+  {
+   "id": "assertion_reason",
+   "key": "assertion reason",
+   "label": "Assertion-Reason",
+   "aliases": [
+    "Assertion-Reason"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/assertion_reason.md"
+   ],
+   "degree": 8
+  },
+  {
+   "id": "figure_only",
+   "key": "figure only",
+   "label": "Figure-Only",
+   "aliases": [
+    "Figure-Only"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/figure_only.md"
+   ],
+   "degree": 4
+  },
+  {
+   "id": "map",
+   "key": "map",
+   "label": "Map",
+   "aliases": [
+    "Map"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/map.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "matching",
+   "key": "matching",
+   "label": "Matching",
+   "aliases": [
+    "Matching"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/matching.md"
+   ],
+   "degree": 2
+  },
+  {
+   "id": "mcq",
+   "key": "mcq",
+   "label": "MCQ",
+   "aliases": [
+    "MCQ"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/mcq.md"
+   ],
+   "degree": 4
+  },
+  {
+   "id": "ordering",
+   "key": "ordering",
+   "label": "Ordering",
+   "aliases": [
+    "Ordering"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/ordering.md"
+   ],
+   "degree": 2
+  },
+  {
+   "id": "source_based",
+   "key": "source based",
+   "label": "Source-Based",
+   "aliases": [
+    "Source-Based"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/source_based.md"
+   ],
+   "degree": 3
+  },
+  {
+   "id": "subjective",
+   "key": "subjective",
+   "label": "Subjective",
+   "aliases": [
+    "Subjective"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/subjective.md"
+   ],
+   "degree": 5
+  },
+  {
+   "id": "two_statement",
+   "key": "two statement",
+   "label": "Two-Statement",
+   "aliases": [
+    "Two-Statement"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/two_statement.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "accountancy",
+   "key": "accountancy",
+   "label": "Accountancy",
+   "aliases": [
+    "Accountancy",
+    "Accountancy CBSE Class 12"
+   ],
+   "merged_from": 2,
+   "source_files": [
+    "question_types/assertion_reason.md",
+    "subjects/accountancy.md",
+    "units/accountancy__unit_1_accounting_for_partnership_firms.md"
+   ],
+   "degree": 13
+  },
+  {
+   "id": "balance_sheet",
+   "key": "balance sheet",
+   "label": "Balance Sheet",
+   "aliases": [
+    "Balance Sheet"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/accountancy__balance_sheet.md"
+   ],
+   "degree": 2
+  },
+  {
+   "id": "calculate_cash",
+   "key": "calculate cash",
+   "label": "Calculate Cash",
+   "aliases": [
+    "Calculate Cash"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/accountancy__calculate_cash.md"
+   ],
+   "degree": 2
+  },
+  {
+   "id": "firm_sharing_profit",
+   "key": "firm sharing profit",
+   "label": "Firm Sharing Profits",
+   "aliases": [
+    "Firm Sharing Profits"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/accountancy__firm_sharing_profits.md"
+   ],
+   "degree": 0
+  },
+  {
+   "id": "firm_was_dissolved",
+   "key": "firm was dissolved",
+   "label": "Firm Was Dissolved",
+   "aliases": [
+    "Firm Was Dissolved"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/accountancy__firm_was_dissolved.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "his_share",
+   "key": "his share",
+   "label": "His Share",
+   "aliases": [
+    "His Share"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/accountancy__his_share.md"
+   ],
+   "degree": 0
+  },
+  {
+   "id": "investing_activitie",
+   "key": "investing activitie",
+   "label": "Investing Activities",
+   "aliases": [
+    "Investing Activities"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/accountancy__investing_activities.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "new_profit",
+   "key": "new profit",
+   "label": "New Profit",
+   "aliases": [
+    "New Profit"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/accountancy__new_profit.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "partners_firm",
+   "key": "partners firm",
+   "label": "Partners Firm",
+   "aliases": [
+    "Partners Firm"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/accountancy__partners_firm.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "profit_sharing_ratio",
+   "key": "profit sharing ratio",
+   "label": "Profit Sharing Ratio",
+   "aliases": [
+    "Profit Sharing Ratio"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/accountancy__profit_sharing_ratio.md"
+   ],
+   "degree": 0
+  },
+  {
+   "id": "unit_4_cash_flow_statement",
+   "key": "unit 4 cash flow statement",
+   "label": "Unit 4. Cash Flow Statement",
+   "aliases": [
+    "Unit 4. Cash Flow Statement"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "units/accountancy__unit_4_cash_flow_statement.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "year_2022",
+   "key": "year 2022",
+   "label": "Exam Year 2022",
+   "aliases": [
+    "Exam Year 2022"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "years/2022.md"
+   ],
+   "degree": 7
+  },
+  {
+   "id": "year_2023",
+   "key": "year 2023",
+   "label": "Exam Year 2023",
+   "aliases": [
+    "Exam Year 2023"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "years/2023.md"
+   ],
+   "degree": 14
+  },
+  {
+   "id": "year_2024",
+   "key": "year 2024",
+   "label": "Exam Year 2024",
+   "aliases": [
+    "Exam Year 2024"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "years/2024.md"
+   ],
+   "degree": 24
+  },
+  {
+   "id": "year_2025",
+   "key": "year 2025",
+   "label": "Exam Year 2025",
+   "aliases": [
+    "Exam Year 2025"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "years/2025.md"
+   ],
+   "degree": 22
+  },
+  {
+   "id": "year_2026",
+   "key": "year 2026",
+   "label": "Exam Year 2026",
+   "aliases": [
+    "Exam Year 2026"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "years/2026.md"
+   ],
+   "degree": 21
+  },
+  {
+   "id": "unit_1_accounting_for_partnership_firm",
+   "key": "unit 1 accounting for partnership firm",
+   "label": "Unit 1. Accounting for Partnership Firms",
+   "aliases": [
+    "Unit 1. Accounting for Partnership Firms"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "units/accountancy__unit_1_accounting_for_partnership_firms.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "unit_1_theoretical_framework",
+   "key": "unit 1 theoretical framework",
+   "label": "Unit-1: Theoretical Framework",
+   "aliases": [
+    "Unit-1: Theoretical Framework"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "units/accountancy__unit_1_theoretical_framework.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "unit_2_accounting_for_companie",
+   "key": "unit 2 accounting for companie",
+   "label": "Unit 2. Accounting for Companies",
+   "aliases": [
+    "Unit 2. Accounting for Companies"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "units/accountancy__unit_2_accounting_for_companies.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "unit_2_accounting_process",
+   "key": "unit 2 accounting process",
+   "label": "Unit-2: Accounting Process",
+   "aliases": [
+    "Unit-2: Accounting Process"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "units/accountancy__unit_2_accounting_process.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "unit_3_analysis_of_financial_statement",
+   "key": "unit 3 analysis of financial statement",
+   "label": "Unit 3. Analysis of Financial Statements",
+   "aliases": [
+    "Unit 3. Analysis of Financial Statements"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "units/accountancy__unit_3_analysis_of_financial_statements.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "unit_3_financial_statements_of_sole_proprietorship",
+   "key": "unit 3 financial statements of sole proprietorship",
+   "label": "Unit-3: Financial Statements of Sole Proprietorship",
+   "aliases": [
+    "Unit-3: Financial Statements of Sole Proprietorship"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "units/accountancy__unit_3_financial_statements_of_sole_proprietorship.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "unit_4_computerized_accounting",
+   "key": "unit 4 computerized accounting",
+   "label": "Unit 4. Computerized Accounting",
+   "aliases": [
+    "Unit 4. Computerized Accounting"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "units/accountancy__unit_4_computerized_accounting.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "biology",
+   "key": "biology",
+   "label": "Biology",
+   "aliases": [
+    "Biology"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/assertion_reason.md",
+    "subjects/biology.md"
+   ],
+   "degree": 6
+  },
+  {
+   "id": "embryo_sac",
+   "key": "embryo sac",
+   "label": "Embryo Sac",
+   "aliases": [
+    "Embryo Sac"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/biology__embryo_sac.md"
+   ],
+   "degree": 4
+  },
+  {
+   "id": "assertion_reason_question_type",
+   "key": "assertion reason question type",
+   "label": "Assertion-Reason Question Type",
+   "aliases": [
+    "Assertion-Reason Question Type"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/assertion_reason.md"
+   ],
+   "degree": 4
+  },
+  {
+   "id": "figure_only_question_type",
+   "key": "figure only question type",
+   "label": "Figure-Only Question Type",
+   "aliases": [
+    "Figure-Only Question Type"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/figure_only.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "map_question_type",
+   "key": "map question type",
+   "label": "Map Question Type",
+   "aliases": [
+    "Map Question Type"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/map.md"
+   ],
+   "degree": 2
+  },
+  {
+   "id": "matching_question_type",
+   "key": "matching question type",
+   "label": "Matching Question Type",
+   "aliases": [
+    "Matching Question Type"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/matching.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "mcq_question_type",
+   "key": "mcq question type",
+   "label": "MCQ Question Type",
+   "aliases": [
+    "MCQ Question Type"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/mcq.md"
+   ],
+   "degree": 2
+  },
+  {
+   "id": "ordering_question_type",
+   "key": "ordering question type",
+   "label": "Ordering Question Type",
+   "aliases": [
+    "Ordering Question Type"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/ordering.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "source_based_question_type",
+   "key": "source based question type",
+   "label": "Source-Based Question Type",
+   "aliases": [
+    "Source-Based Question Type"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/source_based.md"
+   ],
+   "degree": 2
+  },
+  {
+   "id": "subjective_question_type",
+   "key": "subjective question type",
+   "label": "Subjective Question Type",
+   "aliases": [
+    "Subjective Question Type"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/subjective.md"
+   ],
+   "degree": 4
+  },
+  {
+   "id": "two_statement_question_type",
+   "key": "two statement question type",
+   "label": "Two-Statement Question Type",
+   "aliases": [
+    "Two-Statement Question Type"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/two_statement.md"
+   ],
+   "degree": 0
+  },
+  {
+   "id": "business_studie",
+   "key": "business studie",
+   "label": "Business Studies",
+   "aliases": [
+    "Business Studies"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/assertion_reason.md",
+    "subjects/business_studies.md"
+   ],
+   "degree": 5
+  },
+  {
+   "id": "factors_affecting",
+   "key": "factors affecting",
+   "label": "Factors Affecting",
+   "aliases": [
+    "Factors Affecting"
+   ],
+   "merged_from": 2,
+   "source_files": [
+    "topics/business_studies__factors_affecting.md",
+    "topics/geography__factors_affecting.md"
+   ],
+   "degree": 8
+  },
+  {
+   "id": "function_management",
+   "key": "function management",
+   "label": "Function Management",
+   "aliases": [
+    "Function Management"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/business_studies__function_management.md"
+   ],
+   "degree": 4
+  },
+  {
+   "id": "importance_planning",
+   "key": "importance planning",
+   "label": "Importance Planning",
+   "aliases": [
+    "Importance Planning"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/business_studies__importance_planning.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "planning_function",
+   "key": "planning function",
+   "label": "Planning Function",
+   "aliases": [
+    "Planning Function"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/business_studies__planning_function.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "chemistry",
+   "key": "chemistry",
+   "label": "Chemistry",
+   "aliases": [
+    "Chemistry"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/assertion_reason.md",
+    "subjects/chemistry.md"
+   ],
+   "degree": 10
+  },
+  {
+   "id": "electrode_potential",
+   "key": "electrode potential",
+   "label": "Electrode Potential",
+   "aliases": [
+    "Electrode Potential"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/chemistry__electrode_potential.md"
+   ],
+   "degree": 4
+  },
+  {
+   "id": "emf_of_the_following_cell",
+   "key": "emf of the following cell",
+   "label": "EMF of the Following Cell",
+   "aliases": [
+    "EMF of the Following Cell"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/chemistry__emf_the_following_cell.md"
+   ],
+   "degree": 4
+  },
+  {
+   "id": "economics",
+   "key": "economics",
+   "label": "Economics",
+   "aliases": [
+    "CBSE Class 12 Economics",
+    "Economics"
+   ],
+   "merged_from": 2,
+   "source_files": [
+    "question_types/assertion_reason.md",
+    "subjects/economics.md",
+    "topics/economics__basis_the_following_data.md"
+   ],
+   "degree": 14
+  },
+  {
+   "id": "aggregate_demand",
+   "key": "aggregate demand",
+   "label": "Aggregate Demand",
+   "aliases": [
+    "Aggregate Demand"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/economics__aggregate_demand.md"
+   ],
+   "degree": 5
+  },
+  {
+   "id": "central_bank",
+   "key": "central bank",
+   "label": "Central Bank",
+   "aliases": [
+    "Central Bank"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/economics__central_bank.md"
+   ],
+   "degree": 3
+  },
+  {
+   "id": "commercial_bank",
+   "key": "commercial bank",
+   "label": "Commercial Banks",
+   "aliases": [
+    "Commercial Banks"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/economics__commercial_banks.md"
+   ],
+   "degree": 3
+  },
+  {
+   "id": "fill_the_blank",
+   "key": "fill the blank",
+   "label": "Fill the Blank",
+   "aliases": [
+    "Fill the Blank"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/economics__fill_the_blank.md"
+   ],
+   "degree": 3
+  },
+  {
+   "id": "government_india",
+   "key": "government india",
+   "label": "Government India",
+   "aliases": [
+    "Government India"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/economics__government_india.md"
+   ],
+   "degree": 3
+  },
+  {
+   "id": "hypothetical_economy",
+   "key": "hypothetical economy",
+   "label": "Hypothetical Economy",
+   "aliases": [
+    "Hypothetical Economy"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/economics__hypothetical_economy.md"
+   ],
+   "degree": 3
+  },
+  {
+   "id": "reserve_bank_india",
+   "key": "reserve bank india",
+   "label": "Reserve Bank India",
+   "aliases": [
+    "Reserve Bank India"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/economics__reserve_bank_india.md"
+   ],
+   "degree": 3
+  },
+  {
+   "id": "valid_argument",
+   "key": "valid argument",
+   "label": "Valid Arguments",
+   "aliases": [
+    "Valid Arguments"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/economics__valid_arguments.md"
+   ],
+   "degree": 3
+  },
+  {
+   "id": "basis_the_following_data",
+   "key": "basis the following data",
+   "label": "basis the following data",
+   "aliases": [
+    "basis the following data"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/economics__basis_the_following_data.md"
+   ],
+   "degree": 3
+  },
+  {
+   "id": "gross_value_added",
+   "key": "gross value added",
+   "label": "gross value added",
+   "aliases": [
+    "gross value added"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/economics__gross_value_added.md"
+   ],
+   "degree": 2
+  },
+  {
+   "id": "likely_impact",
+   "key": "likely impact",
+   "label": "likely impact",
+   "aliases": [
+    "likely impact"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/economics__likely_impact.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "market_price",
+   "key": "market price",
+   "label": "market price",
+   "aliases": [
+    "market price"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/economics__market_price.md"
+   ],
+   "degree": 2
+  },
+  {
+   "id": "national_income",
+   "key": "national income",
+   "label": "national income",
+   "aliases": [
+    "national income"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/economics__national_income.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "physics",
+   "key": "physics",
+   "label": "Physics",
+   "aliases": [
+    "Physics"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/assertion_reason.md",
+    "subjects/physics.md"
+   ],
+   "degree": 11
+  },
+  {
+   "id": "mathematics",
+   "key": "mathematics",
+   "label": "Mathematics",
+   "aliases": [
+    "Mathematics"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/assertion_reason.md",
+    "subjects/mathematics.md"
+   ],
+   "degree": 11
+  },
+  {
+   "id": "history",
+   "key": "history",
+   "label": "History",
+   "aliases": [
+    "History"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/assertion_reason.md",
+    "subjects/history.md"
+   ],
+   "degree": 12
+  },
+  {
+   "id": "political_science",
+   "key": "political science",
+   "label": "Political Science",
+   "aliases": [
+    "Political Science"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/assertion_reason.md",
+    "subjects/political_science.md"
+   ],
+   "degree": 11
+  },
+  {
+   "id": "geography",
+   "key": "geography",
+   "label": "Geography",
+   "aliases": [
+    "Geography"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "question_types/assertion_reason.md",
+    "subjects/geography.md"
+   ],
+   "degree": 13
+  },
+  {
+   "id": "english_core",
+   "key": "english core",
+   "label": "English Core",
+   "aliases": [
+    "English Core"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "subjects/english_core.md"
+   ],
+   "degree": 2
+  },
+  {
+   "id": "demographic_transition",
+   "key": "demographic transition",
+   "label": "Demographic Transition",
+   "aliases": [
+    "Demographic Transition"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/geography__demographic_transition.md"
+   ],
+   "degree": 4
+  },
+  {
+   "id": "factors_influencing",
+   "key": "factors influencing",
+   "label": "Factors Influencing",
+   "aliases": [
+    "Factors Influencing"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/geography__factors_influencing.md"
+   ],
+   "degree": 0
+  },
+  {
+   "id": "highly_uneven",
+   "key": "highly uneven",
+   "label": "Highly Uneven",
+   "aliases": [
+    "Highly Uneven"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/geography__highly_uneven.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "international_trade",
+   "key": "international trade",
+   "label": "International Trade",
+   "aliases": [
+    "International Trade"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/geography__international_trade.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "main_characteristic",
+   "key": "main characteristic",
+   "label": "Main Characteristics",
+   "aliases": [
+    "Main Characteristics"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/geography__main_characteristics.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "main_feature",
+   "key": "main feature",
+   "label": "Main Features",
+   "aliases": [
+    "Main Features"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/geography__main_features.md"
+   ],
+   "degree": 0
+  },
+  {
+   "id": "bombay_deccan",
+   "key": "bombay deccan",
+   "label": "Bombay Deccan",
+   "aliases": [
+    "Bombay Deccan"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/history__bombay_deccan.md"
+   ],
+   "degree": 4
+  },
+  {
+   "id": "quit_india_movement",
+   "key": "quit india movement",
+   "label": "Quit India Movement",
+   "aliases": [
+    "Quit India Movement"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/history__quit_india_movement.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "salt_satyagraha",
+   "key": "salt satyagraha",
+   "label": "Salt Satyagraha",
+   "aliases": [
+    "Salt Satyagraha"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/history__salt_satyagraha.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "vijayanagara_empire",
+   "key": "vijayanagara empire",
+   "label": "Vijayanagara Empire",
+   "aliases": [
+    "Vijayanagara Empire"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/history__vijayanagara_empire.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "differential_equation",
+   "key": "differential equation",
+   "label": "Differential Equation",
+   "aliases": [
+    "Differential Equation"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/mathematics__differential_equation.md"
+   ],
+   "degree": 4
+  },
+  {
+   "id": "find_the_probability",
+   "key": "find the probability",
+   "label": "Find the Probability",
+   "aliases": [
+    "Find the Probability"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/mathematics__find_the_probability.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "general_solution",
+   "key": "general solution",
+   "label": "General Solution",
+   "aliases": [
+    "General Solution"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/mathematics__general_solution.md"
+   ],
+   "degree": 0
+  },
+  {
+   "id": "solution_the_differential",
+   "key": "solution the differential",
+   "label": "Solution the Differential",
+   "aliases": [
+    "Solution the Differential"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/mathematics__solution_the_differential.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "derive_expression",
+   "key": "derive expression",
+   "label": "Derive Expression",
+   "aliases": [
+    "Derive Expression"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/physics__derive_expression.md"
+   ],
+   "degree": 3
+  },
+  {
+   "id": "electric_field",
+   "key": "electric field",
+   "label": "Electric Field",
+   "aliases": [
+    "Electric Field"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/physics__electric_field.md"
+   ],
+   "degree": 5
+  },
+  {
+   "id": "field_due",
+   "key": "field due",
+   "label": "Field Due",
+   "aliases": [
+    "Field Due"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/physics__field_due.md"
+   ],
+   "degree": 0
+  },
+  {
+   "id": "formed_infinity",
+   "key": "formed infinity",
+   "label": "Formed Infinity",
+   "aliases": [
+    "Formed Infinity"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/physics__formed_infinity.md"
+   ],
+   "degree": 0
+  },
+  {
+   "id": "magnetic_field",
+   "key": "magnetic field",
+   "label": "Magnetic Field",
+   "aliases": [
+    "Magnetic Field"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/physics__magnetic_field.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "obtain_expression",
+   "key": "obtain expression",
+   "label": "Obtain Expression",
+   "aliases": [
+    "Obtain Expression"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/physics__obtain_expression.md"
+   ],
+   "degree": 0
+  },
+  {
+   "id": "parallel_plate_capacitor",
+   "key": "parallel plate capacitor",
+   "label": "Parallel Plate Capacitor",
+   "aliases": [
+    "Parallel Plate Capacitor"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/physics__parallel_plate_capacitor.md"
+   ],
+   "degree": 0
+  },
+  {
+   "id": "refractive_index",
+   "key": "refractive index",
+   "label": "Refractive Index",
+   "aliases": [
+    "Refractive Index"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/physics__refractive_index.md"
+   ],
+   "degree": 0
+  },
+  {
+   "id": "uniform_magnetic",
+   "key": "uniform magnetic",
+   "label": "Uniform Magnetic",
+   "aliases": [
+    "Uniform Magnetic"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/physics__uniform_magnetic.md"
+   ],
+   "degree": 0
+  },
+  {
+   "id": "topic_its_economy",
+   "key": "topic its economy",
+   "label": "Topic: its economy",
+   "aliases": [
+    "Topic: its economy"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/political_science__its_economy.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "topic_steps_taken",
+   "key": "topic steps taken",
+   "label": "Topic: steps taken",
+   "aliases": [
+    "Topic: steps taken"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/political_science__steps_taken.md"
+   ],
+   "degree": 1
+  },
+  {
+   "id": "topic_united_nation",
+   "key": "topic united nation",
+   "label": "Topic: united nations",
+   "aliases": [
+    "Topic: united nations"
+   ],
+   "merged_from": 1,
+   "source_files": [
+    "topics/political_science__united_nations.md"
+   ],
+   "degree": 1
+  }
+ ],
+ "links": [
+  {
+   "source": "accountancy",
+   "target": "assertion_reason",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "accountancy",
+   "target": "mcq",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "accountancy",
+   "target": "subjective",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "accountancy",
+   "target": "balance_sheet",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "accountancy",
+   "target": "calculate_cash",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2024",
+   "target": "balance_sheet",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "calculate_cash",
+   "target": "unit_4_cash_flow_statement",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2022",
+   "target": "firm_was_dissolved",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2025",
+   "target": "investing_activitie",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2026",
+   "target": "new_profit",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2023",
+   "target": "partners_firm",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "unit_1_accounting_for_partnership_firm",
+   "target": "accountancy",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "unit_1_theoretical_framework",
+   "target": "accountancy",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "unit_2_accounting_for_companie",
+   "target": "accountancy",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "unit_2_accounting_process",
+   "target": "accountancy",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "unit_3_analysis_of_financial_statement",
+   "target": "accountancy",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "unit_3_financial_statements_of_sole_proprietorship",
+   "target": "accountancy",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "unit_4_computerized_accounting",
+   "target": "accountancy",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "assertion_reason",
+   "target": "biology",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "biology",
+   "target": "embryo_sac",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2023",
+   "target": "biology",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2024",
+   "target": "biology",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2025",
+   "target": "biology",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "embryo_sac",
+   "target": "year_2023",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "embryo_sac",
+   "target": "year_2024",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "embryo_sac",
+   "target": "year_2025",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "business_studie",
+   "target": "function_management",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "business_studie",
+   "target": "importance_planning",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "business_studie",
+   "target": "planning_function",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "factors_affecting",
+   "target": "business_studie",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2024",
+   "target": "business_studie",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "factors_affecting",
+   "target": "year_2023",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2024",
+   "target": "factors_affecting",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "factors_affecting",
+   "target": "year_2026",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2024",
+   "target": "function_management",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2025",
+   "target": "function_management",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2026",
+   "target": "function_management",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "chemistry",
+   "target": "assertion_reason_question_type",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "chemistry",
+   "target": "subjective_question_type",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "chemistry",
+   "target": "electrode_potential",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "chemistry",
+   "target": "emf_of_the_following_cell",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2023",
+   "target": "chemistry",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2024",
+   "target": "chemistry",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2025",
+   "target": "chemistry",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2026",
+   "target": "chemistry",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "electrode_potential",
+   "target": "year_2023",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "electrode_potential",
+   "target": "year_2024",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "electrode_potential",
+   "target": "year_2026",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "emf_of_the_following_cell",
+   "target": "year_2024",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "emf_of_the_following_cell",
+   "target": "year_2025",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "emf_of_the_following_cell",
+   "target": "year_2026",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "economics",
+   "target": "assertion_reason",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "economics",
+   "target": "figure_only",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "economics",
+   "target": "mcq",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "economics",
+   "target": "ordering",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "economics",
+   "target": "source_based",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "economics",
+   "target": "subjective",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "economics",
+   "target": "two_statement",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "economics",
+   "target": "aggregate_demand",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "aggregate_demand",
+   "target": "year_2022",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "aggregate_demand",
+   "target": "year_2024",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "aggregate_demand",
+   "target": "year_2025",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "aggregate_demand",
+   "target": "year_2026",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "central_bank",
+   "target": "year_2023",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "central_bank",
+   "target": "year_2024",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "central_bank",
+   "target": "year_2025",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "commercial_bank",
+   "target": "year_2024",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "commercial_bank",
+   "target": "year_2025",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "commercial_bank",
+   "target": "year_2026",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "fill_the_blank",
+   "target": "year_2024",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "fill_the_blank",
+   "target": "year_2025",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "fill_the_blank",
+   "target": "year_2026",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "government_india",
+   "target": "year_2024",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "government_india",
+   "target": "year_2025",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "government_india",
+   "target": "year_2026",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "hypothetical_economy",
+   "target": "year_2024",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "hypothetical_economy",
+   "target": "year_2025",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "hypothetical_economy",
+   "target": "year_2026",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "reserve_bank_india",
+   "target": "year_2023",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "reserve_bank_india",
+   "target": "year_2024",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "reserve_bank_india",
+   "target": "year_2026",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "valid_argument",
+   "target": "year_2024",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "valid_argument",
+   "target": "year_2025",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "valid_argument",
+   "target": "year_2026",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "basis_the_following_data",
+   "target": "economics",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "basis_the_following_data",
+   "target": "gross_value_added",
+   "relation": "shares_data_with",
+   "confidence": "INFERRED",
+   "confidence_score": 0.8
+  },
+  {
+   "source": "basis_the_following_data",
+   "target": "market_price",
+   "relation": "shares_data_with",
+   "confidence": "INFERRED",
+   "confidence_score": 0.8
+  },
+  {
+   "source": "gross_value_added",
+   "target": "economics",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "likely_impact",
+   "target": "economics",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "market_price",
+   "target": "economics",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "national_income",
+   "target": "economics",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "biology",
+   "target": "assertion_reason",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "chemistry",
+   "target": "assertion_reason",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "physics",
+   "target": "assertion_reason",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "mathematics",
+   "target": "figure_only",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "geography",
+   "target": "map",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "history",
+   "target": "matching",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "english_core",
+   "target": "source_based",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "chemistry",
+   "target": "subjective",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2023",
+   "target": "physics",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2023",
+   "target": "mathematics",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2022",
+   "target": "economics",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2022",
+   "target": "political_science",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2022",
+   "target": "accountancy",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "english_core",
+   "target": "year_2022",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "geography",
+   "target": "assertion_reason",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "geography",
+   "target": "figure_only",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "geography",
+   "target": "matching",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "geography",
+   "target": "mcq",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "geography",
+   "target": "ordering",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "geography",
+   "target": "source_based",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "geography",
+   "target": "subjective",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "geography",
+   "target": "demographic_transition",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "geography",
+   "target": "highly_uneven",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "geography",
+   "target": "international_trade",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "factors_affecting",
+   "target": "geography",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2022",
+   "target": "geography",
+   "relation": "conceptually_related_to",
+   "confidence": "INFERRED",
+   "confidence_score": 0.8
+  },
+  {
+   "source": "demographic_transition",
+   "target": "year_2024",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "demographic_transition",
+   "target": "year_2025",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "demographic_transition",
+   "target": "year_2026",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "factors_affecting",
+   "target": "year_2024",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "factors_affecting",
+   "target": "year_2025",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "factors_affecting",
+   "target": "year_2026",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "main_characteristic",
+   "target": "year_2023",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "history",
+   "target": "assertion_reason_question_type",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "history",
+   "target": "map_question_type",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "history",
+   "target": "matching_question_type",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "history",
+   "target": "mcq_question_type",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "history",
+   "target": "ordering_question_type",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "history",
+   "target": "source_based_question_type",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "history",
+   "target": "subjective_question_type",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "history",
+   "target": "bombay_deccan",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "history",
+   "target": "quit_india_movement",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "history",
+   "target": "salt_satyagraha",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "history",
+   "target": "vijayanagara_empire",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "bombay_deccan",
+   "target": "year_2023",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "bombay_deccan",
+   "target": "year_2024",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "bombay_deccan",
+   "target": "year_2025",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "mathematics",
+   "target": "assertion_reason_question_type",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "mathematics",
+   "target": "figure_only_question_type",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "mathematics",
+   "target": "mcq_question_type",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "mathematics",
+   "target": "subjective_question_type",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "mathematics",
+   "target": "differential_equation",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "mathematics",
+   "target": "find_the_probability",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "mathematics",
+   "target": "solution_the_differential",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2025",
+   "target": "mathematics",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2026",
+   "target": "mathematics",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "differential_equation",
+   "target": "year_2023",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "differential_equation",
+   "target": "year_2025",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "differential_equation",
+   "target": "year_2026",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "assertion_reason",
+   "target": "physics",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "figure_only",
+   "target": "physics",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "mcq",
+   "target": "physics",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "subjective",
+   "target": "physics",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "physics",
+   "target": "electric_field",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "physics",
+   "target": "magnetic_field",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2024",
+   "target": "physics",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2025",
+   "target": "physics",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2026",
+   "target": "physics",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "derive_expression",
+   "target": "year_2024",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "derive_expression",
+   "target": "year_2025",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "derive_expression",
+   "target": "year_2026",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "electric_field",
+   "target": "year_2023",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "electric_field",
+   "target": "year_2024",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "electric_field",
+   "target": "year_2025",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "electric_field",
+   "target": "year_2026",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "assertion_reason_question_type",
+   "target": "political_science",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "map_question_type",
+   "target": "political_science",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "source_based_question_type",
+   "target": "political_science",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "subjective_question_type",
+   "target": "political_science",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "topic_its_economy",
+   "target": "political_science",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "topic_united_nation",
+   "target": "political_science",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "topic_steps_taken",
+   "target": "political_science",
+   "relation": "conceptually_related_to",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2024",
+   "target": "political_science",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2025",
+   "target": "political_science",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  },
+  {
+   "source": "year_2026",
+   "target": "political_science",
+   "relation": "references",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0
+  }
+ ]
+}

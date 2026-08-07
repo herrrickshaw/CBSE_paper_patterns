@@ -1,8 +1,9 @@
 # CBSE paper patterns
 
-Structural and topic-recurrence analysis of **1,955 CBSE Class-12 question papers**
-(2022–2026, main and compartment sittings, every subject), covering **30,734 parsed
-questions**.
+Structural and topic-recurrence analysis of CBSE board papers — **1,955 Class XII papers**
+(2022–2026) analysed in depth, plus a **6,409-document corpus** spanning Class X, and every
+sample paper and marking scheme back to 2015-16
+covering **30,734 parsed questions**.
 
 It answers one question: **do the papers keep re-testing the same material in the
 high-mark questions?**
@@ -97,7 +98,9 @@ swiftc -O scripts/ocr.swift -o ocrpdf && python3 scripts/run_ocr.py
 tables. The PDFs themselves are not mirrored; each `.md` records the hash and source
 URL of the PDF it came from.
 
-- `corpus/markdown/past_papers/<year>/<Subject>/*.md` — 1,955 board papers, 2022–2026, main + compartment
+- `corpus/markdown/past_papers/<year>/<Subject>/*.md` — 1,955 Class XII board papers, 2022–2026, main + compartment
+- `corpus/markdown_class_X/` — 1,194 **Class X** board papers, 2022–2026, main + compartment
+- `corpus/markdown_sqp_archive/` — 2,945 documents from the sample-paper archive, sessions **2015-16 → 2024-25**, of which **1,892 are marking schemes** (answer keys)
 - `corpus/markdown/sqp_ms/`, `corpus/markdown/skill_sqp_ms/` — 2025-26 sample papers and marking schemes
 - `corpus/markdown/question_banks/` — the 12 official CBSE Question Banks
 - `corpus/past_paper_questions.csv` — 30,734 parsed questions with `is_english`, marks, type

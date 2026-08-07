@@ -1,0 +1,433 @@
+---
+title: "30-3-3 Maths Standard"
+source_pdf: "30-3-3 Maths Standard.pdf"
+source_url: ""
+pages: 11
+pdf_bytes: 1118899
+pdf_sha256: "5fbeccd30531bd3ff66c451a6656999077e3612590a3ba18a23c84db474fc5df"
+text_chars: 16407
+low_text_pages: 0
+converter: "pdftotext -layout"
+---
+
+# 30-3-3 Maths Standard
+
+
+---
+
+## page 1
+
+```
+ Series PPQQB/3                                                            SET~3
+                                                           àíZ-nÌ H$moS>
+                                                            Q.P. Code      30/3/3
+amob Z§.                                    narjmWu àíZ-nÌ H$moS> >H$mo CÎma-nwpñVH$m Ho$
+Roll No.                                    _wI-n¥ð >na Adí` {bIo§ &
+                                            Candidates must write the Q.P. Code
+                                            on the title page of the answer-book.
+
+
+                                           NOTE
+(I)                                  (I)   Please check that this question paper
+             11                            contains 11 printed pages.
+
+(II)                                 (II) Q.P. Code given on the right hand
+                                           side of the question paper should be
+                                           written on the title page of the
+                                           answer-book by the candidate.
+(III)                                (III) Please check that this question paper
+        14                                 contains 14 questions.
+(IV)                                 (IV) Please write down the serial
+                                          number of the question in the
+                                          answer-book before attempting it.
+(V)                             15   (V)   15 minute time has been allotted to
+                                           read this question paper. The
+                        10.15              question paper will be distributed
+        10.15          10.30               at 10.15 a.m. From 10.15 a.m. to
+                                           10.30 a.m., the students will read the
+                                           question paper only and will not
+                                           write any answer on the answer-book
+                                           during this period.
+
+                                J{UV (_mZH$)
+                        MATHEMATICS (STANDARD)
+
+                  :2                                                                : 40
+Time allowed : 2 hours                                        Maximum Marks : 40
+
+.30/3/3                              1                                            P.T.O.
+```
+
+---
+
+## page 2
+
+```
+               :
+                                                                                          :
+(i)                                14
+(ii)
+(iii)                  6                   1        6                        2
+
+(iv)                   4                7          10                        3
+
+(v)                    4                11          14                        4
+
+
+(vi)
+                                                         IÊS> H$
+           1       6                           2
+1.      AmH¥${V 1 _|, H|$Ð O dmbo d¥Îm na PQ VWm PR ñne©-aoImE± ItMr JB© h¢ & `{X
+          OPR = 45 h¡, Vmo {gÕ H$s{OE {H$ ORPQ EH$ dJ© h¡ &                                                  2
+
+
+
+
+                                                                1
+2.      {XE JE ~ma§~maVm ~§Q>Z H$m ~hþbH$ kmV H$s{OE :                                                       2
+
+
+                       15     25                6
+                       25     35               11
+                       35     45               22
+                       45     55               23
+                       55     65               14
+                       65     75                5
+3.                                             10 VWm àW_ 14 nXm| H$m `moJ\$b 1505
+        gmd© AÝVa           kmV H$s{OE &                                                                     2
+4.                                                         9, 7, 5, ..... Am¡a 15, 12, 9, ..... Ho$ nd| nX
+        g_mZ hm|Jo ?                                                                                         2
+.30/3/3                                                     2
+```
+
+---
+
+## page 3
+
+```
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i)   This question paper contains 14 questions. All questions are compulsory.
+(ii)  This question paper is divided into three sections Sections A, B and C.
+(iii) Section A comprises of 6 questions (Q.no. 1 to 6) of 2 marks each. Internal
+      choice has been provided in two questions.
+(iv) Section B comprises of 4 questions (Q.no. 7 to 10) of 3 marks each. Internal
+      choice has been provided in one question.
+(v)   Section C comprises of 4 questions (Q.no. 11 to 14) of 4 marks each. Internal
+      choice has been provided in one question. It also contains two case study based
+      questions.
+(vi) Use of calculator is not permitted.
+                                         SECTION A
+Question numbers 1 to 6 carry 2 marks each.
+1.    In Figure 1, PQ and PR are tangents to the circle centred at O. If
+        OPR = 45 , then prove that ORPQ is a square.                                  2
+
+
+
+
+                                      Figure 1
+2.    Find the mode of the given frequency distribution :                             2
+                  Class        Frequency
+                 15   25            6
+                 25   35            11
+                 35   45            22
+                 45   55            23
+                 55   65            14
+                 65   75            5
+3.
+      sum of the first 14 terms is 1505.                                              2
+4.                                         th terms of the APs : 9, 7, 5, ..... and
+      15, 12, 9, ..... the same ?                                                     2
+
+.30/3/3                                      3                                    P.T.O.
+```
+
+---
+
+## page 4
+
+```
+5.    (H$)    x Ho$ {bE {ÛKmV g_rH$aU
+                      x2 2ax (4b2         a2) = 0
+          H$mo hb H$s{OE &                                                                       2
+                  AWdm
+      (I) `{X {ÛKmV g_rH$aU
+                     (1 + a2) x2 + 2abx + (b2        c2) = 0
+              Ho$ _yb ~am~a Ed§ dmñV{dH$ h¢, Vmo {gÕ H$s{OE {H$ :
+                     b2 = c2 (1 + a2)                                                            2
+6.    (H$)    7 go_r ì`mg Ho$ ~obZmH$ma ~V©Z, {Og_| Hw$N> nmZr ^am h¡, _| 1·4 go_r ì`mg Ho$
+              150                                                                  o nmZr _|
+          Sy>~ OmE± & ~obZmH$ma ~V©Z _| Ob ñVa H$s d¥{Õ kmV H$s{OE &                             2
+                                          AWdm
+      (I) AmH¥${V 2 _|, 6 go_r
+          àH$ma ~Zo KZm^ H$m Hw$b n¥ð>r` joÌ\$b kmV H$s{OE &                                     2
+
+
+
+
+                                                     2
+                                             IÊS> I
+          7   10                       3
+7.    g_wÐ _| Xmo Zmd Omo EH$-Xÿgao go 80 _r. H$s Xÿar na h¢ Am¡a                  AB H$s Va\$
+                                                                                     30 VWm
+      45 h¢, O¡go {H$ AmH¥${V 3                                     s D±$MmB© kmV H$s{OE &       3
+
+
+
+
+                                                     3
+.30/3/3                                          4
+```
+
+---
+
+## page 5
+
+```
+5.    (a)   Solve the quadratic equation for x :
+                   x2 2ax (4b2 a2) = 0                                              2
+                          OR
+      (b)   If the quadratic equation
+                   (1 + a2) x2 + 2abx + (b2 c2) = 0
+            has equal and real roots, then prove that :
+                   b2 = c2 (1 + a2)                                                 2
+6.    (a)   150 spherical marbles, each of diameter 1·4 cm, are dropped in a
+            cylindrical vessel of diameter 7 cm containing some water, and are
+            completely immersed in water. Find the rise in the level of water
+            in the cylindrical vessel.                                              2
+                                          OR
+      (b)   Three cubes of side 6 cm each, are joined as shown in Figure 2.
+            Find the total surface area of the resulting cuboid.                    2
+
+
+
+
+                                      Figure 2
+
+                                    SECTION B
+Question numbers 7 to 10 carry 3 marks each.
+7.    Two boats are sailing in the sea 80 m apart from each other towards a cliff
+      AB. The angles of depression of the boats from the top of the cliff are 30
+      and 45 respectively, as shown in Figure 3. Find the height of the cliff.      3
+
+
+
+
+                                      Figure 3
+.30/3/3                                   5                                    P.T.O.
+```
+
+---
+
+## page 6
+
+```
+8.    {ZåZ{b{IV ~ma§~maVm ~§Q>Z H$m _mÜ`H$ kmV H$s{OE :                                            3
+
+
+                 1400    1550               6
+                 1550    1700              13
+                 1700    1850              25
+                 1850    2000              10
+9.    (H$)     8 go_r bå~m EH$ aoImI§S> AB It{ME & Bg aoImI§S> AB na q~Xþ P H$mo Bg àH$ma
+               A§{H$V H$s{OE {H$ AP : PB = 1 : 5 hmo &                                             3
+                                            AWdm
+      (I) 3 go_r {ÌÁ`m H$m EH$ d¥Îm It{ME & H|$Ð q~Xþ go 6 go_r H$s Xÿar na pñWV q~Xþ P go
+             d¥Îm na Xmo ñne©-aoImAm| PA VWm PB H$s aMZm H$s{OE &                                  3
+10.   {ZåZ{b{IV ~ma§~maVm ~§Q>Z H$m _mÜ` kmV H$s{OE :                                              3
+
+
+                      0 10                 12
+                      10 20                18
+                      20 30                27
+                      30 40                20
+                      40 50                17
+                      50 60                 6
+                                                IÊS> J
+          11     14                    4
+11.   ^y{_ Ho$ EH$ q~Xþ X go EH$ D$Üdm©Ya _rZma PQ Ho$ {eIa Q H$m CÞ`Z H$moU 60 h¡ & q~Xþ
+      Y go, Omo X Ho$ bå~dV² (D$Üdm©Ya) D$na 40 _r. na h¡, _rZma PQ Ho$ {eIa Q H$m CÞ`Z
+      H$moU 45 h¡ & _rZma PQ H$s D±$MmB© Am¡a PX H$s Xÿar kmV H$s{OE & ( 3 = 1·73 br{OE)           4
+12.   (H$) AmH¥${V 4 _|, H|$Ð O Am¡a O dmbo Xmo d¥Îm Omo                       2r Am¡a r Ho$ h¢,
+               EH$-Xÿgao H$mo Am§V[aH$ ê$n go A                                             AB
+               N>moQ>o d¥Îm H$mo C na {_bVr h¡ & Xem©BE {H$ C, AB H$mo g_{Û^m{OV H$aVm h¡ &        4
+
+
+
+
+                                                       4
+                                                AWdm
+.30/3/3                                           6
+```
+
+---
+
+## page 7
+
+```
+8.    For the following frequency distribution, find the median :                   3
+                  Class         Frequency
+               1400 1550            6
+               1550 1700           13
+               1700 1850           25
+               1850 2000           10
+9.    (a)   Draw a line segment AB of length 8 cm and locate a point P on AB
+            such that AP : PB = 1 : 5.                                              3
+                                         OR
+      (b)   Draw a circle of radius 3 cm. From a point P lying outside the
+            circle at a distance of 6 cm from its centre, construct two tangents
+            PA and PB to the circle.                                                3
+10.   Find the mean of the following frequency distribution :                       3
+                  Class         Frequency
+                 0 10              12
+                 10 20             18
+                 20 30             27
+                 30 40             20
+                 40 50             17
+                 50 60              6
+                                     SECTION C
+Question numbers 11 to 14 carry 4 marks each.
+11.   The angle of elevation of the top Q of a vertical tower PQ from a point X
+      on the ground is 60 . From a point Y, 40 m vertically above X, the angle
+      of elevation of the top Q of tower PQ is 45 . Find the height of the tower
+      PQ and the distance PX. [Use 3 = 1·73]                                        4
+12.   (a)    In Figure 4, two circles with centres at O and O of radii 2r and r
+             respectively, touch each other internally at A. A chord AB of the
+             bigger circle meets the smaller circle at C. Show that C bisects AB.   4
+
+
+
+
+                                       Figure 4
+                                         OR
+
+.30/3/3                                   7                                     P.T.O.
+```
+
+---
+
+## page 8
+
+```
+      (I) AmH¥${V 5 _|, 5 go_r {ÌÁ`m dmbo d¥Îm H$m H|$Ð q~Xþ O h¡ & PA VWm BC
+          q~Xþ A VWm B na ItMr JB© ñne©-aoImE± h¢ & `{X OP = 13 go_r h¡, Vmo
+          ñne©-aoImAm| PA VWm BC H$s bå~mB© kmV H$s{OE &                                          4
+
+
+
+
+                                                    5
+
+
+
+                                       àH$aU AÜ``Z        1
+
+13.   ZrMo {XE JE {MÌ _|, EH$ n[adma Zo AnZo Ka Ho$ nrN>o H$s O_rZ na EH$ Am`VmH$ma pñdq_J
+      nyb ~Zdm`m & nyb Ho$ Mmam| Va\$ x           m gr_|Q> (H§$H«$sQ>)            \w$Q>nmW h¡ &
+      \w$Q>nmW H$s ~mhar ^wOmE± 7 _r. VWm 12 _r. h¢ & nyb H$m joÌ\$b 36 dJ© _r. h¡ &
+
+
+
+
+      (H$) Cn`w©º$ gyMZm Ho$ AmYma na x Ho$ nXm| _| EH$ {ÛKmV g_rH$aU ~ZmBE &                     2
+
+      (I) nyb Ho$ Mmam| Amoa ~Zo \                        H$s{OE &                                2
+
+
+.30/3/3                                         8
+```
+
+---
+
+## page 9
+
+```
+      (b)   In Figure 5, O is centre of a circle of radius 5 cm. PA and BC are
+            tangents to the circle at A and B respectively. If OP = 13 cm, then
+            find the length of tangents PA and BC.                                4
+
+
+
+
+                                     Figure 5
+
+
+
+
+                                 Case Study     1
+
+13.   In the picture given below, one can see a rectangular in-ground
+      swimming pool installed by a family in their backyard. There is a
+      concrete sidewalk around the pool of width x m. The outside edges of the
+      sidewalk measure 7 m and 12 m. The area of the pool is 36 sq. m.
+
+
+
+
+      (a)   Based on the information given above, form a quadratic equation
+            in terms of x.                                                        2
+
+      (b)   Find the width of the sidewalk around the pool.                       2
+
+
+.30/3/3                                  9                                    P.T.O.
+```
+
+---
+
+## page 10
+
+```
+                                          àH$aU AÜ``Z        2
+
+14.   Om°Z Zo AnZr N>moQ>r ~hZ Ho$ {bE AnZo XmoñVm| Ho$ gmW {_bH$a OÝ_{XZ H$s nmQ>u H$s
+      `moOZm ~ZmB© &                {H$`m {H$ OÝ_{XZ nmQ>u H$s Q>mo{n`m± dmo IwX ~ZmE±Jo VWm Ho$H$
+      ~oH$ar H$s XþH$mZ go IarX|Jo & BZ XmoZm| MrµOm| Ho$ {bE CÝhm|Zo {ZåZ {d_mE± {ZpíMV H$s¨ :
+      Ho$H$ : 24 go_r ì`mg VWm 14 go_r D±$MmB© H$m ~obZmH$ma
+      Q>monr :                                  24 go_r VWm d¥ÎmmH$ma AmYma H$s n[a{Y 44 go_r
+                 h¡ &
+
+
+
+
+      Cn`w©º$ gyMZm Ho$ AmYma na, {ZåZ{b{IV àíZm| Ho$ CÎma Xr{OE :
+      (H$) Bg àH$ma H$s 4 Q>mo{n`m± ~ZmZo _| {H$VZm dJ© go_r H$mJO à`wº$ hmoJm ?                     2
+
+      (I) ~oH$ar H$s XþH$mZ na Ho$H$ ^ma (0·5 kg, 1 kg, 1·5 kg, BË`m{X) Ho$ {hgm~ go
+
+                 `{X 650 go_r3 Ho$H$ 100 g Ho$H$ Ho$ ~am~a h¡ ?                                      2
+
+
+
+
+.30/3/3                                            10
+```
+
+---
+
+## page 11
+
+```
+                                    Case Study      2
+
+14.   John planned a birthday party for his younger sister with his friends.
+      They decided to make some birthday caps by themselves and to buy a
+      cake from a bakery shop. For these two items, they decided the following
+      dimensions :
+      Cake : Cylindrical shape with diameter 24 cm and height 14 cm.
+      Cap :    Conical shape with base circumference 44 cm and height 24 cm.
+
+
+
+
+      Based on the above information, answer the following questions :
+      (a)     How many square cm paper would be used to make 4 such caps ?             2
+      (b)     The bakery shop sells cakes by weight (0·5 kg, 1 kg, 1·5 kg, etc.). To
+              have the required dimensions, how much cake should they order, if
+              650 cm3 equals 100 g of cake ?                                           2
+
+
+
+
+.30/3/3                                    11                                      P.T.O.
+```
