@@ -69,12 +69,50 @@ and 20 points. Partnership Firms is correspondingly under-tested. Part B being a
 either/or (Analysis of Financial Statements *or* Computerised Accounting) plausibly
 explains part of the Part B shortfall.
 
-### Biology — contested
+### Biology — resolved with a 312-question gold set
 
-The two most accurate configurations disagree, so nothing is concluded:
+The earlier "contested" reading came from a 171-question gold set on which two
+configurations scored within 0.6pp of each other. Enlarging the gold set to **312
+questions** (all five units, 34–118 each) separates them decisively:
 
-| Configuration | Accuracy | Headline |
-|---|---:|---|
+| Configuration | Accuracy on 312 gold |
+|---|---:|
+| **unit name only** | **73.4%** |
+| NCERT chapter text | 51.6% |
+
+At 73.4%, band ±6pp:
+
+| Unit | Declared | Actual | Gap | Verdict |
+|---|---:|---:|---:|---|
+| VII Genetics and Evolution | 27% | 25% | −2.0 | noise |
+| VI Reproduction | 21% | 38% | **+17.0** | contested (NCERT run gives −3.5) |
+| VIII Biology and Human Welfare | 16% | 2% | **−13.9** | **real — both configs agree** |
+| IX Biotechnology and its Applications | 16% | 18% | +2.0 | noise |
+| X Ecology and Environment | 13% | 14% | +1.0 | noise |
+| Identification/Familiarity with apparatus | 7% | 3% | −4.1 | noise |
+
+**Biology and Human Welfare is under-tested** — −13.9 under the winning configuration
+and −15.2 under the other, the only Biology gap both agree on. Reproduction's +17 is not
+safe: the NCERT run puts it at −3.5.
+
+Note this also retires the earlier claim that NCERT chapter text was Biology's best
+description. That rested on 78.4% measured against the *smaller* gold set; against the
+larger one the same family of configurations scores 51.6%, while the unit name alone
+holds up at 73.4%.
+
+### How the Biology gold set was built
+
+Terms mined from NCERT chapter vocabulary, where a term is **≥8× more frequent in one
+unit's chapters than in any other** and occurs ≥8 times there. Requiring outright absence
+elsewhere — the first attempt — deletes the diagnostic vocabulary, because NCERT chapters
+cross-reference constantly (`plasmid` appears in both Molecular Basis and Biotechnology)
+and produced a *smaller*, worse-distributed set than hand-writing the patterns.
+
+A precision audit of the mined terms then removed five that passed the frequency filters
+but fail on inspection — most importantly **`flowers`**, which labels Mendel's pea-plant
+crosses as Reproduction when they are Genetics.
+
+---|---:|---|
 | NCERT chapters, from PDF text | 78.4% | nothing clears the bar |
 | unit name only | 77.8% | Reproduction +17, Human Welfare −14 |
 
