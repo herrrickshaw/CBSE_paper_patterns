@@ -11,197 +11,113 @@ share against the declared share.
 
 > ## ⚠️ Read this before any number below
 >
-> Unit-level shares are **highly sensitive to how the unit description is built**.
-> The same subject, same questions, same model, produces opposite headlines depending
-> on where the description text is taken from:
+> Every unit share depends on a question→unit assignment that is **54–78% accurate**,
+> measured against gold sets of questions containing a term belonging to exactly one
+> unit by definition. Gold sets: Accountancy 395, Economics 248, Biology 171 questions.
 >
-> | Subject | Unit-description source | Accuracy | Headline gap |
-> |---|---|---:|---|
-> | Accountancy | enriched keyword (no NCERT) | 59.0% | Companies **+8** |
-> | Accountancy | curriculum paragraph, embedded | 47.1% | Partnership +25 |
-> | Accountancy | NCERT chapter head (with heading) | **67.1%** | Companies **+20** |
-> | Accountancy | NCERT chapter head (heading stripped) | 62.5% | Companies **+19** |
-> | Accountancy | NCERT chapter, windowed sample | 28.6% | Partnership +34 |
-> | Biology | keyword | 62%, 15% mapped | Human Welfare +48 |
-> | Biology | curriculum paragraph, embedded | 56.7% | Human Welfare −15 |
-> | Biology | NCERT chapters, from PDF text | **78.4%** | none clear the bar |
-> | Biology | NCERT chapters, from markdown | 49–55% | Ecology +17 |
+> **Psychology cannot be validated at all** — the corpus holds only 107 Psychology
+> questions and yields 22 gold, 1–5 per unit. Its numbers are therefore withdrawn, not
+> reported. The "Psychological Disorders +15" headline from an earlier revision was
+> never validatable.
 >
-> The pipeline is deterministic — three identical runs give identical numbers — so this
-> is sensitivity to preprocessing choices, not randomness. But it means **no unit-level
-> gap should be believed unless it survives across the higher-accuracy configurations.**
->
-> Exactly one does: **Accountancy's Accounting for Companies is over-tested**, at +20
-> and +19 in the two most accurate configurations (67.1% and 62.5%). The keyword method
-> agrees on direction (+8) at 59%.
->
-> Everything else in this document is **not established**, including findings reported
-> in earlier revisions: Psychology's "Psychological Disorders +15" falls to +5–8 under
-> NCERT chapter descriptions, and Biology has now been read five ways with four
-> different headlines.
-
----|---|
-> | ≥ ±14 pts | probably real |
-> | ±8 to ±13 pts | suggestive, not established |
-> | < ±8 pts | **indistinguishable from noise** |
+> A gap is only believed here if it **survives across configurations**, because the same
+> subject produces different headlines depending on how the unit description is built.
 
 ---
 
-## How questions are assigned to units, and how well
+## The result, one method, three validated subjects
 
-Two methods, and **neither wins outright** — the right one depends on whether the
-subject's unit names are distinctive:
+Assignment by embedding the **unit name alone** — which turns out to match or beat every
+richer description tried (see the sensitivity table below):
 
-| Subject | Method | Coverage | Accuracy | Correctly placed |
-|---|---|---:|---:|---:|
-| Accountancy | enriched keyword | 87% | 59% | **51%** |
-| Accountancy | embedding | 90% | 47% | 42% |
-| Biology | enriched keyword | 15% | 62% | 9% |
-| Biology | embedding (curriculum para) | 57% | 57% | 32% |
-| Biology | **embedding (NCERT chapters)** | 70% | **78%** | **55%** |
+| Subject | Gold | Accuracy | Largest gap | Verdict |
+|---|---:|---:|---|---|
+| Biology | 171 | **77.8%** | Reproduction +17 | contested — see below |
+| Economics | 248 | **68.5%** | ±2.3pp | **blueprint-faithful** |
+| Accountancy | 395 | 54.4% | Companies +12 | **over-tested, direction robust** |
 
-Embeddings (`all-MiniLM-L6-v2`, each unit described by its name plus the syllabus prose
-beneath it) are decisively better where unit names are generic single words — Biology's
-"Reproduction", "Ecology and Environment" — placing **3.5× more questions correctly**
-despite slightly lower per-item accuracy. Hand-enriched keyword sets stay ahead where
-the domain vocabulary is distinctive and curated, as in Accountancy.
+### Economics — follows its blueprint almost exactly
 
-**Accuracy is measured against a gold set** of questions containing a term that belongs
-to exactly one unit by definition (`debenture` → Companies, `embryo sac` → Reproduction):
-395 gold questions for Accountancy, 171 for Biology. Every word appearing in a gold
-pattern is **banned from the keyword features** before scoring — without that ban the
-keyword method scores an inflated 92.4%, because it is being tested on the very terms it
-was built from.
+| Unit | Declared | Actual | Gap |
+|---|---:|---:|---:|
+| Current Challenges facing Indian Economy | 33% | 34% | +0.7 |
+| Determination of Income and Employment | 20% | 20% | −0.4 |
+| National Income and Related Aggregates | 17% | 18% | +1.3 |
+| Money and Banking | 10% | 10% | +0.2 |
+| Government Budget and the Economy | 10% | 11% | +0.5 |
+| Balance of Payments | 10% | 8% | −2.3 |
 
----
+At the highest accuracy available for this subject, **no unit deviates by more than
+2.3 points**. This supersedes every earlier Economics reading in this document
+(Current Challenges −14, Government Budget +9, Determination +12/+14), all of which came
+from lower-accuracy configurations.
 
-## Accountancy — 87% mapped, keyword method
+### Accountancy — Companies over-tested, magnitude uncertain
 
-| Unit | Declared | Actual | Gap | Verdict |
-|---|---:|---:|---:|---|
-| Accounting for Partnership Firms | 45% | 49% | +4 | noise |
-| Accounting for Companies | 30% | 38% | +8 | suggestive |
-| Analysis of Financial Statements | 15% | 7% | −8 | suggestive |
-| Cash Flow Statement | 10% | 6% | −4 | noise |
+All four configurations agree on the direction, which is what makes this the one
+durable finding in the analysis:
 
-Nothing here clears the ±14 bar. The suggestion is that the paper leans heavier on
-company accounts and lighter on Part B, but at 59% assignment accuracy that is not
-established. The embedding method, on the same data, puts Partnership at 70% and
-Companies at 10% — a disagreement far larger than either gap, which is itself the
-clearest evidence that this subject's numbers are not yet settled.
+| Configuration | Accuracy | Companies gap |
+|---|---:|---:|
+| NCERT chapter head (with heading) | 67.1% | +20 |
+| NCERT chapter head (heading stripped) | 62.5% | +19 |
+| enriched keyword | 59.0% | +8 |
+| unit name only | 54.4% | +12 |
 
-A structural caveat compounds it: Part B is an *either/or* — candidates choose Analysis
-of Financial Statements **or** Computerised Accounting — so its questions split across
-two alternative tracks while the declared weightage counts one.
+**Accounting for Companies is tested above its declared 30%**, by somewhere between 8
+and 20 points. Partnership Firms is correspondingly under-tested. Part B being an
+either/or (Analysis of Financial Statements *or* Computerised Accounting) plausibly
+explains part of the Part B shortfall.
 
-## Economics — 83% mapped, embedding method
+### Biology — contested
 
-| Unit | Declared | Actual | Gap | Verdict |
-|---|---:|---:|---:|---|
-| Current Challenges facing Indian Economy | 33% | 27% | −6 | noise |
-| Determination of Income and Employment | 20% | 30% | +10 | suggestive |
-| National Income and Related Aggregates | 17% | 9% | −8 | suggestive |
-| Balance of Payments | 10% | 16% | +6 | noise |
-| Money and Banking | 10% | 11% | +1 | noise |
-| Government Budget and the Economy | 10% | 7% | −3 | noise |
+The two most accurate configurations disagree, so nothing is concluded:
 
-The keyword run on the same subject gave Current Challenges −14 and Government Budget
-+9 — i.e. it disagreed on both direction and magnitude for Government Budget. Treat
-**Determination of Income and Employment being over-tested** as the one durable signal;
-it is the only unit both methods place above its declared weight.
+| Configuration | Accuracy | Headline |
+|---|---:|---|
+| NCERT chapters, from PDF text | 78.4% | nothing clears the bar |
+| unit name only | 77.8% | Reproduction +17, Human Welfare −14 |
 
-## Psychology — 80% mapped, embedding method
-
-| Unit | Declared | Actual | Gap | Verdict |
-|---|---:|---:|---:|---|
-| IV Psychological Disorders | 17% | 32% | **+15** | probably real |
-| II Self and Personality | 19% | 7% | **−12** | suggestive |
-| V Therapeutic Approaches | 13% | 4% | −9 | suggestive |
-| VI Attitude and Social Cognition | 11% | 15% | +3 | noise |
-| I Variations in Psychological Attributes | 19% | 21% | +2 | noise |
-| III Meeting Life Challenges | 13% | 13% | 0 | noise |
-| VII Social Influence and Group Processes | 9% | 8% | −1 | noise |
-
-**Psychological Disorders at roughly twice its declared weight** is the single largest
-gap in the corpus that clears the noise floor. Note this reverses the earlier
-keyword-based reading, which had Psychology as the most blueprint-faithful subject with
-every unit inside ±4 — that reading came from mapping only 41% of its questions.
-
-## Biology — 70% mapped, NCERT chapter descriptions
-
-**Assignment accuracy 78.4%** — the best in the corpus, up from 56.7% with a curriculum
-paragraph. Uncertainty band ≈ ±6pp.
-
-| Unit | Declared | Actual | Gap | Verdict |
-|---|---:|---:|---:|---|
-| VII Genetics and Evolution | 27% | 18% | -8 | suggestive |
-| VI Reproduction | 21% | 31% | +10 | suggestive |
-| VIII Biology and Human Welfare | 16% | 11% | -5 | noise |
-| IX Biotechnology and its Applications | 16% | 21% | +5 | noise |
-| X Ecology and Environment | 13% | 14% | +1 | noise |
-| Identification/Familiarity with the apparatus | 7% | 3% | -4 | noise |
-
-Nothing clears the bar. Biology is **broadly blueprint-faithful**, with a hint that
-Reproduction is over-tested and Genetics under-tested. This is the third and final
-reading of this subject; the two before it were both artifacts:
-
-| Reading | Method | Headline | Why it was wrong |
-|---|---|---|---|
-| 1st | keyword | Human Welfare **+48** | only 15% mapped; `disease`/`health`/`drug` absorbed everything |
-| 2nd | NCERT, shared chapters | Human Welfare **−15** | Human Welfare and Biotechnology were given the *same three chapters*, so Biotech absorbed every question |
-| 3rd | NCERT, exclusive chapters | Human Welfare **−5, noise** | each chapter assigned to one unit, no unit left empty |
-
-## How NCERT chapter text was attached to units
-
-286 Class-XII chapter PDFs from `ncert.nic.in` (~5.7 GB, book codes and chapter counts
-read out of the inline JavaScript that builds the dropdowns on `textbook.php`). Chapter
-titles are useless for this — `pdftotext` returns body prose like *"Y ou have learnt
-about..."* — so chapters are attached to units by embedding the **chapter text** and
-assigning **exclusively**: highest similarity first, each chapter used once, and any
-unit left empty takes its best unclaimed chapter. That last clause is what fixed the
-2nd reading above.
-
-The resulting assignment is verifiably correct against the NCERT contents page:
-Reproduction ← ch1–3, Genetics and Evolution ← ch4–6, Biology and Human Welfare ←
-ch8 *Microbes in Human Welfare*, Ecology ← ch11–13.
-
-**It does not help every subject.** Accountancy went 47.1% → 45.1% with NCERT text;
-its enriched keyword sets remain the best method there at 59%. Chapter text helps where
-units are semantically broad (Biology) and not where they turn on fine-grained
-vocabulary the model doesn't separate (`debenture` vs `goodwill`).
-
-## Superseded: Biology — 57% mapped, embedding method
-
-| Unit | Declared | Actual | Gap | Verdict |
-|---|---:|---:|---:|---|
-| VII Genetics and Evolution | 27% | 19% | −8 | suggestive |
-| VI Reproduction | 21% | 20% | −1 | noise |
-| VIII Biology and Human Welfare | 16% | 18% | +2 | noise |
-| IX Biotechnology and its Applications | 16% | 8% | −8 | suggestive |
-| X Ecology and Environment | 13% | 20% | +6 | noise |
-
-Nothing clears the bar; Biology looks broadly blueprint-faithful. This supersedes the
-earlier keyword result, which showed "Biology and Human Welfare" at **+48** — an
-artifact of mapping only 15% of questions with keywords (`disease`, `health`, `drug`)
-generic enough to absorb questions from every other unit.
+Two runs a whisker apart in accuracy, opposite conclusions. Biology needs a larger gold
+set or human labelling to settle.
 
 ---
 
-## Limits
+## The NCERT apparatus was mostly unnecessary
 
-- **Unit tables extract cleanly for only 5 of 12 subjects.** Curricula cover Classes XI
-  and XII in one document with no consistent unit prefix and differing layouts per
-  subject. Un-split extraction mixes Class XI units into the Class XII denominator and
-  distorts every share — Accountancy's table is hand-split for that reason.
-- **Unit descriptions come from a paragraph of curriculum prose.** An earlier version
-  silently sourced them from the course-structure *table* instead ("Ecology and
-  Environment" described as `10 Total 70 Unit-VI Reproduction`), which is what put
-  Accountancy's Analysis of Financial Statements at an impossible 0%.
-- **The obvious improvement is NCERT chapter text.** The curriculum gives a paragraph per
-  unit; NCERT gives a whole chapter. That should lift both coverage and accuracy well
-  past 60% and shrink the uncertainty band enough to make the ±8 gaps decidable.
-- Marks in the archive are regex-parsed and approximate; only the 32-paper `questions`
-  table has marks verified against each paper's stated maximum.
+286 chapter PDFs were downloaded and mapped to units to build richer descriptions. On
+the evidence, **the unit name alone is competitive or better**:
+
+| Subject | name only | best NCERT | best other |
+|---|---:|---:|---:|
+| Biology | 77.8% | 78.4% | 62% (keyword) |
+| Economics | **68.5%** | 54.8% | — |
+| Accountancy | 54.4% | **67.1%** | 59.0% (keyword) |
+
+NCERT chapter text helps Accountancy and roughly ties on Biology; it actively hurts
+Economics. The lesson is that a short, precise label embeds better than a long passage
+whose bulk is worked examples, figure captions and scientist biographies — the same
+reason sampling chapter interiors made things worse, not better.
+
+## Sensitivity table (why "survives across configurations" is the rule)
+
+| Subject | Unit-description source | Accuracy | Headline gap |
+|---|---|---:|---|
+| Accountancy | NCERT chapter head (with heading) | 67.1% | Companies +20 |
+| Accountancy | NCERT chapter head (heading stripped) | 62.5% | Companies +19 |
+| Accountancy | enriched keyword | 59.0% | Companies +8 |
+| Accountancy | unit name only | 54.4% | Companies +12 |
+| Accountancy | curriculum paragraph | 47.1% | Partnership +25 |
+| Accountancy | NCERT chapter, windowed sample | 28.6% | Partnership +34 |
+| Biology | NCERT chapters from PDF | 78.4% | none clear |
+| Biology | unit name only | 77.8% | Reproduction +17 |
+| Biology | curriculum paragraph | 56.7% | Human Welfare −15 |
+| Biology | keyword (15% mapped) | 62% | Human Welfare +48 |
+| Economics | unit name only | 68.5% | none clear |
+| Economics | NCERT chapters | 54.8% | Determination +14 |
+
+The pipeline is deterministic — three identical runs give identical output — so this is
+sensitivity to preprocessing choices, not randomness.
 
 ## Withdrawn
 

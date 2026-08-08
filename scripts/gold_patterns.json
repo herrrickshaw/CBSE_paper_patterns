@@ -67,5 +67,125 @@
    "\\bvaccin",
    "\\bantibiotic"
   ]
+ },
+ "Economics": {
+  "National Income and Related Aggregates": [
+   "gross value added",
+   "net national product",
+   "\\bfactor cost\\b",
+   "gdp deflator",
+   "circular flow",
+   "net domestic product",
+   "consumption of fixed capital"
+  ],
+  "Money and Banking": [
+   "cash reserve ratio",
+   "statutory liquidity",
+   "\\brepo rate\\b",
+   "reverse repo",
+   "money multiplier",
+   "high[- ]powered money",
+   "\\bcredit creation\\b",
+   "legal tender"
+  ],
+  "Determination of Income and Employment": [
+   "investment multiplier",
+   "propensity to consume",
+   "propensity to save",
+   "deficient demand",
+   "excess demand",
+   "involuntary unemployment",
+   "\\bex[- ]ante\\b",
+   "break[- ]even"
+  ],
+  "Government Budget and the Economy": [
+   "fiscal deficit",
+   "revenue deficit",
+   "primary deficit",
+   "revenue expenditure",
+   "capital receipts",
+   "government budget"
+  ],
+  "Balance of Payments": [
+   "balance of payments",
+   "current account",
+   "capital account",
+   "foreign exchange rate",
+   "\\bdevaluation\\b",
+   "depreciation of.{0,12}currency",
+   "autonomous transactions"
+  ],
+  "Current Challenges facing Indian Economy": [
+   "human capital formation",
+   "poverty line",
+   "self[- ]help group",
+   "sustainable development",
+   "\\borganic farming\\b",
+   "\\binformal sector\\b",
+   "disguised unemployment"
+  ]
+ },
+ "Psychology": {
+  "I Variations in Psychological Attributes": [
+   "intelligence quotient",
+   "\\biq\\b",
+   "triarchic",
+   "multiple intelligences",
+   "\\baptitude\\b",
+   "psychometric",
+   "\\bsternberg\\b"
+  ],
+  "II Self and Personality": [
+   "self[- ]efficacy",
+   "self[- ]esteem",
+   "trait theory",
+   "defence mechanism",
+   "projective techniq",
+   "big five",
+   "\\bfreud",
+   "\\bego\\b"
+  ],
+  "III Meeting Life Challenges": [
+   "\\bcoping\\b",
+   "\\bburnout\\b",
+   "\\beustress\\b",
+   "general adaptation syndrome",
+   "life skills",
+   "\\bstressor"
+  ],
+  "IV Psychological Disorders": [
+   "schizophrenia",
+   "\\bphobia",
+   "obsessive[- ]compulsive",
+   "bipolar",
+   "\\bautis",
+   "dissociative",
+   "anxiety disorder",
+   "\\bdelusion"
+  ],
+  "V Therapeutic Approaches": [
+   "psychotherapy",
+   "cognitive behaviour therapy",
+   "systematic desensitis",
+   "client[- ]cent",
+   "\\brehabilitation\\b",
+   "\\bcatharsis\\b"
+  ],
+  "VI Attitude and Social Cognition": [
+   "cognitive dissonance",
+   "\\bprejudice\\b",
+   "\\bstereotyp",
+   "attribution",
+   "attitude (change|formation)",
+   "\\bschema\\b"
+  ],
+  "VII Social Influence and Group Processes": [
+   "\\bconformity\\b",
+   "\\bobedience\\b",
+   "group polaris",
+   "social loafing",
+   "\\bbystander\\b",
+   "\\bin[- ]group\\b"
+  ]
  }
 }
