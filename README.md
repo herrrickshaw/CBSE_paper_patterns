@@ -1,5 +1,9 @@
 # CBSE paper patterns
 
+<!-- how-to-use-with-ai -->
+> **New here?** See [How to use this repo with AI (Claude, Gemini, ChatGPT)](HOW_TO_USE_WITH_AI.md) — clone it, paste it into an AI tool, and ask in plain English.
+
+
 Structural and topic-recurrence analysis of CBSE board papers — **1,955 Class XII papers**
 (2022–2026) analysed in depth, plus a **6,409-document corpus** spanning Class X, and every
 sample paper and marking scheme back to 2015-16
