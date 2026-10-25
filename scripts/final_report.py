@@ -69,8 +69,10 @@ def main():
             else:
                 if any(g in u or u in g for u in used_t): continue
                 used_t.append(g); topics.append(rec)
-        top_t = topics[:25]
-        tset = {t["phrase"] for t in top_t}
+        top_t = topics[:25]  # display/export only
+        # The index is defined over EVERY recurring content topic (>= 3 years),
+        # not just the 25 shown; capping it made the index depend on the cap.
+        tset = {t["phrase"] for t in topics}
         hit_marks = sum(q["marks"] for q in high
                         if tset & set(ngrams(q["question"])))
         hi_marks = sum(q["marks"] for q in high)
