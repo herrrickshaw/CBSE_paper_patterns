@@ -6,3 +6,8 @@ en/
 en2/
 ocrpdf
 __pycache__/
+.venv/
+.pytest_cache/
+.ruff_cache/
+scripts/topic_report2.json
+scripts/final_topics.json
