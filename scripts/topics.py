@@ -12,7 +12,7 @@ Method (no hand-written topic list, so the answer isn't smuggled in by the lexic
 
 A topic that shows up in most years at high marks is a topic the board keeps re-testing.
 """
-import re, sys, json, pathlib, collections, subprocess
+import re, sys, json, pathlib, collections
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from parse_generic import parse_paper
 

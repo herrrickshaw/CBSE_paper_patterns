@@ -8,7 +8,7 @@ this one has to cope with ~90 subjects whose structures we have not read. So:
     where it prints one; papers without that line get validated=NULL, not a false OK.
 Nothing here silently invents a number.
 """
-import re, subprocess, pathlib, json
+import re, subprocess, json
 
 DEV = re.compile(r'[ऀ-ॿ]')
 NOISE = re.compile(

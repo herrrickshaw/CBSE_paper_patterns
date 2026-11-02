@@ -1,4 +1,4 @@
-import json, os, pathlib, subprocess, hashlib, sys
+import json, os, pathlib, subprocess, hashlib
 from concurrent.futures import ThreadPoolExecutor
 HOME=pathlib.Path.home()
 MD=HOME/"Downloads/cbse_md"

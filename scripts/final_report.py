@@ -6,9 +6,9 @@ Repetition index = share of high-mark MARKS attached to a content topic that app
 in >= 3 of the 5 exam years (2022-2026). It answers the actual question: is the board
 re-testing the same material, or moving around inside the syllabus?
 """
-import re, sys, json, pathlib, collections
+import sys, json, pathlib, collections
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
-from topics2 import is_english, ngrams, norm, CACHE
+from topics2 import is_english, ngrams, CACHE
 
 HERE = pathlib.Path(__file__).parent
 OUT  = pathlib.Path.home() / "Downloads/cbse_question_bank"

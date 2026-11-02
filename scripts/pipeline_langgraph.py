@@ -13,7 +13,7 @@ quality gate that can route work back or halt, so a bad stage fails loudly.
 Nodes are plain functions - no LLM calls, so this runs offline and deterministically.
 """
 from __future__ import annotations
-import json, re, sys, pathlib, collections
+import json, sys, pathlib, collections
 from typing import TypedDict, Literal
 from langgraph.graph import StateGraph, END
 

@@ -17,3 +17,6 @@ extend-exclude = ["corpus", "data", "knowledge_graph"]
 select = ["E9", "F", "E722", "B"]
 # Legacy one-line import style and zip() usage are kept as-is (behaviour-preserving pass).
 ignore = ["B905", "B007"]
+
+[tool.ruff.lint.per-file-ignores]
+"scripts/build_bank.py" = ["B023"]  # closure is called within the same loop iteration

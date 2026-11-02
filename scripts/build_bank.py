@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Parse CBSE Class 12 question papers into a structured question bank."""
-import re, json, os, pathlib, unicodedata
+import re, json, os, pathlib
 from collections import Counter
 import sys; sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from marks_map import ACADEMIC, SKILL
