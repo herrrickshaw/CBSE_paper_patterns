@@ -8,19 +8,26 @@ this one has to cope with ~90 subjects whose structures we have not read. So:
     where it prints one; papers without that line get validated=NULL, not a false OK.
 Nothing here silently invents a number.
 """
-import re, subprocess, json
+from __future__ import annotations
+
+import json
+import re
+import subprocess
+from typing import Dict, List, Optional, Tuple
 
 DEV = re.compile(r'[ऀ-ॿ]')
 NOISE = re.compile(
     r'^(P\.T\.O|\[ ?P\.T\.O|Page \d+|\*\d|Series ?:|Q\.P\. ?Code|Roll No|'
     r'Candidates must write|SET[-~]|\*[A-Z ]+\*|#|g #|b$|\d+ of \d+)', re.I)
 
-def pages(path):
+def pages(path) -> List[str]:
+    """Run ``pdftotext -layout`` on a PDF and return its text split per page."""
     raw = subprocess.run(["pdftotext", "-layout", str(path), "-"],
                          capture_output=True, text=True, timeout=120).stdout
     return raw.split("\f")
 
-def english_lines(path, drop_reprints=True):
+def english_lines(path, drop_reprints: bool = True) -> List[str]:
+    """Non-Devanagari, non-noise lines of a PDF; optionally drop pages that merely reprint later pages."""
     pgs = []
     for p in pages(path):
         out = []
@@ -40,21 +47,26 @@ def english_lines(path, drop_reprints=True):
         keep.extend(pg)
     return keep
 
-def latin_words(s): return len(re.findall(r'[A-Za-z]{2,}', s))
+def latin_words(s: str) -> int:
+    """Count Latin-alphabet words of 2+ letters."""
+    return len(re.findall(r'[A-Za-z]{2,}', s))
 
-def declared_count(lines):
+def declared_count(lines: List[str]) -> Optional[int]:
+    """Question count the paper declares ("contains N questions"), or None."""
     for l in lines:
         m = re.search(r'contains\s+(\d+)\s+questions', l, re.I)
         if m: return int(m.group(1))
     return None
 
-def declared_marks(lines):
+def declared_marks(lines: List[str]) -> Optional[int]:
+    """Maximum marks the paper declares, or None."""
     for l in lines:
         m = re.search(r'Maximum Marks\s*:?\s*(\d+)', l, re.I)
         if m: return int(m.group(1))
     return None
 
-def split_questions(lines, cap=120):
+def split_questions(lines: List[str], cap: int = 120) -> List[dict]:
+    """Split lines into numbered question blocks, advancing only on the next expected number (gap <= 3)."""
     blocks, cur, expect = [], None, 1
     for l in lines:
         m = re.match(r'^(\d{1,3})[.)]\s+(.*)', l)
@@ -77,7 +89,8 @@ def split_questions(lines, cap=120):
     return blocks
 
 MARK = re.compile(r'\((A|B|C|D)\)')
-def options(lines):
+def options(lines: List[str]) -> Optional[Dict[str, str]]:
+    """MCQ options {A..D: text} if at least three are found, else None."""
     text = "\n".join(lines)
     hits = list(MARK.finditer(text))
     if len(hits) < 3: return None
@@ -89,7 +102,7 @@ def options(lines):
         if v and h.group(1) not in out: out[h.group(1)] = v[:300]
     return out if len(out) >= 3 else None
 
-def marks_of(lines):
+def marks_of(lines: List[str]) -> Tuple[Optional[int], Optional[str]]:
     """Trailing per-question marks, only when unambiguous. Returns (marks, source)."""
     cands = []
     for l in lines:
@@ -104,7 +117,8 @@ def marks_of(lines):
     if not cands: return None, None
     return max(cands), "parsed"
 
-def q_type(lines, opts):
+def q_type(lines: List[str], opts) -> str:
+    """Classify a question block by its wording (assertion-reason, matching, mcq, ...)."""
     t = " ".join(lines)
     if re.search(r'Assertion \(A\)', t): return "assertion-reason"
     if re.search(r'Statement[- ]?(I|1)\s*:', t): return "two-statement"
@@ -114,7 +128,8 @@ def q_type(lines, opts):
     if re.search(r'outline map|On the given political', t, re.I): return "map"
     return "mcq" if opts else "subjective"
 
-def section_walk(lines, cap=120):
+def section_walk(lines: List[str], cap: int = 120) -> Dict[int, Optional[str]]:
+    """Map question number -> section label (A-E or "Part A/B") in force when it starts."""
     sec, cur, expect = {}, None, 1
     for l in lines:
         m = re.match(r'^(?:SECTION|Section)\s*[-–—]?\s*([A-E])\b', l)
@@ -128,7 +143,8 @@ def section_walk(lines, cap=120):
             expect = n + 1
     return sec
 
-def parse_paper(path, subject, source, paper_id):
+def parse_paper(path, subject: str, source: str, paper_id: str):
+    """Parse one PDF into (question rows, declared question count, declared max marks)."""
     lines = english_lines(path)
     decl_q, decl_m = declared_count(lines), declared_marks(lines)
     blocks = split_questions(lines)
