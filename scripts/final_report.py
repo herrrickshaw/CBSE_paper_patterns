@@ -6,9 +6,13 @@ Repetition index = share of high-mark MARKS attached to a content topic that app
 in >= 3 of the 5 exam years (2022-2026). It answers the actual question: is the board
 re-testing the same material, or moving around inside the syllabus?
 """
-import sys, json, pathlib, collections
+import sys, json, pathlib
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
-from topics2 import is_english, ngrams, CACHE
+from topics2 import CACHE
+from recurrence import (
+    MIN_RECURRING_YEARS, group_by_subject, high_mark_questions, ngram_stats, ngrams, unique_phrases,
+    usable_rows,
+)
 
 HERE = pathlib.Path(__file__).parent
 OUT  = pathlib.Path.home() / "Downloads/cbse_question_bank"
@@ -37,52 +41,54 @@ def looks_mojibake(g):
         if len(w) >= 3 and v == 0: return True
     return False
 
-def main():
-    rows = json.loads(CACHE.read_text())
-    rows = [r for r in rows if r.get("question") and is_english(r["question"])]
-    by = collections.defaultdict(list)
-    for r in rows: by[r["subject"]].append(r)
+MIN_YEARS_FOR_SUBJECT = 3   # subjects seen in fewer exam years are skipped
+MIN_HIGH_QUESTIONS = 25     # subjects with fewer high-mark questions are skipped
+TOP_TOPICS = 25             # content topics counted towards the repetition index
+TOP_FORMULAS = 15           # stem formulas kept per subject
 
+
+def analyse_subject(subj, qs):
+    """Return (summary dict, top topics, formulas) for one subject, or None if too little data."""
+    yrs_all = sorted({q["year"] for q in qs})
+    if len(yrs_all) < MIN_YEARS_FOR_SUBJECT: return None
+    high = high_mark_questions(qs)
+    if len(high) < MIN_HIGH_QUESTIONS: return None
+    yrs, pap, mk, ex = ngram_stats(high, example_len=180)
+    cands = [g for g in yrs if len(yrs[g]) >= MIN_RECURRING_YEARS and not looks_mojibake(g)]
+    cands.sort(key=lambda g: (-len(yrs[g]), -mk[g], -len(g.split())))
+    topics, formulas = [], []
+    # formulas and topics are de-duplicated independently of each other
+    for is_f, bucket in ((True, formulas), (False, topics)):
+        for g in unique_phrases(g for g in cands if is_formula(g) == is_f):
+            bucket.append(dict(subject=subj, phrase=g, years=len(yrs[g]), year_list=sorted(yrs[g]),
+                               papers=len(pap[g]), marks=mk[g], example=ex[g]))
+    top_t = topics[:TOP_TOPICS]
+    tset = {t["phrase"] for t in top_t}
+    hit_marks = sum(q["marks"] for q in high if tset & set(ngrams(q["question"])))
+    hi_marks = sum(q["marks"] for q in high)
+    summary = dict(
+        years=yrs_all, papers=len({q["paper_file"] for q in qs}),
+        questions=len(qs), high_q=len(high), high_marks=hi_marks,
+        repetition_index=round(hit_marks / hi_marks, 3) if hi_marks else None,
+        n_recurring_topics=len(topics), n_recurring_formulas=len(formulas))
+    return summary, top_t, formulas[:TOP_FORMULAS]
+
+
+def build_final(rows):
+    """Aggregate per-subject results into {subjects, topics, formulas}."""
     subjects, all_topics, all_formulas = {}, [], []
-    for subj, qs in by.items():
-        yrs_all = sorted({q["year"] for q in qs})
-        if len(yrs_all) < 3: continue
-        high = [q for q in qs if (q.get("marks") or 0) >= 4
-                and len(q["question"].split()) <= 60]
-        if len(high) < 25: continue
-        yrs, pap, mk, ex = (collections.defaultdict(set), collections.defaultdict(set),
-                            collections.Counter(), {})
-        for q in high:
-            for g in set(ngrams(q["question"])):
-                yrs[g].add(q["year"]); pap[g].add(q["paper_file"])
-                mk[g] += q.get("marks") or 0
-                ex.setdefault(g, q["question"][:180])
-        cands = [g for g in yrs if len(yrs[g]) >= 3 and not looks_mojibake(g)]
-        cands.sort(key=lambda g: (-len(yrs[g]), -mk[g], -len(g.split())))
-        topics, formulas, used_t, used_f = [], [], [], []
-        for g in cands:
-            rec = dict(subject=subj, phrase=g, years=len(yrs[g]), year_list=sorted(yrs[g]),
-                       papers=len(pap[g]), marks=mk[g], example=ex[g])
-            if is_formula(g):
-                if any(g in u or u in g for u in used_f): continue
-                used_f.append(g); formulas.append(rec)
-            else:
-                if any(g in u or u in g for u in used_t): continue
-                used_t.append(g); topics.append(rec)
-        top_t = topics[:25]
-        tset = {t["phrase"] for t in top_t}
-        hit_marks = sum(q["marks"] for q in high
-                        if tset & set(ngrams(q["question"])))
-        hi_marks = sum(q["marks"] for q in high)
-        subjects[subj] = dict(
-            years=yrs_all, papers=len({q["paper_file"] for q in qs}),
-            questions=len(qs), high_q=len(high), high_marks=hi_marks,
-            repetition_index=round(hit_marks / hi_marks, 3) if hi_marks else None,
-            n_recurring_topics=len(topics), n_recurring_formulas=len(formulas))
-        all_topics += top_t; all_formulas += formulas[:15]
+    for subj, qs in group_by_subject(usable_rows(rows)).items():
+        res = analyse_subject(subj, qs)
+        if res is None: continue
+        subjects[subj] = res[0]
+        all_topics += res[1]; all_formulas += res[2]
+    return dict(subjects=subjects, topics=all_topics, formulas=all_formulas)
 
-    (HERE/"final_topics.json").write_text(json.dumps(
-        dict(subjects=subjects, topics=all_topics, formulas=all_formulas), indent=1))
+
+def main():
+    final = build_final(json.loads(CACHE.read_text()))
+    subjects, all_topics, all_formulas = final["subjects"], final["topics"], final["formulas"]
+    (HERE/"final_topics.json").write_text(json.dumps(final, indent=1))
 
     print(f"{'subject':26s} {'papers':>6s} {'Qs':>6s} {'highQ':>6s} {'rep.index':>9s}  years")
     for s, d in sorted(subjects.items(), key=lambda x: -(x[1]['repetition_index'] or 0)):

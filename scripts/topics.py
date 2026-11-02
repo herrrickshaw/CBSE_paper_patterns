@@ -12,9 +12,11 @@ Method (no hand-written topic list, so the answer isn't smuggled in by the lexic
 
 A topic that shows up in most years at high marks is a topic the board keeps re-testing.
 """
-import re, sys, json, pathlib, collections
+import logging, re, sys, json, pathlib, collections
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from parse_generic import parse_paper
+
+log = logging.getLogger(__name__)
 
 ROOT = pathlib.Path.home() / "Downloads/cbse_official/past_papers"
 CACHE = pathlib.Path(__file__).parent / "qcache.json"
@@ -82,7 +84,8 @@ def load():
         if "_zips" in str(p): continue
         try:
             qs, _, _ = parse_paper(p, subject_of(p), "past_paper", p.stem)
-        except Exception:
+        except Exception as exc:  # one unreadable PDF must not stop the batch
+            log.warning("skipping %s: %s", p.name, exc)
             continue
         y = year_of(p)
         for q in qs:
