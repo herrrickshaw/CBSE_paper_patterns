@@ -5,9 +5,9 @@
 
 
 Structural and topic-recurrence analysis of CBSE board papers — **1,955 Class XII papers**
-(2022–2026) analysed in depth, plus a **6,409-document corpus** spanning Class X, and every
-sample paper and marking scheme back to 2015-16
-covering **30,734 parsed questions**.
+(2022–2026) analysed in depth, plus Class X papers and the sample papers and marking schemes
+back to 2015-16, covering **30,734 parsed questions**. The papers themselves are CBSE's
+copyright and are **not** included here — only the code and the derived findings are.
 
 It answers one question: **do the papers keep re-testing the same material in the
 high-mark questions?**
@@ -69,9 +69,11 @@ Employability Skills block worth 10 of 50–60 marks in *every* skill paper:
 
 ## Reproducing it
 
-The question papers are © CBSE. They are published free by the board; this repository
-carries the extracted text under `corpus/` for research use, and `sources/` has every
-original URL so anything here can be verified against the source:
+The question papers are © CBSE. They are published free by the board, but this repository
+does **not** redistribute them (no PDFs, no extracted text). `sources/` lists every original
+URL, so you can download your own copies and verify anything here against the source.
+Scripts stop with a clear error if the input files are missing. A local `corpus/` directory
+is git-ignored if you want to keep your own extracted text there:
 
 ```bash
 # 1. fetch the corpus (~6 GB; needs a browser UA — cbse.gov.in 403s otherwise)
@@ -95,32 +97,23 @@ swiftc -O scripts/ocr.swift -o ocrpdf && python3 scripts/run_ocr.py
 | `pdf2md.py` | PDF → Markdown with SHA-256 provenance front-matter |
 | `ocr.swift` | macOS Vision OCR for scanned papers, two-column reading order |
 
-## Data published here
+## What is and is not in this repository
 
-**The full corpus is included** — `corpus/markdown/` holds every paper as Markdown
-(2,270 files, ~69 MB) with SHA-256 provenance front-matter, plus the parsed question
-tables. The PDFs themselves are not mirrored; each `.md` records the hash and source
-URL of the PDF it came from.
+**Not included (third-party copyright, CBSE/NCERT):** the question papers, sample papers,
+marking schemes and question banks, in PDF or as extracted Markdown/CSV. An earlier version
+of this repository carried that extracted text under `corpus/`; it has been removed from the
+current tree (it remains in Git history). `corpus/` is now git-ignored.
 
-- `corpus/markdown/past_papers/<year>/<Subject>/*.md` — 1,955 Class XII board papers, 2022–2026, main + compartment
-- `corpus/markdown_class_X/` — 1,194 **Class X** board papers, 2022–2026, main + compartment
-- `corpus/markdown_sqp_archive/` — 2,945 documents from the sample-paper archive, sessions **2015-16 → 2024-25**, of which **1,892 are marking schemes** (answer keys)
-- `corpus/markdown/sqp_ms/`, `corpus/markdown/skill_sqp_ms/` — 2025-26 sample papers and marking schemes
-- `corpus/markdown/question_banks/` — the 12 official CBSE Question Banks
-- `corpus/past_paper_questions.csv` — 30,734 parsed questions with `is_english`, marks, type
-- `corpus/questions.csv` — the 960 questions from the 32 hand-verified papers
-- `corpus/OCR_MANIFEST.json` — 572 scanned papers recovered by OCR (5.34M characters)
+**Included:** the analysis code in `scripts/`, the written findings in `analysis/`, the
+source URL lists in `sources/`, a derived knowledge graph of topics in `knowledge_graph/`,
+and the derived tables below. Two of those tables carry short excerpts of CBSE text:
+`data/recurring_topics.csv` (one example snippet of at most 180 characters per mined
+topic) and `data/answer_keys.csv` (short answer strings taken from marking schemes).
 
-**1,048 of the papers were image-only scans** (573 in the Class XII set, 416 Class X,
-59 in the sample-paper archive) — `pdftotext` returns nothing for them. macOS Vision OCR
-recovered 1,046, adding **8.9 million characters**. Across the whole 6,409-document
-corpus only **8 files** still lack substantive text; they are listed in
-`corpus/UNRECOVERABLE_TEXT.txt` and are Hindi-medium scans, which Vision cannot read
-because it ships no Devanagari model. Those 8 need re-downloading from the URLs in
-`sources/` and OCR with a Devanagari-capable engine (e.g. tesseract with `hin`).
-
-The source PDFs are not kept: every one is reconstructible from the `source_url` and
-verifiable against the `pdf_sha256` in each document's front-matter.
+About the source material (not shipped): 1,048 of the papers were image-only scans
+(573 in the Class XII set, 416 Class X, 59 in the sample-paper archive), recovered with
+macOS Vision OCR via `scripts/run_ocr.py` / `scripts/ocr.swift`; Hindi-medium scans need an
+OCR engine with a Devanagari model (e.g. tesseract with `hin`).
 
 Derived aggregates:
 
@@ -144,7 +137,6 @@ Derived aggregates:
 
 ## Licence
 
-Code: MIT. Analysis text: CC BY 4.0. The question papers under `corpus/` remain the
-intellectual property of the Central Board of Secondary Education and are reproduced
-here for research and educational use; CBSE publishes them free of charge at the URLs
-in `sources/`. If CBSE objects, the corpus directory will be removed.
+Code: MIT. Analysis text: CC BY 4.0. The question papers remain the intellectual property
+of the Central Board of Secondary Education and are not redistributed here; CBSE publishes
+them free of charge at the URLs in `sources/`.

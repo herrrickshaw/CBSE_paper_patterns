@@ -6,3 +6,7 @@ en/
 en2/
 ocrpdf
 __pycache__/
+
+# Third-party copyrighted CBSE papers / marking schemes / question banks (extracted text).
+# Never commit these: place your own downloaded copies here locally (see README).
+corpus/

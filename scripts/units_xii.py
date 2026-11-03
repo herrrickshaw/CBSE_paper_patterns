@@ -10,6 +10,8 @@ layout instead: an indented title followed by a wide gap and a mark count.
 import re, json, subprocess, pathlib, collections
 
 CUR = pathlib.Path.home()/"Downloads/cbse_official/curriculum"
+from _inputs import require_dir
+require_dir(CUR, 'CBSE curriculum PDFs', '*.pdf')
 ROW = re.compile(r'^\s{2,}([A-Z][^\d]{5,58}?)\s{2,}(\d{1,3})\s*$')
 CLS = re.compile(r'\bClass\s*[-–]?\s*(XI{1,2})\b', re.I)
 SKIP = re.compile(r'total|project work|practical|internal assessment|grand|periods|^part\s*[a-c]\s*$', re.I)
