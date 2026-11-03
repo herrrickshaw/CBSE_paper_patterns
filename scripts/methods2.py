@@ -14,6 +14,7 @@
 import re, json, sys, pathlib, collections, subprocess
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from topics2 import is_english, CACHE
+from _inputs import require_dir
 
 HERE = pathlib.Path(__file__).parent
 CUR  = pathlib.Path.home() / "Downloads/cbse_official/curriculum"
@@ -106,6 +107,7 @@ CUR_ALIAS = {
  "Geography":"Geography_SrSec","Computer Science":"Computer_Science_SrSec","English Core":"English_core_SrSec",
 }
 def blueprint_table(rows):
+    require_dir(CUR, 'CBSE curriculum PDFs', '*.pdf')
     res = {}
     for subj, cur in CUR_ALIAS.items():
         cands = sorted(CUR.glob(cur+"*.pdf"))
