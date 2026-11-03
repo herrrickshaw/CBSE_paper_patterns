@@ -5,7 +5,7 @@ graphify's own merge-graphs dedupes on exact label, so the same entity survives 
 variants: "Accountancy" / "Accountancy CBSE Class 12", "Economics" / "CBSE Class 12
 Economics". Normalise first, then merge nodes and remap every edge onto the survivor.
 """
-import json, re, pathlib, collections, sys
+import json, re, pathlib, collections
 
 BATCHES = pathlib.Path.home()/"Downloads/cbse_kg_batches"
 OUT     = pathlib.Path.home()/"Downloads/cbse_kg_topics/merged-graph-normalised.json"

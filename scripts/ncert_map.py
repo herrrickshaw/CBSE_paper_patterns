@@ -6,7 +6,7 @@ unreliable, returning body prose like 'Y ou have learnt about...').
 Then re-run the gold-set validation: does a chapter-text description beat the
 single curriculum paragraph?
 """
-import re, json, sys, pathlib, collections, subprocess
+import re, json, sys, pathlib, collections
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from topics2 import is_english, CACHE
 from ncert_units import chapter_text, SUBJ_BOOKS

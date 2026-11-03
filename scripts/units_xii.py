@@ -7,7 +7,7 @@ declared-vs-actual share. Track the Class XI / Class XII headings and keep only 
 Units carry no common prefix ("Unit", "Theme") across subjects, so match on the
 layout instead: an indented title followed by a wide gap and a mark count.
 """
-import re, json, subprocess, pathlib, collections
+import re, json, subprocess, pathlib
 
 CUR = pathlib.Path.home()/"Downloads/cbse_official/curriculum"
 ROW = re.compile(r'^\s{2,}([A-Z][^\d]{5,58}?)\s{2,}(\d{1,3})\s*$')

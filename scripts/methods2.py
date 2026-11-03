@@ -27,7 +27,6 @@ INSTRUCTION = re.compile(
 def near_duplicates(rows, min_sim=0.80):
     from sklearn.feature_extraction.text import TfidfVectorizer
     from sklearn.metrics.pairwise import cosine_similarity
-    import numpy as np
     out = []
     by = collections.defaultdict(list)
     for r in rows:

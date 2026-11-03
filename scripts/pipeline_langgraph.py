@@ -13,13 +13,15 @@ quality gate that can route work back or halt, so a bad stage fails loudly.
 Nodes are plain functions - no LLM calls, so this runs offline and deterministically.
 """
 from __future__ import annotations
-import json, re, sys, pathlib, collections
+import json, logging, sys, pathlib, collections
 from typing import TypedDict, Literal
 from langgraph.graph import StateGraph, END
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from topics2 import is_english, ngrams, CACHE
 from methods2 import bloom_of, INSTRUCTION
+
+log = logging.getLogger(__name__)
 
 class S(TypedDict, total=False):
     rows: list
@@ -127,5 +129,5 @@ if __name__ == "__main__":
         png = app.get_graph().draw_mermaid()
         pathlib.Path(__file__).parent.joinpath("pipeline.mmd").write_text(png)
         print("\nmermaid graph -> pipeline.mmd")
-    except Exception:
-        pass
+    except Exception as exc:  # diagram export is optional
+        log.debug("mermaid export skipped: %s", exc)

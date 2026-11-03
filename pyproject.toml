@@ -1,0 +1,22 @@
+[project]
+name = "cbse-paper-patterns"
+version = "0.1.0"
+description = "Structural and topic-recurrence analysis of CBSE board papers"
+requires-python = ">=3.9"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["scripts"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py39"
+extend-exclude = ["corpus", "data", "knowledge_graph"]
+
+[tool.ruff.lint]
+select = ["E9", "F", "E722", "B"]
+# Legacy one-line import style and zip() usage are kept as-is (behaviour-preserving pass).
+ignore = ["B905", "B007"]
+
+[tool.ruff.lint.per-file-ignores]
+"scripts/build_bank.py" = ["B023"]  # closure is called within the same loop iteration

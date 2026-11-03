@@ -1,26 +1,42 @@
 # CBSE paper patterns
 
-<!-- how-to-use-with-ai -->
-> **New here?** See [How to use this repo with AI (Claude, Gemini, ChatGPT)](HOW_TO_USE_WITH_AI.md) — clone it, paste it into an AI tool, and ask in plain English.
+Structural and topic-recurrence analysis of CBSE board papers: **1,955 Class XII papers** (2022-2026)
+analysed in depth, plus a **6,409-document corpus** that also spans Class X and every sample paper and
+marking scheme back to 2015-16, covering **30,734 parsed questions**. It answers one question: do the
+papers keep re-testing the same material in the high-mark questions? Outputs are CSV tables under `data/`
+and Markdown reports under `analysis/`.
 
+> Status: research-only snapshot. The question papers are (c) CBSE; the repository carries extracted text
+> and derived aggregates for research and education. Not advice for exam preparation or prediction.
 
-Structural and topic-recurrence analysis of CBSE board papers — **1,955 Class XII papers**
-(2022–2026) analysed in depth, plus a **6,409-document corpus** spanning Class X, and every
-sample paper and marking scheme back to 2015-16
-covering **30,734 parsed questions**.
+**Answer:** yes in three subjects (Accountancy, Physics, Economics); elsewhere much less than coaching-industry
+folklore suggests. See [How to use this repo with AI](HOW_TO_USE_WITH_AI.md) for a non-programmer route in.
 
-It answers one question: **do the papers keep re-testing the same material in the
-high-mark questions?**
+## What it does
+- Parses CBSE PDFs into questions with marks, type, section and MCQ options (`scripts/parse_generic.py`).
+- Mines 2-4 word recurring phrases across exam years and splits content topics from reused stem formulas.
+- Computes a per-subject repetition index (`scripts/final_report.py`).
+- Converts PDFs to Markdown with SHA-256 provenance front-matter (`scripts/pdf2md.py`) and OCRs image-only scans.
+- Builds a hand-verified 32-paper DuckDB question bank with marks reconciled to each paper's stated maximum.
+- Maps questions to NCERT/syllabus units and builds a knowledge graph (`knowledge_graph/`).
 
-Answer: yes — in three subjects. Elsewhere, much less than the coaching-industry
-folklore suggests.
-
----
+## Quick start
+```bash
+git clone https://github.com/herrrickshaw/CBSE_paper_patterns.git
+cd CBSE_paper_patterns
+python3 -m venv .venv && source .venv/bin/activate
+pip install pytest ruff            # tests only; the analysis scripts need poppler's `pdftotext`
+pytest -q
+```
+Reproducing the headline table needs the source PDFs (not mirrored here); see "Data sources". Then:
+```bash
+export CBSE_PAPERS_ROOT=~/Downloads/cbse_official/past_papers   # default location
+python3 scripts/topics2.py          # parse the archive, mine recurring phrases
+python3 scripts/final_report.py     # repetition index + content topics vs stem formulas
+```
 
 ## The repetition index
-
-Share of marks in **≥ 4-mark questions** sitting on a phrase that recurs in **≥ 3 of
-the 5 exam years**:
+Share of marks in **>= 4-mark questions** sitting on a phrase that recurs in **>= 3 of the 5 exam years**:
 
 | Subject | Papers | Questions | High-mark Qs | Repetition index |
 |---|---:|---:|---:|---:|
@@ -36,115 +52,79 @@ the 5 exam years**:
 | Biology | 62 | 1,373 | 169 | 5% |
 | English Core | 72 | 757 | 259 | 0% |
 
-**This measures lexical repetition, not conceptual repetition.** Chemistry and Biology
-score 5% because their content words vary in wording between questions, not because
-the board roams freely there. English Core scores 0% correctly — its long questions
-quote unseen passages, which by design never repeat.
-
-Only two content topics in the entire corpus recur at high marks in **4 of 5 years**:
-Physics's `electric field` and `magnetic field`.
-
-Full detail: [analysis/topic_recurrence.md](analysis/topic_recurrence.md).
-
-## Two paper architectures
-
-Skill subjects set 24–25 questions and require only 17 — choice everywhere. Academic
-subjects are "all compulsory, no overall choice". Full breakdown, including the shared
-Employability Skills block worth 10 of 50–60 marks in *every* skill paper:
+**This measures lexical repetition, not conceptual repetition.** Chemistry and Biology score 5% because their
+content words vary in wording between questions. English Core scores 0% correctly: its long questions quote
+unseen passages. Only two content topics recur at high marks in **4 of 5 years**: Physics's `electric field`
+and `magnetic field`. Detail: [analysis/topic_recurrence.md](analysis/topic_recurrence.md); paper layouts
+(skill vs academic, 10 marks of Employability Skills in every skill paper):
 [analysis/paper_structure.md](analysis/paper_structure.md).
 
-## Three traps worth knowing if you parse these papers yourself
+## How it works
+| Stage | Module | Output |
+|---|---|---|
+| PDF to text/Markdown | `pdf2md.py`, `ocr.swift` + `run_ocr.py` / `ocr_new.py` (macOS Vision) | `corpus/markdown*/` |
+| Question parsing | `parse_generic.py` (marks parsed, never assumed); `build_bank.py` + `marks_map.py` (32 verified papers) | question rows |
+| Marking schemes | `parse_ms.py`, `parse_generic.parse_marking_scheme` | `answer_keys.json` (published as `data/answer_keys.csv`) |
+| Recurrence mining | `recurrence.py` (pure helpers), `topics2.py` | `scripts/topic_report2.json` |
+| Index and topic split | `final_report.py` | `scripts/final_topics.json`; published tables in `data/*.csv` |
+| Syllabus mapping | `ncert_*.py`, `units_xii.py`, `embed_units.py`, `syllabus_match.py` | `scripts/ncert_all_final.json`, `syllabus_match.json`; published as `data/syllabus_vs_actual.csv` |
+| Pipeline / graph | `pipeline_langgraph.py`, `merge_norm.py` | `knowledge_graph/` |
 
-1. **`pdftotext` duplicates content.** CBSE reprints each question's options on the
-   facing page. Dedupe at *page* level — text-level dedupe silently eats legitimately
-   repeated Assertion–Reason option blocks.
-2. **Hindi-medium papers extract as mojibake** — `moozmb ama omo amoj`. The embedded
-   Devanagari fonts map onto Latin code points, so a Devanagari-codepoint filter does
-   **not** catch it. Gate on English function words instead. Only 54% of parsed
-   questions survive this.
-3. **Sets within one sitting are ~75% the same paper.** Counting *papers* manufactures
-   recurrence. Count distinct exam years. An early version of this analysis
-   "discovered" a recurring English Core topic that was one year's comprehension
-   passage counted three times.
+Design decisions that matter:
+1. **`pdftotext` duplicates content.** CBSE reprints each question's options on the facing page. Dedupe at
+   *page* level; text-level dedupe silently eats legitimately repeated Assertion-Reason option blocks.
+2. **Hindi-medium papers extract as mojibake.** Devanagari fonts map onto Latin code points, so gate on English
+   function words (`recurrence.is_english`), not on Devanagari codepoints. Only 54% of parsed questions survive.
+3. **Sets within one sitting are ~75% the same paper.** Recurrence counts distinct exam *years*, never papers.
 
-## Reproducing it
+## Repository layout
+| Path | Purpose |
+|---|---|
+| `scripts/` | parsers, miners, OCR, syllabus mapping (script names and CLIs unchanged) |
+| `tests/` | pytest characterisation tests on synthetic text and rows |
+| `analysis/` | Markdown reports |
+| `data/` | derived aggregates (`subject_repetition.csv`, `recurring_topics.csv`, `question_type_mix.csv`, `paper_structures.csv`, `syllabus_vs_actual.csv`, `answer_keys.csv`) and `SCHEMA.md` |
+| `corpus/` | extracted Markdown, `past_paper_questions.csv` (30,734 questions), `questions.csv` (960), OCR manifests |
+| `sources/` | every source URL list |
+| `knowledge_graph/` | merged graphify graph and notes |
 
-The question papers are © CBSE. They are published free by the board; this repository
-carries the extracted text under `corpus/` for research use, and `sources/` has every
-original URL so anything here can be verified against the source:
+## Data sources
+| Source | What is taken | Access route | Licence / caveat |
+|---|---|---|---|
+| cbse.gov.in past papers, sample papers, marking schemes, question banks | PDFs, converted to text | URLs in `sources/SOURCE_URLS_past_papers.txt` (762 zips), `SOURCE_URLS_sqp_ms_qb.txt`, `sqp_archive_new.txt`, `zip_urls_*.txt`; needs a browser User-Agent (403 otherwise) | (c) CBSE; free to download |
+| ncert.nic.in textbooks | chapter text for unit mapping | `sources/SOURCE_URLS_ncert_xii.txt` | (c) NCERT |
 
 ```bash
-# 1. fetch the corpus (~6 GB; needs a browser UA — cbse.gov.in 403s otherwise)
 while read u; do curl -sS -A "Mozilla/5.0" -O "$u"; done < sources/SOURCE_URLS_past_papers.txt
+```
+1,048 papers were image-only scans (573 Class XII, 416 Class X, 59 sample archive); macOS Vision OCR recovered
+1,046 (8.9 million characters). Eight Hindi-medium files still lack text (`corpus/UNRECOVERABLE_TEXT.txt`);
+they need a Devanagari-capable engine such as tesseract with `hin`. Source PDFs are not kept; each Markdown
+file records `pdf_sha256` and `source_url`.
 
-# 2. parse to a DuckDB question bank
-python3 scripts/build_bank.py       # the 32 hand-verified papers
-python3 scripts/topics2.py          # parse the full archive, mine recurring phrases
-python3 scripts/final_report.py     # split content topics from stem formulas
+## Configuration
+| Variable | Default | Meaning |
+|---|---|---|
+| `CBSE_PAPERS_ROOT` | `~/Downloads/cbse_official/past_papers` | where `topics2.py` looks for PDFs when `scripts/qcache_all.json` is absent |
+| `WORKDIR` | `.` | `build_bank.py` reads text extracts from `$WORKDIR/en2/` |
 
-# 3. optional: OCR the ~25% of papers that are image-only scans
-swiftc -O scripts/ocr.swift -o ocrpdf && python3 scripts/run_ocr.py
+No credentials are needed or committed. `scripts/qcache_all.json` is a gitignored parse cache.
+
+## Testing
+```bash
+pytest -q          # 18 tests, no network, no paper content
+ruff check scripts tests
 ```
 
-| Script | Does |
-|---|---|
-| `parse_generic.py` | PDF → questions; page-level reprint dedupe, option/marks extraction |
-| `build_bank.py` + `marks_map.py` | the 32-paper bank, marks taken from each paper's own General Instructions and checksummed against its stated maximum |
-| `topics2.py` | English gate, subject canonicalisation, n-gram topic mining by exam year |
-| `final_report.py` | separates content topics from reused stem formulas |
-| `pdf2md.py` | PDF → Markdown with SHA-256 provenance front-matter |
-| `ocr.swift` | macOS Vision OCR for scanned papers, two-column reading order |
-
-## Data published here
-
-**The full corpus is included** — `corpus/markdown/` holds every paper as Markdown
-(2,270 files, ~69 MB) with SHA-256 provenance front-matter, plus the parsed question
-tables. The PDFs themselves are not mirrored; each `.md` records the hash and source
-URL of the PDF it came from.
-
-- `corpus/markdown/past_papers/<year>/<Subject>/*.md` — 1,955 Class XII board papers, 2022–2026, main + compartment
-- `corpus/markdown_class_X/` — 1,194 **Class X** board papers, 2022–2026, main + compartment
-- `corpus/markdown_sqp_archive/` — 2,945 documents from the sample-paper archive, sessions **2015-16 → 2024-25**, of which **1,892 are marking schemes** (answer keys)
-- `corpus/markdown/sqp_ms/`, `corpus/markdown/skill_sqp_ms/` — 2025-26 sample papers and marking schemes
-- `corpus/markdown/question_banks/` — the 12 official CBSE Question Banks
-- `corpus/past_paper_questions.csv` — 30,734 parsed questions with `is_english`, marks, type
-- `corpus/questions.csv` — the 960 questions from the 32 hand-verified papers
-- `corpus/OCR_MANIFEST.json` — 572 scanned papers recovered by OCR (5.34M characters)
-
-**1,048 of the papers were image-only scans** (573 in the Class XII set, 416 Class X,
-59 in the sample-paper archive) — `pdftotext` returns nothing for them. macOS Vision OCR
-recovered 1,046, adding **8.9 million characters**. Across the whole 6,409-document
-corpus only **8 files** still lack substantive text; they are listed in
-`corpus/UNRECOVERABLE_TEXT.txt` and are Hindi-medium scans, which Vision cannot read
-because it ships no Devanagari model. Those 8 need re-downloading from the URLs in
-`sources/` and OCR with a Devanagari-capable engine (e.g. tesseract with `hin`).
-
-The source PDFs are not kept: every one is reconstructible from the `source_url` and
-verifiable against the `pdf_sha256` in each document's front-matter.
-
-Derived aggregates:
-
-- `data/subject_repetition.csv` — the index table above
-- `data/recurring_topics.csv` — mined topic phrases and stem formulas, with year lists and marks
-- `data/question_type_mix.csv` — question-type counts per subject
-- `data/paper_structures.csv` — per-paper section structure and marks reconciliation
-- `data/SCHEMA.md` — the local question-bank schema
-
-## Caveats
-
-- Marks in the full archive are regex-parsed and approximate. Only the 32-paper
-  `questions` table has marks verified against each paper's stated maximum (all 32
-  reconcile exactly).
-- Topics are **mined, not hand-listed** — 2–4 word n-grams recurring across ≥3 exam
-  years — so the conclusion isn't smuggled in via a curated lexicon. The cost is that
-  generic phrasing sometimes surfaces; `final_report.py` separates those into a
+## Limitations and known issues
+- Marks in the full archive are regex-parsed and approximate; only the 32-paper `questions` table is verified
+  against each paper's stated maximum (all 32 reconcile).
+- Topics are mined, not hand-listed, so generic phrasing sometimes surfaces; `final_report.py` moves it into a
   "stem formula" bucket.
-- macOS Vision has no Devanagari model, so OCR recovers the English column of bilingual
-  papers and not the Hindi one.
+- macOS Vision has no Devanagari model, so bilingual papers recover the English column only.
+- Several scripts hard-code `~/Downloads/...` input paths and the OCR step is macOS-only.
 
 ## Licence
-
-Code: MIT. Analysis text: CC BY 4.0. The question papers under `corpus/` remain the
-intellectual property of the Central Board of Secondary Education and are reproduced
-here for research and educational use; CBSE publishes them free of charge at the URLs
-in `sources/`. If CBSE objects, the corpus directory will be removed.
+Code: MIT (see `LICENSE`). Analysis text: CC BY 4.0. The question papers under `corpus/` remain the property of
+the Central Board of Secondary Education, reproduced for research and educational use; if CBSE objects, the
+corpus directory will be removed.
