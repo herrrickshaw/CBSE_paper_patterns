@@ -16,6 +16,7 @@ Fixes over v1, each of which was inflating or corrupting the answer:
 import re, sys, json, pathlib, collections
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from parse_generic import parse_paper
+from _inputs import require_dir
 
 ROOT = pathlib.Path.home() / "Downloads/cbse_official/past_papers"
 HERE = pathlib.Path(__file__).parent
@@ -82,6 +83,7 @@ def ngrams(text, lo=2, hi=4):
             yield " ".join(g)
 
 def build_cache():
+    require_dir(ROOT, 'CBSE past-paper PDFs', '*.pdf')
     rows, pdfs = [], [p for p in sorted(ROOT.rglob("*.pdf")) if "_zips" not in str(p)]
     for i, p in enumerate(pdfs):
         try:

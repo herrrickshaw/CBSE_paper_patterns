@@ -15,6 +15,7 @@ A topic that shows up in most years at high marks is a topic the board keeps re-
 import re, sys, json, pathlib, collections, subprocess
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from parse_generic import parse_paper
+from _inputs import require_dir
 
 ROOT = pathlib.Path.home() / "Downloads/cbse_official/past_papers"
 CACHE = pathlib.Path(__file__).parent / "qcache.json"
@@ -76,6 +77,7 @@ def year_of(path):
 def load():
     if CACHE.exists():
         return json.loads(CACHE.read_text())
+    require_dir(ROOT, 'CBSE past-paper PDFs', '*.pdf')
     rows = []
     pdfs = sorted(ROOT.rglob("*.pdf"))
     for i, p in enumerate(pdfs):

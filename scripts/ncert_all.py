@@ -9,6 +9,7 @@ adjacent units near-identical descriptions and manufactures spurious gaps.
 import re, json, sys, pathlib, collections
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from topics2 import is_english, CACHE
+from _inputs import require_dir
 from embed_units import units, DROP
 
 HERE = pathlib.Path(__file__).parent
@@ -22,6 +23,7 @@ BOOKS = {                       # subject -> NCERT book codes used at Class XII
  "Psychology":   ["lepy1"],
 }
 def chapters(codes):
+    require_dir(MD, 'NCERT chapter markdown', '*.md')
     out=[]
     for c in codes:
         for p in sorted(MD.glob(f"{c}*.md")):

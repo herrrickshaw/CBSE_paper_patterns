@@ -15,6 +15,7 @@ Model: all-MiniLM-L6-v2 (local, no API).
 import re, json, sys, pathlib, collections, subprocess
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from topics2 import is_english, CACHE
+from _inputs import require_dir
 
 HERE = pathlib.Path(__file__).parent
 CUR  = pathlib.Path.home()/"Downloads/cbse_official/curriculum"
@@ -26,6 +27,7 @@ units["Accountancy"] = [("Accounting for Partnership Firms",36),("Accounting for
 DROP = re.compile(r'write up|viva|spotting|practical|project|reading comprehension|writing skill', re.I)
 
 def curriculum_text(subject):
+    require_dir(CUR, 'CBSE curriculum PDFs', '*.pdf')
     for p in CUR.glob("*.pdf"):
         if re.search(r'Hi_|Hindi|_hi', p.name): continue
         stem = re.split(r'_SrSec', p.name)[0].replace('_',' ').lower()

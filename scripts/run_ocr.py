@@ -1,8 +1,10 @@
 import json, os, pathlib, subprocess, hashlib, sys
 from concurrent.futures import ThreadPoolExecutor
 HOME=pathlib.Path.home()
+from _inputs import require_dir
 MD=HOME/"Downloads/cbse_md"
 OCR=pathlib.Path(os.environ.get("OCRPDF","./ocrpdf"))  # built from ocr.swift
+require_dir(MD, 'CBSE markdown/PDF working tree', '*.txt')
 files=[pathlib.Path(l) for l in (MD/"KEPT_IMAGE_ONLY_PDFS.txt").read_text().splitlines() if l.strip()]
 files=[f for f in files if f.exists()]
 roots={HOME/"Downloads/cbse_official":"official"}

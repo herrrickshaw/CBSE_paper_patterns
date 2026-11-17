@@ -8,6 +8,7 @@ So extract three separate things and report coverage for each, rather than
 pretending a single "answer key" exists.
 """
 import re, json, pathlib, collections
+from _inputs import require_dir
 
 MD = pathlib.Path.home()/"Downloads/cbse_md/sqp_archive"
 OUT = pathlib.Path(__file__).parent
@@ -56,6 +57,7 @@ def parse(p):
     marks = len(MARKTOK.findall(body)) + len(MARKSUM.findall(body))
     return keys, blocks, marks
 
+require_dir(MD, 'marking-scheme markdown (sqp_archive)', '*.md')
 files = [p for p in MD.rglob("*.md") if re.search(r'(^|[_-])MS([_.-]|$)', p.name, re.I)]
 rows, stat = [], collections.Counter()
 for p in files:
