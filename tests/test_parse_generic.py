@@ -359,3 +359,12 @@ def test_parse_marking_scheme_keeps_reprinted_pages(monkeypatch, tmp_path):
 def test_parse_marking_scheme_lowercase_letter_key(monkeypatch, tmp_path):
     fake_pdftotext(monkeypatch, "1. (a)\n2. (b)")
     assert pg.parse_marking_scheme(tmp_path / "ms.pdf") == {1: "A", 2: "B"}
+
+
+def test_options_three_markers_but_two_distinct_letters_is_none():
+    assert pg.options(["(A) x", "(B) y", "(A) z"]) is None
+
+
+def test_marks_of_product_boundary_is_twelve():
+    assert pg.marks_of(["something 12 x 1 = 12"]) == (12, "parsed")
+    assert pg.marks_of(["something 13 x 1 = 13"]) == (None, None)
