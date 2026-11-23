@@ -1,0 +1,15 @@
+[run]
+source = scripts
+omit =
+    tests/*
+    */conftest.py
+    # OCR drivers: need the Swift `ocrpdf` binary and a local PDF corpus; ocr_new.py also hardcodes a scratch path
+    scripts/ocr_new.py
+    scripts/run_ocr.py
+    # sentence-transformers (MPS) embedding pipelines: need a model download and a GPU device
+    scripts/ncert_map.py
+
+[report]
+exclude_lines =
+    pragma: no cover
+    if __name__ == .__main__.:
